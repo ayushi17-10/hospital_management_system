@@ -1,0 +1,1001 @@
+Patient ID,Patient Name,Gender,Age,Admission Date,Discharge Date,Department,Doctor Assigned,Diagnosis,Medicine Prescribed,Treatment Cost,Room Type,Payment Method,Discharge Status,Nurse Assigned,Follow-up Required,Days Admitted
+P0001,Sheila Boyle,Male,77,2024-10-17,2024-10-30,Neurology,Teresa Bauer,Asthma,Metformin,62860.28,ICU,Online,Deceased,Samantha Gregory,No,13
+P0002,Raymond White,Female,56,2023-12-09,2023-12-11,Cardiology,Christopher Joseph,Diabetes,Amoxicillin,91976.48,General,Insurance,Deceased,Andrew Warren,No,2
+P0003,Connie Vasquez,Male,18,2023-09-23,2023-10-07,Orthopedics,Jeffrey Donovan,Diabetes,Metformin,41219.07,General,Online,Recovered,Crystal Miranda,No,14
+P0004,Blake Moody,Male,55,2024-04-24,2024-05-08,Oncology,Jennifer Perry,Flu,Metformin,88608.89,Private,Cash,Referred,Jean Benson,No,14
+P0005,Nicholas Powell,Male,66,2024-04-17,2024-04-21,Neurology,Jason Preston,Fracture,Paracetamol,13538.2,General,Online,Recovered,Charles Oneill,No,4
+P0006,Autumn Hunter,Female,65,2025-01-09,2025-01-14,General Medicine,Rebecca Munoz,Cancer,Paracetamol,97225.93,General,Online,Referred,Brian Mendoza,No,5
+P0007,Stephanie Robbins,Male,80,2024-10-12,2024-10-19,Cardiology,Cheryl Ward,Hypertension,Amoxicillin,70180.59,General,Cash,Deceased,Jocelyn Rhodes,Yes,7
+P0008,Bailey Davis,Male,67,2025-01-18,2025-02-02,Pediatrics,Carrie Singleton,Flu,Metformin,70524.61,Private,Online,Deceased,Michael Cervantes,Yes,15
+P0009,Traci Scott,Female,39,2025-02-24,2025-03-06,Oncology,Jonathan Galvan,Asthma,Amoxicillin,8778.32,General,Cash,Referred,Gloria Elliott,Yes,10
+P0010,Molly Knight,Male,71,2023-11-08,2023-11-12,Pediatrics,Jeremy Oconnell,Migraine,Atorvastatin,40879.53,Private,Online,Recovered,Kristin Williams,No,4
+P0011,Thomas Diaz,Other,46,2023-11-17,2023-11-25,General Medicine,Dana Clark,Hypertension,Metformin,22876.37,ICU,Insurance,Deceased,Robert Burton,No,8
+P0012,Mrs. Alexandra Torres,Male,88,2024-10-02,2024-10-13,Oncology,Catherine Thompson,Fracture,Omeprazole,50497.9,ICU,Online,Recovered,Tiffany Jimenez,Yes,11
+P0013,Joseph Bell,Male,23,2023-06-27,2023-07-05,Orthopedics,Stephanie Salas,Cancer,Paracetamol,91471.69,Private,Online,Deceased,Daniel Little,Yes,8
+P0014,Kelly Rivera,Other,7,2025-05-28,2025-06-06,Cardiology,Tiffany Thomas,Asthma,Atorvastatin,16339.11,General,Cash,Deceased,Amanda Williams,No,9
+P0015,Darren Chang,Female,35,2023-10-08,2023-10-10,Cardiology,Robert Reyes,Migraine,Metformin,52567.7,Private,Cash,Referred,Jacqueline Acosta,No,2
+P0016,Jacob Lopez,Male,81,2024-09-22,2024-10-05,Neurology,Bradley Beasley,Asthma,Metformin,44402.63,General,Online,Deceased,Mark Yates,Yes,13
+P0017,Brandon Griffin,Female,74,2025-03-25,2025-03-26,Oncology,William Martinez,Hypertension,Omeprazole,74217.4,ICU,Cash,Recovered,Desiree Walters,Yes,1
+P0018,Kimberly Cruz,Male,33,2024-10-20,2024-10-22,Neurology,Jodi Murray,Flu,Metformin,6536.11,Private,Online,Deceased,Joseph Rowland,Yes,2
+P0019,Joseph Ferrell,Male,34,2025-04-22,2025-05-03,Pediatrics,Tammy Mccarty,Flu,Omeprazole,5581.61,Private,Insurance,Recovered,Philip Booth,Yes,11
+P0020,Savannah Turner,Male,21,2023-07-13,2023-07-28,Cardiology,Amy Harris,Fracture,Amoxicillin,38794.26,ICU,Insurance,Referred,Matthew Miller,No,15
+P0021,April Meyer,Male,43,2024-04-11,2024-04-22,Neurology,Adam Ramirez,Cancer,Metformin,70586.85,General,Online,Recovered,Michael Ramsey,No,11
+P0022,Kimberly Frank,Female,2,2025-04-02,2025-04-06,Orthopedics,Katrina Smith,Diabetes,Paracetamol,28854.65,General,Cash,Deceased,Douglas Martinez,Yes,4
+P0023,Robert Lambert,Other,7,2023-10-25,2023-11-05,General Medicine,Charles Thompson,Flu,Omeprazole,8029.93,ICU,Online,Recovered,Joyce Douglas,Yes,11
+P0024,Veronica Webster,Female,65,2024-08-27,2024-09-01,General Medicine,Gina Cuevas,Cancer,Paracetamol,10235.63,ICU,Online,Referred,Brent Pace,Yes,5
+P0025,Corey Benton,Female,81,2023-09-26,2023-10-10,Pediatrics,Jerry Allen,Cancer,Paracetamol,88676.8,Private,Insurance,Referred,Megan Rios,No,14
+P0026,Jennifer Tapia,Other,21,2025-02-20,2025-03-04,Neurology,Kimberly Bernard,Fracture,Metformin,59464.91,ICU,Insurance,Recovered,Melissa Griffin,Yes,12
+P0027,Jacqueline Livingston,Male,37,2024-12-24,2025-01-05,Orthopedics,Nicole Torres,Diabetes,Omeprazole,49206.2,Private,Insurance,Recovered,Jack Manning,Yes,12
+P0028,Jared Ballard,Female,10,2024-06-16,2024-06-23,Pediatrics,Michael Snyder,Migraine,Atorvastatin,52035.99,ICU,Online,Recovered,Stephanie Collins,Yes,7
+P0029,Nicholas Davis,Male,32,2024-07-01,2024-07-05,Orthopedics,Lauren Smith,Flu,Omeprazole,75234.12,General,Online,Deceased,Jonathan Reyes,Yes,4
+P0030,James Camacho,Male,77,2024-06-20,2024-06-22,Orthopedics,Jennifer Hill,Diabetes,Atorvastatin,17624.91,General,Online,Recovered,Susan Bryant,No,2
+P0031,Daniel Roberts,Female,5,2024-03-27,2024-03-28,Neurology,Jennifer Pierce,Diabetes,Paracetamol,35052.78,General,Online,Recovered,Juan Brown,No,1
+P0032,John Robinson,Female,37,2025-02-17,2025-02-20,Orthopedics,Robert Davis,Flu,Amoxicillin,44751.33,ICU,Cash,Deceased,Amanda Walker,No,3
+P0033,Lisa Miller,Other,44,2024-07-03,2024-07-16,Orthopedics,Stephen Smith,Asthma,Metformin,32863.87,General,Online,Recovered,Tiffany Frost,No,13
+P0034,Debra Phillips,Male,14,2024-03-17,2024-03-26,Pediatrics,Jeffrey Matthews,Diabetes,Metformin,57077.52,ICU,Cash,Deceased,Wendy Hunter,No,9
+P0035,Amber Bates,Other,85,2023-12-31,2024-01-13,Neurology,Peter Miller,Diabetes,Atorvastatin,70823.14,Private,Insurance,Referred,Aaron Stevenson,No,13
+P0036,David Hicks,Other,22,2025-02-03,2025-02-13,Neurology,John Vega,Diabetes,Amoxicillin,97362.96,ICU,Online,Referred,Gregory Wheeler,Yes,10
+P0037,Jennifer Davidson,Other,26,2025-01-13,2025-01-27,Neurology,Jane Moreno,Fracture,Metformin,79660.04,ICU,Online,Deceased,Melissa Baldwin,No,14
+P0038,Thomas Hatfield,Female,87,2023-12-06,2023-12-10,General Medicine,Diamond Rivas,Migraine,Amoxicillin,60422.67,Private,Cash,Deceased,Lauren Nelson,No,4
+P0039,Melissa Clark,Male,69,2024-05-04,2024-05-12,Orthopedics,Rebecca Jones,Migraine,Metformin,52890.1,General,Cash,Recovered,Lori Mcintyre,Yes,8
+P0040,Michelle Huffman,Female,84,2025-01-12,2025-01-13,Oncology,Mark Mclean,Fracture,Metformin,94383.09,General,Cash,Deceased,Allison Hunter,Yes,1
+P0041,Roberta Beck,Male,62,2024-04-01,2024-04-10,Neurology,Daniel Romero,Cancer,Paracetamol,82437.05,Private,Insurance,Recovered,Philip Jones,Yes,9
+P0042,Randy Smith,Other,88,2023-07-23,2023-07-29,Pediatrics,Misty James,Cancer,Amoxicillin,15054.53,Private,Insurance,Recovered,Matthew Ford,Yes,6
+P0043,Shannon Martinez,Male,86,2024-05-15,2024-05-28,General Medicine,Michelle Smith,Fracture,Omeprazole,61412.07,Private,Online,Recovered,Cynthia Baker,Yes,13
+P0044,Matthew Rogers DDS,Female,20,2024-08-20,2024-08-31,Orthopedics,Chad Ball,Diabetes,Atorvastatin,45629.0,Private,Cash,Recovered,Stephanie Skinner,No,11
+P0045,Daniel Garcia,Male,88,2024-06-30,2024-07-11,Pediatrics,Shaun Elliott,Hypertension,Metformin,45446.26,ICU,Cash,Referred,Charles Leon,Yes,11
+P0046,Brandi Hill,Male,51,2025-02-14,2025-02-24,General Medicine,Sarah Murphy,Migraine,Omeprazole,21591.08,General,Insurance,Deceased,Marie Barnett,Yes,10
+P0047,Carrie Cruz,Female,46,2023-08-17,2023-08-20,Neurology,Angela Berg,Migraine,Omeprazole,56485.36,Private,Insurance,Referred,Michelle Miller,No,3
+P0048,Joseph Herrera,Other,64,2024-06-06,2024-06-09,Neurology,Jessica Moreno,Migraine,Omeprazole,82117.92,Private,Online,Referred,Thomas Jones,No,3
+P0049,Ryan Hunter,Female,12,2023-10-15,2023-10-30,Cardiology,Kathryn Garcia,Fracture,Amoxicillin,86157.98,Private,Online,Recovered,Evelyn Luna,No,15
+P0050,Tanner Morrow,Male,71,2025-05-01,2025-05-08,Pediatrics,Brooke Weaver,Diabetes,Metformin,2202.78,Private,Cash,Referred,Derek Williams,Yes,7
+P0051,Zachary Hines,Other,2,2024-06-08,2024-06-19,Orthopedics,Hayley Cummings,Asthma,Paracetamol,47595.11,General,Online,Referred,Luis Morgan,No,11
+P0052,Alexis Gates,Other,77,2024-09-24,2024-09-25,Oncology,Karen Vargas,Migraine,Paracetamol,46188.16,General,Insurance,Deceased,Mary Wilson,Yes,1
+P0053,Matthew Ortega,Other,22,2025-02-16,2025-03-01,Oncology,Michelle Jones,Flu,Amoxicillin,90388.2,Private,Online,Deceased,Kelly Holder,No,13
+P0054,Tabitha Chavez,Other,54,2025-03-03,2025-03-18,Cardiology,Amy Lewis,Cancer,Omeprazole,73772.69,General,Insurance,Recovered,Bradley Williamson,No,15
+P0055,Pamela Jones MD,Other,79,2024-11-20,2024-12-01,Oncology,Carol Anderson,Cancer,Metformin,56703.74,Private,Insurance,Referred,Michael Morgan,No,11
+P0056,Cassidy Knapp,Female,1,2023-06-19,2023-06-23,Oncology,Suzanne Cox,Cancer,Atorvastatin,99593.36,ICU,Insurance,Recovered,Matthew Zuniga,No,4
+P0057,Nicole Hall,Male,36,2023-06-16,2023-06-21,Cardiology,David Warren,Diabetes,Amoxicillin,45816.4,ICU,Insurance,Referred,Kevin Welch,Yes,5
+P0058,Jimmy Reese,Male,53,2024-08-11,2024-08-22,General Medicine,Miranda Garza,Flu,Omeprazole,69697.72,Private,Online,Referred,Robert Brown,Yes,11
+P0059,Melissa Gibbs,Other,88,2025-03-18,2025-03-28,Oncology,Max Schwartz,Migraine,Amoxicillin,7311.02,Private,Insurance,Recovered,Amanda Murphy,Yes,10
+P0060,Autumn Cooper,Female,75,2024-03-09,2024-03-15,Cardiology,Maxwell Lyons,Migraine,Atorvastatin,95290.03,ICU,Online,Deceased,Michelle Parks,No,6
+P0061,Robert Lee,Male,11,2024-03-14,2024-03-19,Orthopedics,Alan Hanson,Diabetes,Amoxicillin,25977.94,Private,Online,Deceased,Bryan Roberts,No,5
+P0062,Jonathan Bennett,Female,27,2024-08-05,2024-08-14,Cardiology,Barry Keller,Cancer,Metformin,51074.75,ICU,Cash,Deceased,Carol Vasquez,Yes,9
+P0063,Dr. Hayley Mcconnell,Female,51,2024-12-25,2024-12-27,Pediatrics,Maria Griffin,Fracture,Metformin,97891.24,ICU,Cash,Deceased,Christopher Rodriguez,Yes,2
+P0064,Regina Salazar,Male,63,2024-09-19,2024-09-24,Oncology,Jill Stewart,Hypertension,Amoxicillin,16355.27,Private,Online,Referred,Nicole Rowland,No,5
+P0065,James Tucker,Female,14,2023-11-06,2023-11-19,Neurology,Lisa Hernandez,Flu,Metformin,59240.4,Private,Insurance,Deceased,Robert Jones,No,13
+P0066,Shawn Ward,Female,69,2023-08-24,2023-09-08,Oncology,Eric Luna,Fracture,Omeprazole,47366.96,ICU,Cash,Deceased,Amy Howard,No,15
+P0067,Charlotte Martin,Male,80,2023-12-09,2023-12-15,Oncology,Howard Jackson,Fracture,Paracetamol,28229.89,General,Insurance,Recovered,Deborah Douglas,Yes,6
+P0068,Joshua Rowe,Other,79,2025-05-09,2025-05-17,Neurology,Ronald Vaughn,Diabetes,Metformin,63456.27,Private,Online,Deceased,Kylie Moore,Yes,8
+P0069,Dominic Lewis,Female,53,2024-04-10,2024-04-20,Neurology,Scott Farley,Asthma,Omeprazole,33934.52,General,Online,Deceased,John Weaver,No,10
+P0070,Adrian Cunningham,Female,64,2024-07-08,2024-07-18,Oncology,Renee Clay,Flu,Omeprazole,11025.07,ICU,Insurance,Deceased,Sandra Mckenzie,Yes,10
+P0071,Robert Daniel,Other,65,2025-02-11,2025-02-19,Orthopedics,Sarah Gomez,Diabetes,Metformin,57166.25,General,Cash,Referred,Adam Pearson,No,8
+P0072,Amy Fernandez,Male,32,2023-07-16,2023-07-30,Neurology,Lisa Thomas,Cancer,Metformin,26578.16,Private,Insurance,Recovered,Emily Willis,Yes,14
+P0073,Matthew Castillo,Female,18,2024-09-22,2024-10-05,Neurology,Michael Diaz,Flu,Omeprazole,56189.37,General,Online,Deceased,Tyler Carlson,No,13
+P0074,Casey Turner,Other,62,2023-07-14,2023-07-27,Orthopedics,Martha Rodriguez,Cancer,Amoxicillin,30391.28,Private,Online,Referred,Kevin Strong,Yes,13
+P0075,Alexis Hill,Female,31,2024-04-24,2024-05-01,Cardiology,Charles Christensen,Flu,Omeprazole,97886.74,Private,Insurance,Deceased,Steven Fields,Yes,7
+P0076,Wanda Hall,Female,27,2025-02-06,2025-02-07,Pediatrics,Edward Anderson,Fracture,Metformin,78518.9,General,Cash,Recovered,Megan Garcia MD,No,1
+P0077,Timothy Adams,Female,86,2024-07-17,2024-07-26,Orthopedics,Jennifer Peterson,Cancer,Omeprazole,49968.29,ICU,Online,Referred,Philip Hernandez,Yes,9
+P0078,Jill Mora,Male,8,2024-03-22,2024-03-28,Pediatrics,Garrett Williams,Fracture,Paracetamol,87027.55,ICU,Insurance,Referred,Ruth Carroll,No,6
+P0079,Donna Lopez,Female,44,2024-07-03,2024-07-08,Neurology,John Williams,Diabetes,Metformin,3642.17,ICU,Insurance,Deceased,Christina Andrews,Yes,5
+P0080,Thomas Baker,Male,84,2023-12-06,2023-12-09,Cardiology,Shawn Reynolds,Diabetes,Amoxicillin,2540.54,General,Cash,Deceased,Michael Wells,Yes,3
+P0081,Tyler Simpson,Other,84,2024-02-23,2024-03-04,General Medicine,Cheyenne Walter,Hypertension,Omeprazole,59148.78,General,Online,Deceased,Carol Long,No,10
+P0082,Chelsea Diaz,Female,66,2023-08-10,2023-08-16,Orthopedics,Adam Pierce,Flu,Omeprazole,75412.28,Private,Cash,Referred,Margaret Wallace,No,6
+P0083,Daniel Jarvis,Other,38,2024-02-21,2024-02-25,Orthopedics,Amanda Carroll,Fracture,Paracetamol,74056.67,Private,Insurance,Recovered,William Curry,No,4
+P0084,Daniel Bentley,Male,20,2024-06-16,2024-07-01,Oncology,Michael Hughes,Cancer,Omeprazole,29428.06,ICU,Online,Recovered,Jennifer Snyder,No,15
+P0085,Steven Flores,Female,84,2025-05-20,2025-05-27,Orthopedics,Christopher Johnson,Cancer,Omeprazole,14447.27,Private,Insurance,Deceased,Marcus Williams,No,7
+P0086,Lori Scott,Other,68,2024-02-08,2024-02-10,General Medicine,Brittany Fitzpatrick,Hypertension,Metformin,64247.52,Private,Online,Recovered,Robin Lee,No,2
+P0087,Stephanie Lucas,Female,85,2024-09-09,2024-09-10,Cardiology,Brett Vazquez,Fracture,Paracetamol,49039.68,General,Insurance,Deceased,Ricardo Fleming,Yes,1
+P0088,Phillip Nunez,Female,63,2024-01-01,2024-01-03,General Medicine,Jason Johnson,Hypertension,Paracetamol,27157.43,Private,Insurance,Referred,Michael Sosa,Yes,2
+P0089,Ashley Carpenter,Male,45,2023-07-31,2023-08-02,Oncology,Michael Jenkins,Migraine,Omeprazole,50955.27,Private,Cash,Referred,Richard Cain,Yes,2
+P0090,James Hunt,Female,55,2024-01-23,2024-02-07,Pediatrics,Norman Le,Diabetes,Amoxicillin,2906.03,General,Insurance,Referred,Lindsay Hudson,No,15
+P0091,Cynthia Chambers,Male,25,2024-06-29,2024-07-05,General Medicine,Jacob Carney,Flu,Atorvastatin,31774.39,ICU,Insurance,Recovered,Heather Holland,No,6
+P0092,Heather Ortega,Male,49,2024-08-01,2024-08-15,Pediatrics,Leonard Duncan,Cancer,Omeprazole,11104.11,ICU,Online,Deceased,Dana Greene,Yes,14
+P0093,Austin Jones,Female,21,2023-08-04,2023-08-15,Pediatrics,Tracy Moore,Fracture,Amoxicillin,38625.46,Private,Cash,Recovered,April Davis,No,11
+P0094,Douglas Olsen,Male,54,2024-12-10,2024-12-17,Pediatrics,Lisa Gutierrez,Asthma,Paracetamol,93760.89,General,Insurance,Deceased,Virginia Garcia,Yes,7
+P0095,Sharon White,Other,21,2023-06-20,2023-06-28,Cardiology,Benjamin Randall,Diabetes,Atorvastatin,78813.99,General,Online,Recovered,Mark Berger,No,8
+P0096,Lori Soto,Male,69,2023-08-26,2023-09-03,Neurology,Christopher Coleman,Asthma,Amoxicillin,96864.58,General,Online,Referred,Samantha Sandoval,Yes,8
+P0097,Meagan Miller,Other,37,2023-08-02,2023-08-05,Cardiology,Jared Martinez,Asthma,Omeprazole,90669.6,General,Cash,Recovered,Tara Perry,Yes,3
+P0098,Shannon Cook,Male,29,2024-09-27,2024-10-06,Pediatrics,Alicia Allen,Asthma,Paracetamol,36919.2,Private,Insurance,Recovered,Stacey Randall,Yes,9
+P0099,Sarah Nichols,Other,8,2025-06-06,2025-06-15,General Medicine,Katherine Gray,Flu,Metformin,61804.44,Private,Online,Recovered,Tina Hansen,Yes,9
+P0100,Dillon Watts,Female,30,2025-05-21,2025-05-26,Neurology,Melissa Nguyen,Diabetes,Omeprazole,59698.92,ICU,Online,Recovered,Ashley Hernandez,No,5
+P0101,Deborah Morgan,Other,80,2024-03-04,2024-03-09,Neurology,Jennifer Burnett,Cancer,Amoxicillin,61169.21,General,Online,Referred,William Edwards,Yes,5
+P0102,Parker King,Female,39,2025-06-09,2025-06-15,Orthopedics,Victoria Jones,Asthma,Omeprazole,49184.08,Private,Insurance,Referred,Joseph Robinson,No,6
+P0103,Jose Raymond,Male,86,2023-07-03,2023-07-06,Pediatrics,Barbara Guzman,Asthma,Metformin,77705.41,Private,Online,Referred,Laura Knight,Yes,3
+P0104,Gerald Taylor,Female,9,2024-12-09,2024-12-11,Cardiology,Dawn Flores,Hypertension,Metformin,74273.11,ICU,Online,Deceased,Sara Hernandez,Yes,2
+P0105,Jennifer Davis,Male,11,2024-11-14,2024-11-15,General Medicine,Brandon Wright,Hypertension,Amoxicillin,17712.61,Private,Cash,Deceased,Nicole Wright,No,1
+P0106,Christian Miller,Female,14,2024-03-28,2024-04-10,General Medicine,Randy Young,Fracture,Metformin,55337.15,General,Cash,Referred,Brittney Simon,Yes,13
+P0107,Laura Short,Female,13,2024-12-12,2024-12-22,General Medicine,James Rowe,Fracture,Paracetamol,2104.71,Private,Online,Deceased,Megan Howard,No,10
+P0108,Jennifer Washington,Female,49,2024-08-11,2024-08-18,General Medicine,Michael Quinn,Migraine,Amoxicillin,22877.43,Private,Online,Deceased,Arthur Fisher,Yes,7
+P0109,Ricky Hawkins,Other,69,2023-08-30,2023-09-07,General Medicine,Janet Woods,Flu,Atorvastatin,26594.65,Private,Insurance,Deceased,Kimberly Edwards,Yes,8
+P0110,Brian Osborne,Female,49,2024-03-27,2024-04-11,Pediatrics,Allison Benjamin,Hypertension,Metformin,22732.65,General,Cash,Recovered,Thomas Jennings,No,15
+P0111,Jonathan Price,Male,30,2024-06-24,2024-06-28,Oncology,Kim Wallace,Cancer,Omeprazole,66331.01,Private,Insurance,Referred,Jason Harrison,No,4
+P0112,Daniel Davenport,Male,14,2025-03-26,2025-04-07,Pediatrics,Ricky Johnson,Asthma,Omeprazole,66968.3,General,Online,Recovered,Lauren Johnston,Yes,12
+P0113,Russell Hoffman,Female,51,2024-08-19,2024-08-21,Cardiology,Amy Miller,Diabetes,Paracetamol,48337.87,Private,Cash,Recovered,Sherry Williams,Yes,2
+P0114,Mary Clarke,Other,52,2023-10-08,2023-10-11,General Medicine,Rhonda Phillips,Asthma,Paracetamol,65331.44,ICU,Insurance,Recovered,Charles Woodward,No,3
+P0115,Christina Sanders,Female,44,2024-01-11,2024-01-15,Pediatrics,Brooke Krause,Fracture,Amoxicillin,39520.49,Private,Insurance,Referred,Taylor Williams,Yes,4
+P0116,Steven Clements,Other,60,2023-08-13,2023-08-28,Neurology,David Day,Fracture,Amoxicillin,24310.93,Private,Cash,Referred,Ross Morton DVM,No,15
+P0117,Walter Kelly,Male,65,2025-01-07,2025-01-18,Cardiology,Garrett Sanders,Fracture,Paracetamol,16958.6,Private,Insurance,Referred,Tamara Stewart,Yes,11
+P0118,Katherine Chen,Male,87,2024-03-04,2024-03-07,Orthopedics,Casey Mosley,Asthma,Metformin,91495.48,ICU,Online,Recovered,Jonathan Morgan,No,3
+P0119,Timothy Rice,Male,64,2025-04-02,2025-04-13,Orthopedics,Allen Williams,Asthma,Amoxicillin,4284.3,ICU,Online,Referred,Nicholas Guerrero,Yes,11
+P0120,Kelli Lindsey,Male,65,2025-06-03,2025-06-13,Oncology,Becky Thomas,Cancer,Metformin,15052.02,General,Insurance,Deceased,Jennifer Wells,Yes,10
+P0121,Jessica Wood,Male,81,2024-07-29,2024-08-08,Pediatrics,Edward Lawson,Diabetes,Paracetamol,77120.34,Private,Cash,Recovered,Carolyn Clements,No,10
+P0122,John Thomas MD,Male,82,2024-11-13,2024-11-16,Pediatrics,Melissa Holt,Cancer,Atorvastatin,4875.69,Private,Online,Deceased,Michael Becker,Yes,3
+P0123,Linda Martinez,Other,72,2024-01-05,2024-01-17,Cardiology,Veronica Nguyen,Flu,Omeprazole,56396.19,Private,Insurance,Deceased,Amber Owens,No,12
+P0124,Elizabeth Benjamin,Male,64,2024-03-20,2024-03-28,Cardiology,Nicole Taylor,Hypertension,Metformin,92770.42,Private,Online,Deceased,Karen Harris,Yes,8
+P0125,Richard Ryan,Male,11,2024-06-07,2024-06-21,Cardiology,Francisco Flores,Flu,Atorvastatin,33380.48,General,Insurance,Recovered,Scott Robinson,No,14
+P0126,Denise White,Female,36,2023-06-27,2023-07-05,Cardiology,Terry Sanchez,Hypertension,Omeprazole,95865.65,General,Insurance,Referred,Laurie Ayala,No,8
+P0127,Matthew Huerta,Other,63,2024-11-24,2024-11-26,General Medicine,David Montoya,Cancer,Paracetamol,82016.17,General,Online,Recovered,Brianna Jenkins,Yes,2
+P0128,Michelle Mitchell,Male,10,2024-03-28,2024-04-01,Neurology,Jacqueline Brown,Hypertension,Metformin,20709.29,ICU,Insurance,Recovered,George Barrett,No,4
+P0129,Kari Turner,Male,84,2023-06-28,2023-07-13,Oncology,Brian Neal,Cancer,Amoxicillin,78573.39,ICU,Insurance,Recovered,Bernard Crawford,No,15
+P0130,John Bartlett,Female,27,2024-05-03,2024-05-18,Cardiology,Jocelyn Horton,Cancer,Omeprazole,36318.63,ICU,Cash,Recovered,Gerald Griffin,Yes,15
+P0131,Samuel Decker,Other,15,2025-03-10,2025-03-20,Cardiology,Maurice Brown,Fracture,Metformin,15890.58,General,Cash,Recovered,Tammy Price,Yes,10
+P0132,Danielle Rivera,Female,69,2024-02-20,2024-02-21,Cardiology,Arthur Watson,Fracture,Metformin,73633.25,Private,Cash,Referred,Joseph Banks,Yes,1
+P0133,Brian White,Other,23,2024-08-15,2024-08-26,Neurology,James Thomas,Asthma,Metformin,86406.97,General,Cash,Deceased,Nicole Martin,No,11
+P0134,Brianna Ray,Female,41,2023-09-29,2023-10-08,Cardiology,William Kim,Asthma,Amoxicillin,63275.66,ICU,Online,Recovered,Erik Edwards,No,9
+P0135,Jasmine Torres,Male,16,2023-09-22,2023-10-04,Oncology,Morgan Brown,Hypertension,Metformin,25434.2,General,Cash,Referred,Amy Nicholson,No,12
+P0136,Lauren Preston,Female,78,2025-06-10,2025-06-23,Cardiology,Michael Smith,Flu,Atorvastatin,71477.74,General,Online,Recovered,Kyle Caldwell,No,13
+P0137,Daniel Black,Other,85,2024-01-31,2024-02-10,Orthopedics,Brandi Ortiz,Cancer,Paracetamol,12750.63,ICU,Cash,Referred,Roger Cunningham,Yes,10
+P0138,Tanya Richard MD,Female,32,2024-07-09,2024-07-14,Oncology,Steven Anderson,Diabetes,Metformin,76021.22,General,Cash,Recovered,Charles Weiss,Yes,5
+P0139,Maria Andrews,Female,55,2024-07-17,2024-07-28,Oncology,Isabella Hernandez,Cancer,Atorvastatin,31093.63,Private,Online,Recovered,Kyle Mathis,No,11
+P0140,Patricia Dalton,Other,31,2025-02-18,2025-02-23,Oncology,Derrick Harrison,Fracture,Amoxicillin,50794.53,General,Cash,Deceased,Elizabeth Wong,Yes,5
+P0141,Nancy Valencia,Female,70,2024-11-11,2024-11-15,Oncology,Melissa Bennett,Diabetes,Paracetamol,97292.42,General,Insurance,Deceased,Margaret Soto,Yes,4
+P0142,Peter Boyle,Female,24,2023-11-07,2023-11-15,Orthopedics,Lindsey Vazquez,Flu,Metformin,46233.74,Private,Insurance,Referred,Jonathan Smith,No,8
+P0143,James Gardner,Male,45,2024-12-05,2024-12-09,Neurology,Angela Kirk,Fracture,Omeprazole,41616.08,Private,Insurance,Deceased,Jackson Cox,Yes,4
+P0144,Roy Perry,Other,53,2023-08-09,2023-08-21,Pediatrics,James Walker Jr.,Fracture,Atorvastatin,85387.04,Private,Cash,Referred,Miranda Hudson,Yes,12
+P0145,Amber Harrison,Female,47,2024-10-08,2024-10-19,Orthopedics,Mark Bell,Fracture,Atorvastatin,99494.06,Private,Cash,Recovered,Kelly Salazar,No,11
+P0146,Marcus Cook,Female,40,2024-07-18,2024-07-28,Neurology,Joan Nicholson,Migraine,Atorvastatin,5586.98,Private,Insurance,Recovered,Lisa Duran,No,10
+P0147,Molly Franklin,Male,38,2025-05-19,2025-05-25,Orthopedics,Beth Taylor,Flu,Metformin,58921.47,Private,Online,Recovered,Yolanda Herman,No,6
+P0148,John Jones,Male,89,2024-06-18,2024-06-27,Neurology,Emily Cooper,Fracture,Amoxicillin,45859.06,ICU,Insurance,Deceased,John Patel,Yes,9
+P0149,Adam Franklin,Male,86,2024-01-18,2024-02-02,Cardiology,Donna Clark,Migraine,Amoxicillin,57604.92,General,Cash,Deceased,Amanda Frye,Yes,15
+P0150,Benjamin Johnson,Female,49,2023-07-18,2023-07-27,Orthopedics,Leslie Martin,Migraine,Paracetamol,52064.63,ICU,Online,Deceased,Anthony Roth,No,9
+P0151,Carla Zuniga,Male,7,2023-08-07,2023-08-15,Oncology,Samantha Young,Fracture,Atorvastatin,50648.41,ICU,Insurance,Recovered,Dave Singh,No,8
+P0152,Tina Nolan,Female,15,2024-10-31,2024-11-15,General Medicine,Denise Morris,Fracture,Metformin,91745.47,ICU,Insurance,Referred,Tanya Hamilton,No,15
+P0153,Jason Kerr,Female,33,2024-01-12,2024-01-21,Orthopedics,Dave Brown,Flu,Metformin,14675.0,ICU,Insurance,Deceased,Maria Powers,Yes,9
+P0154,Thomas Rollins,Female,22,2024-01-09,2024-01-24,Pediatrics,Tina Phillips,Cancer,Omeprazole,77302.85,General,Cash,Recovered,Stephen Miller,Yes,15
+P0155,Christopher Summers,Male,24,2025-02-15,2025-02-21,Cardiology,Stacey Mcbride,Flu,Omeprazole,76993.72,Private,Insurance,Recovered,Christopher Murillo,Yes,6
+P0156,Alejandro Hernandez,Other,74,2023-09-20,2023-09-30,General Medicine,Mrs. Latasha Zuniga,Migraine,Omeprazole,75823.2,ICU,Online,Referred,Rebecca Sutton,No,10
+P0157,Vanessa Bradley,Other,59,2024-10-16,2024-10-26,Oncology,David Robinson,Fracture,Atorvastatin,72782.9,General,Online,Recovered,Noah Lara,No,10
+P0158,Timothy Davidson,Male,88,2024-12-22,2024-12-29,Pediatrics,Christopher Caldwell,Asthma,Omeprazole,13504.92,General,Online,Recovered,Angel Bird,No,7
+P0159,Joseph Wise,Male,67,2024-05-29,2024-06-02,General Medicine,Ana Everett,Hypertension,Atorvastatin,22770.12,ICU,Insurance,Recovered,James Thornton,Yes,4
+P0160,Melissa Rivas,Female,13,2024-09-18,2024-09-22,Cardiology,Christopher Hopkins,Fracture,Metformin,59355.75,ICU,Online,Referred,Jennifer Hardy,Yes,4
+P0161,Justin Gonzalez,Male,44,2024-02-16,2024-02-18,Neurology,Amber Kelly,Cancer,Metformin,97453.26,Private,Cash,Deceased,Christine Gibson,No,2
+P0162,Daniel Mccoy,Male,75,2025-05-15,2025-05-18,Oncology,Elizabeth Martin,Asthma,Paracetamol,16020.09,Private,Cash,Recovered,Alyssa Taylor,Yes,3
+P0163,Samantha Smith,Male,73,2023-10-11,2023-10-20,Oncology,Brittany Campos,Cancer,Amoxicillin,10987.02,Private,Online,Referred,Evelyn Dudley,No,9
+P0164,Hailey Aguilar,Female,82,2024-11-30,2024-12-05,Orthopedics,Joseph Holt,Cancer,Omeprazole,36304.81,Private,Online,Deceased,Juan Mcgee,Yes,5
+P0165,Samantha Hernandez,Other,90,2025-03-12,2025-03-25,General Medicine,David Waller,Diabetes,Paracetamol,98374.74,ICU,Online,Recovered,Brandi Garrett,No,13
+P0166,Lindsey Jones,Other,41,2025-01-29,2025-02-11,Oncology,Anthony Lopez,Flu,Metformin,98179.66,Private,Insurance,Recovered,Shaun Glover,No,13
+P0167,Amy Peters,Other,8,2023-07-15,2023-07-17,Orthopedics,Brian Carpenter,Asthma,Metformin,55279.87,Private,Insurance,Recovered,Anthony Clark,Yes,2
+P0168,Rachel Morris,Other,46,2024-03-05,2024-03-13,Oncology,Natalie Smith,Fracture,Metformin,51712.75,ICU,Online,Deceased,Edward Oliver,Yes,8
+P0169,Kelly Johnson,Male,63,2025-01-26,2025-02-09,General Medicine,Stanley Burke II,Diabetes,Paracetamol,50785.82,General,Cash,Referred,Joan Kennedy,Yes,14
+P0170,Michael Case,Male,19,2024-12-10,2024-12-19,Pediatrics,Daniel Owens,Hypertension,Atorvastatin,94878.01,General,Online,Referred,Ashley Wood,Yes,9
+P0171,Robert Bowman,Female,22,2024-01-02,2024-01-11,Pediatrics,Richard Bryan,Diabetes,Paracetamol,15572.58,ICU,Insurance,Recovered,William King,Yes,9
+P0172,Amber Kramer,Other,87,2024-12-12,2024-12-20,General Medicine,Christina Wade,Diabetes,Amoxicillin,23829.44,General,Cash,Deceased,Diana Ponce MD,Yes,8
+P0173,Paul Vasquez,Female,78,2024-10-28,2024-11-09,Cardiology,William Haney,Cancer,Amoxicillin,12340.08,General,Cash,Recovered,Angela Smith,Yes,12
+P0174,Noah Hunter,Other,77,2023-10-02,2023-10-06,Orthopedics,Ashley Lopez,Hypertension,Atorvastatin,41629.23,General,Insurance,Recovered,Tamara Pratt,No,4
+P0175,Cody Richards,Male,75,2023-08-26,2023-09-07,Orthopedics,Micheal Clayton,Flu,Metformin,11376.51,General,Cash,Deceased,Tristan Shepherd,Yes,12
+P0176,Cheryl Lucas,Other,23,2024-12-05,2024-12-11,Cardiology,Jacob Price,Diabetes,Atorvastatin,87322.8,Private,Insurance,Referred,Christina Delgado,Yes,6
+P0177,Christopher Wiley,Other,78,2024-05-18,2024-05-22,General Medicine,Raymond Anderson,Flu,Atorvastatin,21799.21,ICU,Cash,Deceased,Christopher Byrd,No,4
+P0178,Carl Martinez,Male,29,2023-09-23,2023-09-30,Orthopedics,Robin Barnes,Cancer,Amoxicillin,4388.83,ICU,Online,Referred,Donald Davenport,Yes,7
+P0179,Henry Hartman,Female,1,2023-07-04,2023-07-18,Neurology,Sharon Hernandez,Migraine,Paracetamol,16890.31,ICU,Online,Referred,Christopher Russell,Yes,14
+P0180,Mathew Martinez,Other,1,2024-05-07,2024-05-17,Neurology,Bridget Duncan,Hypertension,Metformin,10073.08,Private,Cash,Referred,Robert Donovan,Yes,10
+P0181,David Simpson,Female,65,2023-11-07,2023-11-11,Orthopedics,Anthony Martin,Fracture,Atorvastatin,56756.61,General,Insurance,Referred,Robert Moss,No,4
+P0182,Kelly Clarke,Female,64,2024-09-14,2024-09-21,Cardiology,Danielle Flynn,Hypertension,Metformin,79308.93,ICU,Online,Recovered,Rebecca Dixon,No,7
+P0183,Tara Moreno,Male,60,2024-08-16,2024-08-17,General Medicine,Karen Williams,Fracture,Omeprazole,99883.44,General,Insurance,Deceased,Katherine Rodriguez,No,1
+P0184,Mark Madden,Other,30,2023-06-20,2023-06-29,Oncology,Lonnie Patterson,Diabetes,Metformin,86382.02,ICU,Online,Recovered,Joshua Thomas,Yes,9
+P0185,Anthony Bryan,Male,73,2024-02-16,2024-02-20,Pediatrics,Julia Smith,Flu,Atorvastatin,21706.19,General,Online,Recovered,Maria Perry,Yes,4
+P0186,Sylvia Craig,Other,1,2025-03-14,2025-03-17,Oncology,Joshua Morales,Diabetes,Omeprazole,80208.29,ICU,Cash,Deceased,Debbie West,Yes,3
+P0187,Nancy Cruz,Male,52,2023-08-20,2023-09-03,Oncology,Cameron Evans,Migraine,Metformin,95009.28,Private,Insurance,Recovered,Sarah Moore,No,14
+P0188,Antonio Martin,Female,47,2025-04-14,2025-04-18,Neurology,Kevin Walker,Diabetes,Atorvastatin,45828.94,General,Online,Recovered,Amy Perkins,No,4
+P0189,Chloe Green,Other,81,2024-12-24,2025-01-06,Neurology,Scott Smith,Hypertension,Paracetamol,56178.93,General,Online,Deceased,Jeffrey Campbell,No,13
+P0190,Collin Salazar,Other,5,2024-04-03,2024-04-18,Pediatrics,Danny Henry,Migraine,Metformin,6311.72,Private,Online,Referred,Ashley Russo,Yes,15
+P0191,Stephen Allen,Other,14,2023-11-28,2023-12-09,Pediatrics,Lindsey Conner,Hypertension,Metformin,28226.63,General,Cash,Referred,Jason Shields,Yes,11
+P0192,Jason Flores,Male,80,2024-10-15,2024-10-20,Neurology,Sarah Brown,Hypertension,Atorvastatin,44018.35,ICU,Cash,Deceased,Dalton Smith,Yes,5
+P0193,Alan Gonzales,Male,68,2023-09-18,2023-09-30,Pediatrics,Mark Berger,Fracture,Atorvastatin,14141.19,ICU,Online,Recovered,Samuel Webb,No,12
+P0194,Joseph Jones,Female,73,2024-04-03,2024-04-13,Pediatrics,David Lewis,Fracture,Amoxicillin,62914.77,ICU,Online,Referred,Christina Hamilton,No,10
+P0195,Helen Gonzalez MD,Other,53,2024-10-14,2024-10-28,Pediatrics,Alexandra Butler,Fracture,Amoxicillin,37628.71,Private,Online,Recovered,Jordan Jacobs,Yes,14
+P0196,Lauren Ellis,Other,13,2024-09-08,2024-09-09,General Medicine,Matthew Cortez II,Diabetes,Omeprazole,45655.48,General,Online,Recovered,Wendy Edwards,Yes,1
+P0197,Jorge Frye,Other,34,2025-04-18,2025-04-27,Cardiology,Jessica Hawkins,Migraine,Amoxicillin,29228.55,General,Insurance,Recovered,Diana Pratt,Yes,9
+P0198,Harold Rodriguez,Male,58,2024-02-24,2024-03-07,Pediatrics,Matthew Lewis,Asthma,Paracetamol,67632.07,Private,Cash,Recovered,Charles Hernandez,Yes,12
+P0199,Joseph Brown,Female,27,2023-10-13,2023-10-27,Cardiology,Patricia Coffey,Flu,Metformin,37120.32,Private,Insurance,Recovered,Aaron Schneider,Yes,14
+P0200,Joan Roberts,Female,7,2024-06-24,2024-07-02,Oncology,Paul Harris,Flu,Paracetamol,25049.2,Private,Cash,Referred,John Cook,Yes,8
+P0201,Raymond Jones,Female,28,2023-10-12,2023-10-25,Pediatrics,Cameron Guzman,Fracture,Amoxicillin,89254.15,ICU,Online,Referred,Eric Wright,Yes,13
+P0202,Seth Reid,Female,20,2024-05-14,2024-05-26,Cardiology,Ryan Mills,Cancer,Amoxicillin,45525.31,General,Cash,Deceased,Brian Tyler,Yes,12
+P0203,Destiny Schmitt,Male,49,2024-06-21,2024-06-26,General Medicine,Angela Allen,Cancer,Omeprazole,75460.68,ICU,Online,Deceased,Laura Lee,Yes,5
+P0204,Kristen Nelson,Male,13,2024-04-25,2024-04-27,Pediatrics,Diana Mcdonald,Hypertension,Atorvastatin,94097.46,Private,Insurance,Referred,Edward Perkins,Yes,2
+P0205,Mary Parks,Female,76,2023-11-21,2023-11-24,Cardiology,Lisa Martinez,Hypertension,Atorvastatin,31294.39,Private,Cash,Recovered,Betty Hale,Yes,3
+P0206,Christina Benitez,Male,77,2024-07-09,2024-07-12,Oncology,Paula Jones,Flu,Omeprazole,50309.47,ICU,Online,Deceased,John Jimenez,Yes,3
+P0207,Omar Lee,Female,80,2023-07-10,2023-07-23,Neurology,Kimberly Rodriguez,Hypertension,Atorvastatin,72887.99,General,Insurance,Referred,Frederick Hill,Yes,13
+P0208,Timothy Woods,Male,66,2023-09-03,2023-09-12,General Medicine,Carolyn Smith,Diabetes,Metformin,49632.85,ICU,Cash,Recovered,Stacey Robertson,No,9
+P0209,Christina Bell,Female,72,2024-05-22,2024-05-26,General Medicine,Bryan Nguyen,Flu,Omeprazole,5457.64,General,Insurance,Recovered,Michael Martinez,Yes,4
+P0210,Lydia Kemp,Female,56,2025-03-06,2025-03-18,General Medicine,Veronica Barajas,Fracture,Paracetamol,43217.46,ICU,Cash,Recovered,Nicholas Moran,Yes,12
+P0211,Cristian Pratt,Other,58,2023-09-12,2023-09-14,Orthopedics,Jeffery Garcia,Hypertension,Metformin,72883.11,Private,Online,Referred,Emily Allen,No,2
+P0212,Stephen Torres,Other,58,2025-03-09,2025-03-11,Neurology,Donald Kelley,Hypertension,Paracetamol,48927.54,General,Insurance,Deceased,Joshua Rose,Yes,2
+P0213,John Williams,Male,22,2024-08-09,2024-08-23,Cardiology,Crystal Wilson,Cancer,Omeprazole,98091.62,ICU,Insurance,Referred,Stephanie Holden,Yes,14
+P0214,Lori Moran,Other,73,2025-02-09,2025-02-22,Cardiology,Maria Ramirez,Migraine,Amoxicillin,30976.82,Private,Insurance,Referred,Gabriel Jefferson,Yes,13
+P0215,Victoria George,Male,46,2023-11-19,2023-11-20,Oncology,Charles White,Fracture,Amoxicillin,8724.46,ICU,Online,Deceased,Marcus Jackson,Yes,1
+P0216,Jodi Anderson,Other,46,2025-02-07,2025-02-17,General Medicine,Edward Rodriguez,Flu,Omeprazole,79582.08,ICU,Cash,Deceased,Samantha Abbott,No,10
+P0217,Melissa Warren,Female,20,2024-09-13,2024-09-19,Orthopedics,Julie Massey,Migraine,Amoxicillin,76803.88,General,Insurance,Recovered,Kyle Coleman,Yes,6
+P0218,Lauren Taylor,Other,81,2025-01-08,2025-01-12,Orthopedics,Jose Johnston,Fracture,Amoxicillin,47566.0,ICU,Insurance,Referred,Deborah Gibson,Yes,4
+P0219,Melanie Houston,Female,77,2023-11-27,2023-12-09,Oncology,Thomas Harris,Asthma,Amoxicillin,73666.78,Private,Online,Recovered,Phillip Williams,No,12
+P0220,Amber Morgan,Other,79,2024-01-19,2024-01-31,Pediatrics,Cody Wright,Asthma,Atorvastatin,12920.55,Private,Insurance,Referred,Kenneth Livingston,No,12
+P0221,Brian Long,Male,48,2024-05-30,2024-06-06,General Medicine,Michael Ramirez,Migraine,Amoxicillin,83901.21,ICU,Cash,Recovered,Nicholas Anderson,No,7
+P0222,Valerie Rios,Male,22,2024-07-10,2024-07-25,General Medicine,Heidi Miller,Flu,Amoxicillin,43636.67,ICU,Insurance,Referred,Victor Hughes,Yes,15
+P0223,Steven Roberts,Male,8,2023-07-15,2023-07-18,Cardiology,Rachel Benitez,Cancer,Atorvastatin,75921.75,ICU,Cash,Deceased,John Odom,No,3
+P0224,Carla Thomas,Female,48,2024-11-07,2024-11-11,General Medicine,John Harris,Diabetes,Omeprazole,83603.19,ICU,Online,Recovered,Alexandra Mendez,Yes,4
+P0225,Hector Dixon,Female,57,2024-10-24,2024-10-30,Oncology,Rhonda Griffith,Hypertension,Amoxicillin,42528.12,Private,Cash,Deceased,Terri Barrera,Yes,6
+P0226,Meredith Molina,Other,41,2024-07-24,2024-08-08,Cardiology,Dennis Brown,Diabetes,Omeprazole,24630.09,ICU,Online,Recovered,Brandi Dougherty,Yes,15
+P0227,Tammy Hill,Female,48,2024-05-15,2024-05-17,General Medicine,Dalton Adams,Hypertension,Paracetamol,29509.29,ICU,Cash,Recovered,Robert Martinez,Yes,2
+P0228,Catherine Freeman,Female,17,2024-04-07,2024-04-08,General Medicine,Dr. Robert Washington,Cancer,Omeprazole,28967.12,General,Insurance,Referred,Rebecca Coleman,No,1
+P0229,Jacqueline Wilson,Male,50,2024-08-07,2024-08-11,General Medicine,Nicole Whitehead,Asthma,Paracetamol,5180.14,ICU,Cash,Referred,Dana Conway,No,4
+P0230,Ryan Cooper,Female,77,2024-01-26,2024-02-10,Pediatrics,Alexander Johnson,Diabetes,Metformin,68461.34,Private,Insurance,Recovered,Christopher Mullen,No,15
+P0231,Jessica Moreno,Other,6,2024-06-30,2024-07-13,Orthopedics,Margaret Singleton,Diabetes,Atorvastatin,37987.36,Private,Insurance,Recovered,Kevin Alexander,Yes,13
+P0232,Steve Lee,Other,15,2024-02-25,2024-02-27,Oncology,Brandy Coleman,Flu,Metformin,3151.91,Private,Insurance,Deceased,Michelle Patrick,Yes,2
+P0233,Robert Woodard,Other,44,2024-09-14,2024-09-29,Orthopedics,Jonathan Lopez,Asthma,Metformin,33082.27,General,Cash,Referred,Erin Johnson,No,15
+P0234,Ruth Chang,Other,74,2025-05-15,2025-05-17,Orthopedics,Scott Jackson,Asthma,Atorvastatin,9194.56,Private,Online,Deceased,Joshua Nelson,No,2
+P0235,Teresa Walker,Other,54,2024-09-18,2024-09-23,Cardiology,Erika Jones,Fracture,Atorvastatin,87094.5,Private,Online,Deceased,James Edwards,Yes,5
+P0236,Kaitlyn Werner,Female,6,2023-11-19,2023-11-25,Orthopedics,Richard Baldwin,Migraine,Metformin,80806.78,Private,Cash,Deceased,Jim Ware,Yes,6
+P0237,Rodney Chase,Male,53,2024-06-09,2024-06-17,Orthopedics,John Watkins,Flu,Amoxicillin,33142.18,ICU,Cash,Referred,Kenneth Johnson,Yes,8
+P0238,Jeffrey Williams,Female,62,2024-03-24,2024-04-07,General Medicine,Joseph Compton,Hypertension,Metformin,54135.39,ICU,Insurance,Recovered,Heather Smith,No,14
+P0239,Elizabeth Aguilar,Female,73,2025-04-30,2025-05-04,Cardiology,Brittany Gutierrez,Fracture,Amoxicillin,26090.53,General,Cash,Deceased,Kevin Harris,Yes,4
+P0240,Suzanne Goodman,Female,28,2025-01-04,2025-01-11,Pediatrics,Christopher Mcdonald,Fracture,Amoxicillin,2987.1,General,Online,Recovered,Courtney Edwards,Yes,7
+P0241,Karen Benson,Female,47,2023-10-18,2023-10-31,General Medicine,Randy Mora,Asthma,Omeprazole,62189.98,General,Cash,Referred,Eric Dalton,No,13
+P0242,Jonathan Turner,Female,50,2023-10-30,2023-11-05,Cardiology,Adam Garcia,Asthma,Atorvastatin,14131.63,Private,Online,Referred,Paul Moore,No,6
+P0243,Lisa Coleman,Female,6,2025-03-28,2025-04-07,Cardiology,Andrea Richardson,Cancer,Metformin,99256.12,ICU,Insurance,Deceased,Nicholas Galvan,Yes,10
+P0244,Jaime Byrd,Female,51,2024-02-06,2024-02-13,Oncology,Anita Reyes,Flu,Atorvastatin,97936.41,General,Online,Referred,William Perez,No,7
+P0245,Elizabeth Brennan,Male,64,2024-12-08,2024-12-13,Cardiology,Hannah Mitchell,Asthma,Paracetamol,90736.2,ICU,Cash,Referred,Charles Brown,Yes,5
+P0246,Christopher Morris,Female,28,2023-09-01,2023-09-09,Oncology,Robert Grant,Hypertension,Paracetamol,38925.79,Private,Online,Recovered,James Clay DDS,Yes,8
+P0247,David Wells,Male,45,2023-11-17,2023-11-21,Neurology,Melissa Thomas,Cancer,Atorvastatin,97583.68,General,Online,Referred,Samantha Torres,No,4
+P0248,Kenneth Shepherd,Other,90,2024-09-05,2024-09-20,Neurology,Richard Mercer,Cancer,Omeprazole,57257.81,ICU,Cash,Referred,Heidi Richardson,No,15
+P0249,Kristin Alvarez,Male,54,2025-02-05,2025-02-07,General Medicine,Michael Richardson,Diabetes,Metformin,38828.1,Private,Insurance,Referred,David Bell,Yes,2
+P0250,Jeffrey Vazquez,Other,78,2023-10-21,2023-11-05,Orthopedics,Martin Conrad,Asthma,Metformin,23955.53,Private,Cash,Deceased,Stephen Boyd,No,15
+P0251,Dennis Kelley,Male,80,2025-03-27,2025-04-11,Oncology,Billy Ray,Cancer,Amoxicillin,84761.04,General,Cash,Referred,Heather Duncan,No,15
+P0252,Jesus Santiago,Male,13,2023-07-20,2023-07-22,Neurology,Kimberly Kennedy,Hypertension,Paracetamol,27321.61,General,Cash,Referred,Ronnie Lewis,No,2
+P0253,James Francis,Other,37,2023-08-20,2023-08-25,General Medicine,Jeremy Porter,Asthma,Atorvastatin,37578.02,ICU,Insurance,Referred,Christine Austin,Yes,5
+P0254,Sarah Williams,Other,85,2023-08-02,2023-08-15,Neurology,David Simpson,Cancer,Amoxicillin,38524.48,Private,Insurance,Referred,Jeffrey Stone,Yes,13
+P0255,Trevor Hernandez,Other,54,2025-02-25,2025-03-09,General Medicine,Jennifer Hall,Asthma,Omeprazole,58347.93,ICU,Cash,Deceased,Rodney Taylor,No,12
+P0256,Daniel Williams,Male,26,2024-01-15,2024-01-29,General Medicine,Renee Guzman,Migraine,Amoxicillin,54873.27,Private,Insurance,Deceased,Martha Cooper,No,14
+P0257,Nicole Wilson,Male,73,2023-12-01,2023-12-04,Pediatrics,James Sparks,Flu,Omeprazole,14332.05,ICU,Online,Deceased,Lori Mack,Yes,3
+P0258,Peter Johnson,Male,64,2024-03-02,2024-03-03,Orthopedics,John Montgomery,Hypertension,Atorvastatin,95138.6,ICU,Cash,Recovered,Stephen Le,No,1
+P0259,Steven Nguyen,Male,44,2025-03-22,2025-04-06,Neurology,Joyce Olsen,Asthma,Paracetamol,17984.19,Private,Cash,Recovered,Kristen Thomas,Yes,15
+P0260,James Ingram,Female,50,2025-03-21,2025-03-28,Cardiology,Sheila Patel,Hypertension,Paracetamol,47973.65,ICU,Insurance,Deceased,Kevin Nunez,Yes,7
+P0261,Sabrina Garrett,Male,77,2024-06-13,2024-06-16,Pediatrics,Martha Harrison,Diabetes,Atorvastatin,57211.02,General,Cash,Referred,Alexandra Perkins,No,3
+P0262,Lisa Valencia,Male,84,2024-11-30,2024-12-05,General Medicine,Robert Campbell,Hypertension,Omeprazole,63243.36,General,Online,Referred,Tracy Brown,Yes,5
+P0263,Mr. Michael Carrillo,Female,44,2023-06-27,2023-07-03,Cardiology,Stephanie Castillo,Asthma,Metformin,81755.22,General,Online,Deceased,Heidi Griffin,No,6
+P0264,Tracy Villegas,Female,16,2024-12-08,2024-12-10,Neurology,Christine Stevens,Migraine,Atorvastatin,5485.67,ICU,Online,Referred,Miguel Pearson,No,2
+P0265,John Decker,Female,25,2024-11-13,2024-11-14,Oncology,Devin Murphy,Asthma,Omeprazole,19926.02,General,Online,Deceased,Donna Richard,No,1
+P0266,Kimberly Taylor,Other,10,2025-03-14,2025-03-22,Orthopedics,Susan Landry,Cancer,Omeprazole,8188.53,General,Insurance,Recovered,Stephanie Nelson,Yes,8
+P0267,Reginald Robinson,Male,12,2025-01-24,2025-02-08,Orthopedics,Casey Davis,Cancer,Atorvastatin,67262.54,General,Insurance,Referred,Tyler Roy,Yes,15
+P0268,Wendy Marks,Female,49,2024-06-02,2024-06-11,Pediatrics,William Schneider,Asthma,Omeprazole,82867.08,Private,Insurance,Deceased,Carrie Richards,Yes,9
+P0269,Darin Delgado,Female,65,2023-12-12,2023-12-19,Oncology,Chris Nunez,Hypertension,Atorvastatin,9202.36,General,Online,Recovered,Dustin Herman,No,7
+P0270,Stephanie Rosales,Other,62,2024-07-06,2024-07-16,Cardiology,Robert Glenn,Fracture,Omeprazole,10069.19,General,Cash,Referred,Luke Weaver,Yes,10
+P0271,Debra Wise,Male,61,2024-01-25,2024-02-06,General Medicine,Frances Miller,Cancer,Metformin,94764.54,General,Online,Referred,Jeffery Lawrence,No,12
+P0272,Tracy Ochoa,Other,48,2023-10-07,2023-10-21,Pediatrics,Joyce Martin,Asthma,Metformin,25383.72,General,Cash,Recovered,James Fernandez,Yes,14
+P0273,Kathryn Medina,Female,63,2023-07-13,2023-07-15,Orthopedics,Anne Love,Migraine,Omeprazole,11036.93,Private,Insurance,Deceased,Amanda Winters,No,2
+P0274,Mark Martinez,Other,19,2024-03-21,2024-03-28,Oncology,Katherine King,Hypertension,Amoxicillin,72089.93,Private,Cash,Deceased,Christopher Rich,No,7
+P0275,Danielle Thompson,Male,65,2024-10-17,2024-10-31,Pediatrics,Heidi Mcgee,Migraine,Atorvastatin,60190.73,ICU,Online,Deceased,Alvin Wright,Yes,14
+P0276,Julie Castillo,Male,16,2024-08-23,2024-09-04,General Medicine,Lisa Jackson,Flu,Paracetamol,35710.21,ICU,Online,Referred,Travis Mitchell,No,12
+P0277,Kaitlyn Cline,Other,80,2023-11-20,2023-11-24,Cardiology,Sherry Ramirez,Hypertension,Paracetamol,8248.44,ICU,Cash,Referred,Brittney Hall,No,4
+P0278,Lisa Delacruz,Female,68,2023-08-08,2023-08-14,General Medicine,James Perkins,Asthma,Metformin,6124.54,Private,Insurance,Referred,Pamela Morris,Yes,6
+P0279,Larry Payne,Other,62,2025-03-30,2025-04-01,Cardiology,Kathy Padilla,Flu,Omeprazole,20531.93,Private,Cash,Recovered,Michael Nguyen,No,2
+P0280,Elizabeth Klein,Female,90,2025-06-13,2025-06-17,Neurology,Travis Ramirez MD,Fracture,Paracetamol,68453.8,Private,Insurance,Recovered,Mary Hayes,Yes,4
+P0281,Amanda Dorsey,Female,4,2024-11-05,2024-11-14,General Medicine,John Cruz,Migraine,Metformin,73867.83,ICU,Online,Deceased,Kathleen Johnson,Yes,9
+P0282,John Todd,Other,6,2024-03-30,2024-04-08,Pediatrics,Susan Osborne,Fracture,Paracetamol,19572.5,Private,Online,Deceased,Robert Warren,No,9
+P0283,John Barton,Male,57,2023-11-18,2023-11-24,General Medicine,Nicole Nelson,Cancer,Metformin,65629.81,General,Cash,Referred,Mark Walker,No,6
+P0284,Aaron Smith,Female,11,2025-06-06,2025-06-21,Pediatrics,Keith Moore,Fracture,Amoxicillin,21188.61,ICU,Online,Deceased,Michelle Flynn,Yes,15
+P0285,Robert Sanchez,Other,88,2023-06-16,2023-06-27,Orthopedics,Dawn Acosta,Hypertension,Paracetamol,59996.69,ICU,Insurance,Referred,Ronald Blanchard,Yes,11
+P0286,Michael Shannon,Male,56,2024-04-03,2024-04-17,Pediatrics,Steven Chandler,Flu,Metformin,73616.22,General,Insurance,Recovered,Darlene Wells,No,14
+P0287,Jennifer Hill,Male,62,2024-01-11,2024-01-23,Oncology,Gwendolyn Garrett,Migraine,Omeprazole,25822.52,ICU,Online,Recovered,Amy Mueller,No,12
+P0288,Tiffany Rich,Male,7,2024-06-06,2024-06-12,Neurology,Rachel Knight,Hypertension,Paracetamol,78204.56,General,Online,Deceased,Tina Peterson,Yes,6
+P0289,Anna Ortega,Male,55,2025-03-14,2025-03-29,Oncology,Terri Vazquez,Fracture,Omeprazole,76080.45,General,Online,Recovered,Tammy Webb,No,15
+P0290,Jacqueline Baker,Other,17,2025-04-07,2025-04-12,Pediatrics,Theodore Harrison,Diabetes,Atorvastatin,84512.99,General,Online,Recovered,Katelyn Thomas,No,5
+P0291,Alisha Preston,Male,57,2025-02-14,2025-02-17,Neurology,Monica Mccullough,Migraine,Atorvastatin,3055.16,General,Cash,Deceased,Johnathan Murray,No,3
+P0292,Audrey Mckee,Other,26,2024-12-28,2025-01-07,Pediatrics,Brandon Anderson,Hypertension,Paracetamol,57210.91,Private,Insurance,Recovered,Stacey Gonzalez,Yes,10
+P0293,Jessica Lewis,Other,1,2024-06-18,2024-07-03,General Medicine,Dustin Wise,Hypertension,Paracetamol,17482.21,General,Online,Recovered,Jonathan Preston,Yes,15
+P0294,Martha Simpson,Male,79,2024-11-19,2024-11-26,General Medicine,Jessica Rodriguez,Asthma,Atorvastatin,8755.16,ICU,Cash,Referred,Jason Rojas,No,7
+P0295,Sheryl Stone,Male,15,2023-11-09,2023-11-15,General Medicine,Diana Williams,Flu,Paracetamol,73873.1,ICU,Insurance,Deceased,Jeanne Leonard,No,6
+P0296,Randall Mccullough,Female,89,2023-10-27,2023-11-04,Pediatrics,Cynthia Wright,Diabetes,Omeprazole,64549.05,Private,Online,Recovered,Lindsay Ward,No,8
+P0297,Jaime Henry,Other,12,2025-04-25,2025-05-04,Oncology,Tina Salas,Fracture,Atorvastatin,65665.65,Private,Online,Referred,Pamela Dickerson,No,9
+P0298,Jason Hayes,Other,62,2025-03-05,2025-03-18,General Medicine,Cheryl Carson,Cancer,Metformin,21293.97,Private,Cash,Referred,Robert Fernandez,Yes,13
+P0299,Lori Rice,Male,83,2024-07-17,2024-07-23,Cardiology,Darlene Wilson,Hypertension,Paracetamol,76342.57,ICU,Online,Deceased,Dana Gilbert,Yes,6
+P0300,Beverly Weeks,Male,23,2024-07-13,2024-07-15,Orthopedics,Bobby Pruitt,Asthma,Amoxicillin,71904.04,ICU,Cash,Recovered,Brittney Porter,No,2
+P0301,Felicia Garcia,Other,50,2023-08-14,2023-08-27,General Medicine,Kyle Patterson,Cancer,Paracetamol,95581.14,ICU,Online,Referred,John Butler,No,13
+P0302,Cynthia Hunter,Female,82,2024-09-11,2024-09-17,Cardiology,William Gill,Flu,Paracetamol,79573.62,General,Online,Referred,Karen Evans,No,6
+P0303,Darren Fitzgerald,Female,59,2023-11-10,2023-11-21,Pediatrics,Samantha Walter,Hypertension,Amoxicillin,80917.87,General,Insurance,Referred,Amy Erickson,No,11
+P0304,Lori Taylor,Male,83,2024-11-11,2024-11-17,Orthopedics,Nicholas Newton,Fracture,Omeprazole,33702.42,General,Insurance,Referred,Lauren Garcia,No,6
+P0305,Anna Thomas,Female,2,2024-12-31,2025-01-15,Neurology,Christopher Taylor,Asthma,Amoxicillin,73196.18,General,Cash,Recovered,Michael Barr,Yes,15
+P0306,Joseph Lewis,Other,1,2024-07-06,2024-07-18,Orthopedics,Troy Powell,Cancer,Atorvastatin,65487.54,Private,Online,Referred,Sherry Torres,Yes,12
+P0307,Brian Warren,Other,37,2023-10-17,2023-10-18,Pediatrics,Crystal Vega,Fracture,Paracetamol,89176.32,Private,Cash,Referred,Gregory Collins,Yes,1
+P0308,Michael Anderson,Female,25,2023-08-02,2023-08-17,Cardiology,Kristen Thomas,Asthma,Paracetamol,99975.17,ICU,Online,Recovered,Shelby Clarke,Yes,15
+P0309,Ryan Morgan,Other,72,2023-12-29,2024-01-02,Orthopedics,Collin Lopez,Asthma,Amoxicillin,30292.48,General,Insurance,Deceased,Stephen Johnson,Yes,4
+P0310,Jessica Lopez,Male,48,2025-03-27,2025-04-11,General Medicine,Austin Diaz,Migraine,Omeprazole,78274.99,ICU,Insurance,Recovered,Jerry Taylor,No,15
+P0311,Andrew Blair,Other,89,2025-02-09,2025-02-10,Pediatrics,Melvin Brown,Fracture,Amoxicillin,8222.66,General,Cash,Recovered,Cody Vang,No,1
+P0312,Henry Nelson,Male,40,2023-07-04,2023-07-06,Orthopedics,Sophia Hogan,Diabetes,Amoxicillin,78206.69,ICU,Cash,Referred,Danny Sims,No,2
+P0313,Rachel Gordon,Male,17,2023-11-13,2023-11-21,Pediatrics,Suzanne Pierce,Fracture,Metformin,67846.89,General,Online,Recovered,Jacob Best,Yes,8
+P0314,Joy Mcclure,Female,28,2024-09-17,2024-09-24,General Medicine,Rebecca Gutierrez,Fracture,Paracetamol,16993.4,General,Insurance,Recovered,Deanna Daniels,Yes,7
+P0315,Tammy Gutierrez,Other,19,2025-02-03,2025-02-11,General Medicine,Megan Castro,Migraine,Paracetamol,6550.76,Private,Cash,Referred,Jeffrey Martin,Yes,8
+P0316,Dr. Richard Williams Jr.,Female,57,2024-12-14,2024-12-23,General Medicine,Nicole James,Migraine,Omeprazole,33895.77,ICU,Cash,Deceased,Tina Ferguson,No,9
+P0317,Victoria Schaefer,Male,29,2023-07-18,2023-07-27,Pediatrics,Christine Gordon,Hypertension,Paracetamol,16702.39,ICU,Insurance,Referred,Amanda Taylor,Yes,9
+P0318,Rita Torres,Female,58,2023-12-31,2024-01-15,Pediatrics,Debbie Cummings,Cancer,Atorvastatin,61792.05,Private,Online,Referred,Joshua Gonzalez,No,15
+P0319,Debra Rodriguez,Male,71,2024-07-20,2024-07-25,Oncology,Sarah Hughes,Cancer,Atorvastatin,85258.38,General,Insurance,Deceased,Adam Walters,Yes,5
+P0320,Shannon Harrison,Male,14,2024-11-16,2024-11-26,Pediatrics,Lee Harrell,Asthma,Atorvastatin,30001.16,General,Insurance,Deceased,George Smith,No,10
+P0321,Thomas Fuentes,Male,81,2023-08-01,2023-08-08,Pediatrics,Logan Moore,Hypertension,Omeprazole,96160.88,ICU,Cash,Recovered,Curtis Schwartz,No,7
+P0322,Carolyn Parsons,Other,57,2023-08-17,2023-08-28,Cardiology,Jacob Lee,Diabetes,Paracetamol,80859.98,ICU,Online,Referred,Jason Clark,Yes,11
+P0323,Michele Rodriguez,Other,45,2025-05-20,2025-05-22,General Medicine,Kathryn Smith,Diabetes,Metformin,69792.25,General,Cash,Referred,Robert Thompson,No,2
+P0324,Alyssa Powell,Male,72,2023-12-11,2023-12-22,Pediatrics,Dana King,Diabetes,Paracetamol,74758.3,Private,Online,Recovered,Hannah Johnson,No,11
+P0325,Jacob Moore,Female,4,2023-08-24,2023-09-05,Orthopedics,Pamela Farley,Cancer,Paracetamol,24036.81,General,Insurance,Referred,Steven Ryan,Yes,12
+P0326,Briana White,Other,5,2024-09-16,2024-09-28,General Medicine,Rachel Dougherty DVM,Flu,Atorvastatin,52769.87,ICU,Insurance,Recovered,Stephen Barker,Yes,12
+P0327,Laura Jackson,Other,76,2025-03-02,2025-03-06,Oncology,John Juarez,Hypertension,Paracetamol,73581.8,General,Online,Deceased,Stephanie Rios,Yes,4
+P0328,Alexis Greene,Other,26,2023-09-19,2023-09-25,Neurology,Jasmine Clark,Migraine,Amoxicillin,52670.62,Private,Online,Deceased,Daniel Miller,Yes,6
+P0329,Kristin Flores,Other,54,2023-10-02,2023-10-12,Orthopedics,Sarah Cooper,Flu,Paracetamol,76682.45,ICU,Insurance,Referred,Nicholas Banks,No,10
+P0330,Jennifer Williams,Other,88,2024-07-18,2024-07-23,Pediatrics,Jason Ward,Fracture,Atorvastatin,39578.42,ICU,Insurance,Referred,Amy Branch,Yes,5
+P0331,Shari Phillips,Other,48,2024-11-13,2024-11-19,Orthopedics,Sarah Hawkins,Flu,Paracetamol,83129.52,Private,Online,Referred,Katherine Hall,Yes,6
+P0332,Tommy Manning,Female,3,2024-09-26,2024-10-05,Neurology,Anthony Young,Hypertension,Paracetamol,45146.81,General,Insurance,Recovered,Michele Madden,No,9
+P0333,Roger Burch,Male,1,2024-06-18,2024-06-29,Orthopedics,Joseph Smith,Migraine,Amoxicillin,62752.63,ICU,Online,Deceased,Raymond Soto,No,11
+P0334,Lisa Curtis,Female,9,2024-11-06,2024-11-09,Oncology,Caleb Calhoun,Diabetes,Amoxicillin,94630.87,General,Insurance,Recovered,Kelly Torres,No,3
+P0335,Danielle White,Female,22,2025-05-18,2025-05-21,Orthopedics,Hannah Murray,Flu,Omeprazole,77867.45,ICU,Cash,Referred,Phillip Medina,Yes,3
+P0336,Hunter Berry,Male,50,2025-05-13,2025-05-17,Cardiology,Laura Jones,Migraine,Atorvastatin,59882.77,ICU,Insurance,Referred,Diane Watkins,No,4
+P0337,Crystal Murphy MD,Other,56,2024-05-31,2024-06-03,Pediatrics,Jessica Myers,Asthma,Metformin,95970.28,Private,Insurance,Recovered,Eileen Turner,Yes,3
+P0338,Stephanie Mccoy,Male,25,2024-02-20,2024-02-25,Orthopedics,Tamara Roberson,Cancer,Amoxicillin,25969.14,ICU,Insurance,Referred,Nancy Lloyd,No,5
+P0339,Kristen Banks,Other,61,2025-06-08,2025-06-13,General Medicine,Scott Johnson,Asthma,Paracetamol,29946.05,General,Cash,Deceased,Sarah Edwards,No,5
+P0340,Erica Scott,Female,80,2023-07-24,2023-07-25,Neurology,Angela Blackburn,Migraine,Metformin,50736.95,Private,Cash,Recovered,Jessica Johnson,No,1
+P0341,Luke Daniels,Other,21,2025-05-29,2025-06-02,Neurology,Charles Young,Fracture,Amoxicillin,74311.39,General,Insurance,Deceased,Marc Bridges,Yes,4
+P0342,Nicholas Park,Other,27,2023-10-19,2023-10-26,Neurology,Sarah Rodriguez,Flu,Paracetamol,45392.79,Private,Insurance,Referred,Robin Ramirez,No,7
+P0343,Brian May,Female,73,2024-06-14,2024-06-24,Neurology,David Patel,Fracture,Paracetamol,53407.6,General,Online,Referred,Kevin Jones,Yes,10
+P0344,Nicole Barnes,Female,17,2025-05-14,2025-05-16,Neurology,Kevin Watson,Diabetes,Metformin,49669.63,General,Online,Deceased,Natalie Mendoza,No,2
+P0345,Amanda Hoffman,Female,82,2024-08-02,2024-08-03,Cardiology,Linda Garcia,Asthma,Atorvastatin,78745.96,Private,Insurance,Recovered,David Davis,No,1
+P0346,Matthew Martinez,Female,48,2024-06-07,2024-06-15,Oncology,Christine Yu,Diabetes,Omeprazole,64586.11,ICU,Cash,Referred,Christina Collins,Yes,8
+P0347,Mary Buchanan,Female,31,2025-03-13,2025-03-20,Orthopedics,Julie Perez,Diabetes,Metformin,58987.08,Private,Online,Recovered,William Wright,Yes,7
+P0348,Samuel Hernandez,Female,2,2024-10-11,2024-10-19,Oncology,Jeffrey Clark,Migraine,Paracetamol,86199.46,Private,Cash,Referred,Robin Carr,No,8
+P0349,Nicole Hess,Other,32,2024-10-17,2024-10-26,Pediatrics,Joe Bennett,Hypertension,Omeprazole,69732.56,General,Insurance,Referred,Samuel Cook,Yes,9
+P0350,Julie Jensen,Other,62,2024-10-12,2024-10-13,Orthopedics,Brandon Brown,Fracture,Paracetamol,87926.47,ICU,Online,Deceased,Nicole Carpenter,No,1
+P0351,Michael Henderson,Male,6,2024-11-01,2024-11-13,Oncology,Lynn Grant,Cancer,Paracetamol,69466.76,General,Online,Recovered,Gabriel Miller,No,12
+P0352,Carrie Cox,Other,59,2024-05-09,2024-05-14,Cardiology,Austin Anderson,Cancer,Omeprazole,9010.52,General,Online,Referred,Adam Horton,No,5
+P0353,Maurice Brown,Female,46,2025-01-25,2025-01-30,Oncology,Travis Bell,Diabetes,Amoxicillin,94032.39,ICU,Cash,Deceased,Anna Freeman,No,5
+P0354,Cheyenne Thomas,Female,73,2025-06-01,2025-06-03,Orthopedics,Kevin Meyers,Asthma,Metformin,23820.82,General,Insurance,Deceased,Heather Gonzalez,Yes,2
+P0355,Kimberly Soto,Female,50,2023-08-10,2023-08-11,Cardiology,Brian Hughes,Flu,Metformin,66779.59,General,Insurance,Recovered,Kim Novak,No,1
+P0356,Eric Smith,Other,19,2024-08-30,2024-09-12,General Medicine,William Elliott,Flu,Amoxicillin,40299.02,General,Cash,Deceased,Christina Smith,No,13
+P0357,Shelly Reeves,Female,68,2024-11-03,2024-11-13,Orthopedics,Jeffery Bernard,Hypertension,Omeprazole,18511.02,ICU,Online,Recovered,Elizabeth Brady,No,10
+P0358,Terry Curtis,Female,6,2023-11-19,2023-12-01,Pediatrics,Teresa Murphy,Hypertension,Metformin,22031.48,General,Insurance,Deceased,Howard Sanders,No,12
+P0359,Dominic Petersen,Male,33,2024-02-24,2024-03-06,Oncology,Patrick Mayer,Hypertension,Amoxicillin,55409.99,General,Insurance,Recovered,Phyllis Glass,Yes,11
+P0360,Jennifer Moore,Other,41,2025-05-19,2025-06-03,Cardiology,Donna Wilson,Migraine,Atorvastatin,75965.31,ICU,Insurance,Deceased,Shannon Mooney,Yes,15
+P0361,Dr. Kristi Haley,Female,7,2025-05-24,2025-05-30,Neurology,Kathryn Roberts,Cancer,Atorvastatin,13052.58,General,Insurance,Referred,Michelle Meyer,No,6
+P0362,Kristy Johnson,Female,88,2023-10-03,2023-10-14,General Medicine,Jessica Reynolds,Cancer,Paracetamol,11081.34,Private,Insurance,Recovered,Travis Diaz,Yes,11
+P0363,Kelly Henderson,Male,25,2023-10-20,2023-10-29,Oncology,Krista Johnson,Migraine,Paracetamol,27890.85,Private,Insurance,Deceased,David Miller,Yes,9
+P0364,Heather Frazier,Male,39,2024-12-27,2025-01-08,Cardiology,Diana Roberts,Flu,Omeprazole,57933.46,General,Online,Referred,Jason Evans,No,12
+P0365,Bryan Phillips,Female,71,2024-01-20,2024-01-27,Orthopedics,Lisa Evans,Diabetes,Atorvastatin,64321.48,General,Insurance,Deceased,Jenna Rice,Yes,7
+P0366,Ashley Davenport,Male,5,2024-03-26,2024-04-10,Cardiology,Jordan Snyder,Asthma,Paracetamol,88317.24,Private,Insurance,Referred,Mr. Isaac Parker,Yes,15
+P0367,Lucas Avila,Male,38,2023-12-22,2023-12-24,Oncology,Kimberly Johnson,Flu,Paracetamol,21698.56,General,Online,Referred,Kathy Jones,Yes,2
+P0368,Marissa Jones,Female,82,2023-08-15,2023-08-29,Neurology,Michael Vincent,Migraine,Paracetamol,62753.73,General,Online,Referred,James Williams,Yes,14
+P0369,Tina Smith,Other,71,2024-03-25,2024-03-29,Orthopedics,James Ryan,Cancer,Paracetamol,13040.34,ICU,Cash,Referred,Nichole Bennett,No,4
+P0370,Paula Holmes,Other,72,2025-05-26,2025-05-27,Pediatrics,Jacob Torres,Flu,Omeprazole,85296.07,General,Online,Referred,Amber Hill,No,1
+P0371,Calvin Rose,Other,88,2025-05-17,2025-05-24,General Medicine,Shawn Santos,Fracture,Omeprazole,37655.49,Private,Cash,Recovered,George Lee,No,7
+P0372,Janice Osborne,Other,36,2023-08-01,2023-08-15,Neurology,Daniel Kim,Migraine,Atorvastatin,91625.54,General,Cash,Recovered,Jesse Gonzales,Yes,14
+P0373,Jeffrey Scott,Other,35,2024-09-24,2024-10-07,Orthopedics,Derek Harrison,Fracture,Amoxicillin,98009.03,ICU,Online,Referred,Richard Morrison,Yes,13
+P0374,Rachel Knight,Other,66,2023-09-14,2023-09-23,Orthopedics,Jose Whitehead,Hypertension,Metformin,59866.8,Private,Online,Recovered,Paul Garza,No,9
+P0375,Heather Farrell,Male,16,2023-07-06,2023-07-15,Cardiology,Debbie Bridges,Cancer,Atorvastatin,91352.08,Private,Cash,Recovered,Edward Clark,Yes,9
+P0376,Michael Mccullough,Male,24,2024-02-01,2024-02-07,General Medicine,Summer White,Hypertension,Atorvastatin,86642.48,ICU,Insurance,Referred,Brittany Bryant,Yes,6
+P0377,Frank Williamson,Other,20,2024-08-10,2024-08-22,Cardiology,Evan Delacruz,Diabetes,Amoxicillin,8590.67,General,Insurance,Recovered,Marc Martinez,No,12
+P0378,William Barton,Male,57,2024-06-13,2024-06-18,Pediatrics,Lee Mack,Hypertension,Metformin,33275.14,Private,Insurance,Recovered,Dennis Patterson,Yes,5
+P0379,Ariana Middleton,Male,67,2023-07-06,2023-07-12,General Medicine,Marcus Lester,Migraine,Metformin,37150.59,Private,Online,Deceased,Peter Foster,No,6
+P0380,Jason Ford,Female,15,2025-04-29,2025-05-09,Orthopedics,Matthew Miller,Flu,Atorvastatin,80170.09,General,Cash,Referred,Erica Jackson,No,10
+P0381,Darren Smith,Other,59,2023-10-13,2023-10-19,General Medicine,Anna Powers,Flu,Amoxicillin,17784.19,ICU,Insurance,Referred,Dana Curtis,Yes,6
+P0382,Courtney Fleming,Female,67,2024-12-27,2024-12-29,Pediatrics,Debra Fowler,Migraine,Paracetamol,14242.62,General,Insurance,Referred,Jill Perez,Yes,2
+P0383,Amy Morgan,Other,20,2024-09-18,2024-09-20,Pediatrics,Kathleen West,Hypertension,Metformin,37402.02,ICU,Insurance,Referred,Scott Hill,No,2
+P0384,Shannon Davis,Other,31,2024-10-01,2024-10-03,Oncology,Jordan Patterson,Fracture,Paracetamol,96960.28,General,Online,Deceased,Sarah Baird,Yes,2
+P0385,Brittney Barnes,Female,50,2024-11-18,2024-11-26,Cardiology,Robin Williams,Fracture,Omeprazole,3985.14,General,Insurance,Referred,Sharon Lambert,No,8
+P0386,Gregory Oconnor,Male,32,2024-12-25,2025-01-01,General Medicine,Amy Brady,Diabetes,Omeprazole,28171.09,ICU,Insurance,Recovered,Michael Stewart,Yes,7
+P0387,Andrew Roberts,Female,29,2025-01-24,2025-02-05,Neurology,Don Andrews,Fracture,Metformin,15096.71,ICU,Cash,Recovered,Timothy Davis,Yes,12
+P0388,Michelle Horton,Female,27,2024-02-01,2024-02-11,Oncology,Robert Stewart,Asthma,Metformin,68036.78,Private,Insurance,Referred,Sarah Smith,Yes,10
+P0389,Jonathon Oliver,Male,5,2024-01-26,2024-02-07,General Medicine,Daryl Simmons,Migraine,Paracetamol,57785.06,General,Insurance,Referred,Holly Johnson,Yes,12
+P0390,Gregory Nichols,Male,88,2025-03-01,2025-03-12,Neurology,Yolanda Shaffer,Flu,Omeprazole,51875.64,General,Cash,Deceased,Malik Rodriguez,Yes,11
+P0391,Ryan Cox,Other,27,2024-11-28,2024-12-08,Pediatrics,Bonnie Harris,Fracture,Metformin,45526.49,Private,Cash,Referred,Zachary Turner,Yes,10
+P0392,Robert Perez,Other,30,2023-06-25,2023-06-27,Neurology,Christopher George,Cancer,Omeprazole,5671.19,ICU,Cash,Deceased,Katie Cox,Yes,2
+P0393,Misty Martinez,Male,67,2023-12-18,2023-12-30,Orthopedics,Brady Gibbs,Asthma,Atorvastatin,84818.42,Private,Online,Recovered,Joseph Kirby,No,12
+P0394,Nathan Martinez,Female,40,2023-11-13,2023-11-25,Neurology,Cheryl Garza,Fracture,Paracetamol,69067.58,ICU,Cash,Recovered,Richard Anderson,Yes,12
+P0395,Matthew Coffey,Female,24,2025-05-08,2025-05-19,Oncology,Ricardo Salazar,Fracture,Metformin,10980.66,ICU,Online,Deceased,Emily Jones,Yes,11
+P0396,Kylie Meyers,Male,54,2024-05-18,2024-05-31,Pediatrics,Elizabeth Young,Asthma,Metformin,22741.69,General,Online,Deceased,Christian Stark,Yes,13
+P0397,Tiffany Weeks,Other,82,2025-06-01,2025-06-08,Neurology,Danny Foster,Fracture,Metformin,24220.37,ICU,Online,Recovered,Samantha Lewis,Yes,7
+P0398,Jessica Miller,Other,9,2023-11-21,2023-11-24,Pediatrics,Julie Kennedy,Asthma,Atorvastatin,66583.11,General,Cash,Referred,Bruce Rodriguez,No,3
+P0399,Erik Willis,Female,45,2025-01-21,2025-01-27,Cardiology,Tanya Harris,Asthma,Omeprazole,58336.72,General,Cash,Referred,Melissa Williamson,No,6
+P0400,Mark Luna,Male,73,2023-10-19,2023-10-31,Pediatrics,Dr. Eric Miller,Fracture,Paracetamol,94571.72,General,Online,Recovered,Chase Hall,Yes,12
+P0401,Johnny Townsend,Female,51,2024-08-04,2024-08-17,Pediatrics,Megan Reed,Hypertension,Paracetamol,89013.63,General,Online,Referred,Jason Baldwin,No,13
+P0402,Mrs. Olivia Waters,Male,51,2024-10-02,2024-10-13,Oncology,Kayla Simpson,Diabetes,Atorvastatin,42477.3,ICU,Insurance,Deceased,Michelle Holland,Yes,11
+P0403,Michael Salas,Other,15,2024-06-16,2024-06-28,Oncology,Allen Sims,Flu,Atorvastatin,86388.73,Private,Online,Recovered,William Lewis,No,12
+P0404,Lindsey Fuentes,Other,53,2023-07-22,2023-07-30,General Medicine,Stephen Harvey,Fracture,Atorvastatin,64776.89,Private,Insurance,Referred,Heidi Knight,No,8
+P0405,Joseph Pratt,Other,16,2023-07-03,2023-07-17,Orthopedics,Alan Evans,Diabetes,Metformin,23421.36,Private,Online,Deceased,Robert Walker,Yes,14
+P0406,Kevin Jones,Other,43,2023-10-09,2023-10-23,Neurology,Gina Martinez,Asthma,Atorvastatin,28618.45,ICU,Insurance,Recovered,Juan Soto,Yes,14
+P0407,David Wolfe,Other,1,2025-05-08,2025-05-22,Pediatrics,Joshua Miller,Flu,Omeprazole,80066.13,Private,Online,Referred,Rebecca Collins,Yes,14
+P0408,Dana Hernandez,Male,10,2024-01-15,2024-01-16,Orthopedics,Jane Beck,Hypertension,Paracetamol,50627.63,ICU,Insurance,Referred,Claudia Thomas,Yes,1
+P0409,Katherine Green,Other,52,2024-11-08,2024-11-20,Pediatrics,Susan Clark,Cancer,Paracetamol,61740.42,Private,Insurance,Deceased,Joshua Shah,No,12
+P0410,Rodney Ellis,Other,36,2024-01-22,2024-01-23,Pediatrics,Jennifer Gould,Fracture,Paracetamol,5644.41,General,Insurance,Referred,Kevin Sparks,Yes,1
+P0411,Andre Walker,Other,11,2023-09-10,2023-09-19,Orthopedics,Robin Wolf,Migraine,Omeprazole,53109.64,Private,Online,Recovered,Justin Morris,No,9
+P0412,Cory Frye,Female,14,2024-11-15,2024-11-27,Cardiology,Theresa Mccall,Flu,Omeprazole,64292.65,General,Cash,Deceased,James Warner,Yes,12
+P0413,Gregory Caldwell,Female,13,2024-01-25,2024-01-26,Cardiology,Craig Turner,Cancer,Amoxicillin,23538.56,General,Online,Deceased,Craig Sandoval,Yes,1
+P0414,Ashley Thornton,Female,71,2025-01-25,2025-02-03,Pediatrics,Daniel Young,Cancer,Metformin,90070.38,General,Insurance,Referred,Jonathan Figueroa,No,9
+P0415,Christopher French,Male,49,2023-10-03,2023-10-11,Pediatrics,Taylor Miller,Cancer,Atorvastatin,47749.82,Private,Online,Referred,Brian Strong,No,8
+P0416,Kelly Peters,Other,81,2023-12-21,2023-12-27,General Medicine,Ashley Newman,Fracture,Atorvastatin,36627.74,General,Online,Deceased,Denise Wood,No,6
+P0417,Victoria Stewart,Other,43,2024-04-23,2024-04-30,Cardiology,Robert Hanson II,Cancer,Amoxicillin,50993.93,ICU,Online,Recovered,Stephanie Durham,No,7
+P0418,Joseph Robinson,Other,10,2023-09-18,2023-09-26,Cardiology,Michael King,Hypertension,Amoxicillin,93413.66,General,Insurance,Recovered,Lisa Brock,Yes,8
+P0419,Trevor Shaw,Female,9,2024-01-21,2024-01-31,Pediatrics,Ashley Watts,Asthma,Paracetamol,15952.12,ICU,Insurance,Referred,Nicholas Hughes,No,10
+P0420,Travis Stone,Male,65,2024-03-20,2024-03-22,Oncology,Brad Oneal,Migraine,Atorvastatin,47392.48,ICU,Online,Deceased,Brandon Anderson,Yes,2
+P0421,Kathryn Lawrence,Other,24,2023-08-24,2023-08-27,Orthopedics,Kelly Jones,Fracture,Atorvastatin,77329.64,ICU,Online,Recovered,Megan Wright,No,3
+P0422,Bethany Richmond,Male,14,2023-11-10,2023-11-21,Oncology,Michael Hickman,Fracture,Atorvastatin,15028.98,ICU,Insurance,Referred,Mark Black,Yes,11
+P0423,Kyle Henry,Other,74,2024-01-19,2024-01-30,Cardiology,Jessica Baker,Migraine,Omeprazole,66747.05,ICU,Insurance,Deceased,Andrew Martin,No,11
+P0424,Jennifer Garrett,Female,60,2023-08-01,2023-08-15,Pediatrics,Jaime Holmes,Asthma,Metformin,51434.6,ICU,Cash,Referred,Becky Roberts,No,14
+P0425,Bryan Lang,Male,39,2024-11-01,2024-11-04,Pediatrics,Ashley Wright,Hypertension,Omeprazole,53486.75,Private,Insurance,Referred,Vanessa Jones,No,3
+P0426,Daniel Jackson,Other,45,2024-06-02,2024-06-04,Oncology,Aaron Wallace,Hypertension,Omeprazole,65083.63,Private,Insurance,Recovered,Elizabeth Richards,No,2
+P0427,Willie Christian,Male,7,2025-06-11,2025-06-19,Orthopedics,Brooke Martinez,Hypertension,Paracetamol,88681.87,Private,Insurance,Referred,Holly Carlson,No,8
+P0428,Theresa Wilson,Other,24,2024-06-06,2024-06-09,Oncology,Michael Jenkins,Cancer,Metformin,53659.32,General,Insurance,Referred,Marcus Adams,Yes,3
+P0429,Amanda Wright MD,Male,17,2025-01-30,2025-02-13,Pediatrics,Charles Wells,Hypertension,Omeprazole,47088.91,General,Insurance,Deceased,Christopher Frank,Yes,14
+P0430,Gregory Torres,Female,66,2024-06-03,2024-06-15,Pediatrics,Samantha Dickson,Fracture,Atorvastatin,5198.13,Private,Cash,Recovered,James Frost,No,12
+P0431,Jason Jackson,Other,56,2023-08-27,2023-09-02,Pediatrics,Patricia Price,Hypertension,Atorvastatin,29547.25,ICU,Online,Deceased,Kimberly Smith,No,6
+P0432,David Hill,Other,68,2024-01-02,2024-01-03,Neurology,Colton Mercado,Migraine,Metformin,23537.99,ICU,Insurance,Deceased,Richard Cooper,No,1
+P0433,Erica Manning,Male,72,2023-08-10,2023-08-18,Oncology,Savannah Villegas,Asthma,Metformin,57048.27,General,Insurance,Recovered,Whitney Price,No,8
+P0434,Jesse Beck,Male,19,2025-02-21,2025-02-25,Pediatrics,Olivia Mendoza,Asthma,Atorvastatin,33979.15,General,Cash,Referred,Travis Morgan,No,4
+P0435,Jessica Johnson,Other,37,2023-10-13,2023-10-16,Neurology,Kenneth Lee,Asthma,Atorvastatin,43347.89,Private,Cash,Deceased,Dana Baker,No,3
+P0436,Jeremy Rogers,Other,42,2024-02-01,2024-02-14,Cardiology,Katie King,Fracture,Metformin,64663.93,General,Online,Referred,Marc Roberson,Yes,13
+P0437,Gary Williams,Other,58,2025-03-23,2025-03-28,General Medicine,Elizabeth Terry,Cancer,Paracetamol,88617.94,General,Online,Deceased,Margaret Romero,No,5
+P0438,Pamela Rodriguez,Female,61,2025-01-27,2025-01-29,Pediatrics,Nicole Wright,Diabetes,Metformin,89128.26,General,Online,Referred,Timothy Lewis,No,2
+P0439,Matthew Smith,Male,90,2025-06-09,2025-06-19,Oncology,Rachael Gibson,Hypertension,Metformin,24212.12,ICU,Cash,Referred,Joshua Howard,No,10
+P0440,Heather Whitney,Other,38,2024-10-18,2024-11-02,Cardiology,Joseph Perez,Asthma,Atorvastatin,49133.72,General,Insurance,Referred,Vanessa Pena,No,15
+P0441,Kimberly Frazier,Male,66,2024-03-07,2024-03-18,General Medicine,Angela Alvarez,Flu,Metformin,40058.75,ICU,Online,Recovered,Jennifer Stewart,Yes,11
+P0442,Leah Graves,Female,80,2024-02-13,2024-02-24,Pediatrics,Amanda Reed,Fracture,Omeprazole,91038.15,Private,Cash,Recovered,Hailey Roberts,Yes,11
+P0443,Adrienne Miller,Male,13,2023-07-28,2023-08-03,Oncology,Luis Taylor,Hypertension,Atorvastatin,12420.89,General,Cash,Recovered,Sharon Cook,Yes,6
+P0444,Phillip Benson,Male,30,2024-02-24,2024-03-02,Oncology,Stacy Fields,Asthma,Paracetamol,63274.89,Private,Online,Recovered,Ashley Irwin,Yes,7
+P0445,Elizabeth Pierce,Other,3,2024-08-19,2024-09-03,Neurology,Justin Cooper,Hypertension,Atorvastatin,40693.99,ICU,Online,Recovered,Jennifer Thompson,No,15
+P0446,Christina Gutierrez,Male,81,2024-12-10,2024-12-18,Neurology,Sharon Parker,Diabetes,Atorvastatin,59305.88,General,Insurance,Deceased,Shane Brooks,Yes,8
+P0447,Amy Powell MD,Other,26,2024-03-22,2024-04-04,Cardiology,Elizabeth Rhodes,Migraine,Paracetamol,59652.31,ICU,Cash,Deceased,Lauren Fowler,No,13
+P0448,James Myers,Other,30,2025-02-10,2025-02-11,General Medicine,Nicholas Ward,Migraine,Metformin,23126.05,ICU,Cash,Recovered,Laura Donovan,No,1
+P0449,Danielle Jones,Male,19,2024-11-09,2024-11-19,Neurology,Luke Brewer,Flu,Omeprazole,59767.03,ICU,Cash,Referred,Donald Walters,No,10
+P0450,Robert Campbell MD,Other,34,2024-07-04,2024-07-16,Pediatrics,Michelle Ingram,Diabetes,Omeprazole,68951.17,Private,Insurance,Referred,Christopher Johnson,Yes,12
+P0451,Kimberly Nelson,Male,9,2024-12-02,2024-12-10,Cardiology,John Avila,Diabetes,Omeprazole,15296.34,ICU,Cash,Recovered,Rachel Johnson,No,8
+P0452,Erin Stone,Male,47,2023-12-11,2023-12-22,Cardiology,Mitchell Williams,Fracture,Amoxicillin,54203.38,ICU,Online,Referred,Angela Gonzalez,No,11
+P0453,Brandon Conner,Female,18,2025-01-16,2025-01-17,Cardiology,Denise Ross,Fracture,Paracetamol,3055.4,Private,Insurance,Recovered,Katherine Lopez,No,1
+P0454,Maurice Cochran,Female,26,2024-05-07,2024-05-21,Orthopedics,Emily Martinez,Fracture,Omeprazole,74862.45,ICU,Online,Deceased,Diane Clark,Yes,14
+P0455,Cynthia Fox,Male,77,2025-04-04,2025-04-10,General Medicine,Erin Anderson,Diabetes,Atorvastatin,40533.01,General,Cash,Referred,Matthew Bryant,Yes,6
+P0456,Heather Yu,Female,55,2023-07-31,2023-08-05,Oncology,Jessica Barker,Hypertension,Metformin,36757.7,General,Online,Recovered,Jeffrey Hicks,Yes,5
+P0457,Tiffany Bautista,Male,86,2024-09-13,2024-09-17,Oncology,James Burns,Diabetes,Amoxicillin,58058.28,General,Insurance,Recovered,Anne Mccormick,No,4
+P0458,Christine Barnes,Female,31,2025-05-14,2025-05-29,Oncology,Virginia Conway,Hypertension,Omeprazole,23388.57,ICU,Insurance,Recovered,Jordan Green,No,15
+P0459,Christopher Cox,Male,31,2024-11-19,2024-12-01,Oncology,Jorge Gomez,Asthma,Metformin,13712.46,Private,Cash,Referred,Charles Martinez,Yes,12
+P0460,Vanessa Rodriguez,Male,58,2023-07-13,2023-07-14,Neurology,Kelli Rodriguez,Migraine,Atorvastatin,61626.87,General,Insurance,Referred,Mrs. Alyssa Roberts,Yes,1
+P0461,Jordan Hawkins,Male,13,2024-12-27,2024-12-28,Cardiology,Timothy Tucker,Migraine,Atorvastatin,33146.11,Private,Cash,Deceased,Sandra Castro,Yes,1
+P0462,Christopher Coleman,Other,46,2024-05-02,2024-05-10,Neurology,Heather Berry,Diabetes,Omeprazole,73342.59,Private,Cash,Recovered,Alison Perez,Yes,8
+P0463,Mackenzie Byrd,Female,64,2025-01-24,2025-01-30,Orthopedics,Rebecca Levine,Asthma,Atorvastatin,61897.98,General,Cash,Deceased,Stephanie Terry,No,6
+P0464,Jennifer Green,Male,73,2024-09-21,2024-09-26,General Medicine,Joshua Diaz DVM,Migraine,Amoxicillin,64483.71,ICU,Online,Referred,Phillip Jones,No,5
+P0465,Karen Cuevas,Other,78,2024-03-04,2024-03-16,Orthopedics,Mary Williamson,Fracture,Paracetamol,11453.7,ICU,Online,Referred,Samuel Williams,Yes,12
+P0466,Ms. Judith Greene,Other,7,2024-06-25,2024-07-10,Orthopedics,Steven Vazquez,Diabetes,Atorvastatin,47223.69,ICU,Cash,Recovered,Krista Griffin,Yes,15
+P0467,Joseph Francis,Female,15,2023-11-22,2023-12-07,Neurology,James Hart,Flu,Amoxicillin,8131.83,ICU,Insurance,Recovered,Brianna Garcia,Yes,15
+P0468,Helen Johnston,Female,19,2023-09-02,2023-09-06,Orthopedics,Jonathan Rogers,Migraine,Amoxicillin,16837.62,Private,Online,Referred,Carmen Mills,Yes,4
+P0469,Melanie Robinson,Male,29,2024-11-18,2024-11-23,Orthopedics,Brandon Holmes,Asthma,Paracetamol,67156.39,ICU,Online,Referred,Connor Lang,No,5
+P0470,Diane White,Female,2,2025-04-30,2025-05-12,Oncology,Ann Navarro,Flu,Omeprazole,55682.78,ICU,Cash,Recovered,Matthew Gibson,No,12
+P0471,Shelby Garcia,Female,62,2024-08-24,2024-08-29,Orthopedics,Diamond Hooper,Fracture,Amoxicillin,68138.2,Private,Cash,Recovered,Jessica Freeman,No,5
+P0472,Craig Valdez,Other,64,2024-04-02,2024-04-13,Pediatrics,Jeffrey Scott,Flu,Paracetamol,13079.34,ICU,Online,Deceased,Ronald Williams,No,11
+P0473,Monica Figueroa,Other,75,2025-06-12,2025-06-27,Neurology,Adrian Romero,Flu,Paracetamol,68927.24,ICU,Cash,Deceased,Cynthia Brown,Yes,15
+P0474,Jake Palmer,Female,64,2025-04-03,2025-04-08,Cardiology,Matthew Abbott,Cancer,Paracetamol,75558.15,General,Online,Referred,Brittany Ruiz,Yes,5
+P0475,Antonio Mendoza,Female,58,2024-03-26,2024-04-05,Pediatrics,Jacqueline Hayes,Migraine,Amoxicillin,4605.95,ICU,Cash,Referred,Lindsay Mckee,No,10
+P0476,Elizabeth Vaughn,Female,39,2024-12-20,2025-01-01,Cardiology,Crystal Adams,Migraine,Omeprazole,76704.01,ICU,Cash,Deceased,James Simmons,Yes,12
+P0477,Ashley Ramos,Male,56,2025-01-04,2025-01-12,Neurology,Sherry Baird,Flu,Omeprazole,5628.31,ICU,Insurance,Deceased,Dylan Smith,Yes,8
+P0478,Sandra Hudson,Female,32,2025-04-25,2025-04-29,General Medicine,Melissa Moore,Asthma,Amoxicillin,91946.69,General,Insurance,Referred,Corey Jenkins,No,4
+P0479,Shaun Odom,Male,42,2024-07-18,2024-07-30,Oncology,Sarah Gonzalez,Diabetes,Amoxicillin,72695.89,ICU,Online,Recovered,Mark Cantrell,No,12
+P0480,Jordan Thomas,Other,12,2025-03-13,2025-03-26,Orthopedics,Renee Wilson,Migraine,Paracetamol,3061.25,General,Cash,Deceased,Taylor Martin,Yes,13
+P0481,Brendan Taylor,Other,27,2023-10-24,2023-10-26,Oncology,Robert Wilson,Flu,Atorvastatin,49234.99,General,Online,Recovered,Michael Armstrong,Yes,2
+P0482,Lisa Sawyer,Male,83,2023-08-17,2023-08-18,Neurology,Eric Sweeney,Cancer,Amoxicillin,57517.95,Private,Insurance,Deceased,Benjamin Larsen,Yes,1
+P0483,Katherine Whitaker,Female,48,2023-06-17,2023-06-26,Pediatrics,Edwin Chan,Diabetes,Paracetamol,76061.24,Private,Online,Recovered,Courtney Gray,No,9
+P0484,Jennifer Henderson,Other,37,2025-02-19,2025-02-22,Cardiology,Ryan Little,Diabetes,Metformin,38677.35,General,Online,Recovered,David Ray,Yes,3
+P0485,William Martin,Female,63,2023-10-27,2023-10-30,Oncology,Karen Edwards,Migraine,Omeprazole,51713.64,General,Cash,Referred,Seth Newman,Yes,3
+P0486,Morgan Richards,Other,57,2024-08-02,2024-08-08,Orthopedics,Frances Chavez,Asthma,Amoxicillin,13813.59,Private,Insurance,Recovered,Wayne Moreno,No,6
+P0487,Karen Fischer,Male,88,2024-01-23,2024-01-24,Cardiology,Michael Roman,Hypertension,Metformin,81193.12,ICU,Insurance,Referred,Justin Stone,Yes,1
+P0488,Mrs. Jessica Evans,Female,78,2023-10-06,2023-10-18,Neurology,Jaime Wagner,Hypertension,Omeprazole,56031.95,ICU,Cash,Recovered,Christopher Grant,Yes,12
+P0489,Kelly Owens,Male,64,2023-10-02,2023-10-11,Neurology,Frances Robinson,Flu,Paracetamol,20206.26,ICU,Online,Deceased,Jamie Mccullough,No,9
+P0490,Ashley Fritz,Female,71,2023-11-04,2023-11-16,Cardiology,Gregory Marquez,Asthma,Atorvastatin,72564.92,ICU,Insurance,Referred,Keith Cunningham,No,12
+P0491,Aaron Steele,Other,16,2025-01-25,2025-02-08,Neurology,Barry Marshall,Fracture,Amoxicillin,85087.02,Private,Cash,Referred,Michael Jacobs,No,14
+P0492,Victoria Mclean,Female,19,2023-06-24,2023-07-09,Orthopedics,Steven Mcpherson,Hypertension,Omeprazole,75897.5,Private,Cash,Deceased,Joseph Moses,No,15
+P0493,Melissa Morse,Other,1,2024-06-21,2024-06-22,Pediatrics,Antonio Alexander,Asthma,Omeprazole,80581.28,ICU,Cash,Deceased,Robert Spence,No,1
+P0494,Rebecca Gregory,Other,43,2023-07-18,2023-07-28,Pediatrics,Stephanie Garcia,Fracture,Omeprazole,98482.85,Private,Online,Referred,Cody Stevens,Yes,10
+P0495,Thomas Campbell,Female,2,2024-07-10,2024-07-19,General Medicine,Aaron Williams,Flu,Omeprazole,95868.04,ICU,Cash,Referred,Olivia Schroeder,Yes,9
+P0496,Hannah Lee,Other,90,2025-05-04,2025-05-09,Neurology,Sandra Lucas,Cancer,Paracetamol,64399.33,Private,Insurance,Recovered,Diane Shields,Yes,5
+P0497,Maria Shepherd,Female,87,2025-05-11,2025-05-26,Neurology,Michael Roberts,Flu,Omeprazole,23385.56,ICU,Insurance,Deceased,Barbara Ortiz,Yes,15
+P0498,Bryan Crawford,Other,42,2025-03-28,2025-03-31,Oncology,Kenneth Sampson,Flu,Amoxicillin,68196.37,Private,Online,Recovered,Melanie Williamson,Yes,3
+P0499,Roger Moss,Other,4,2023-11-19,2023-12-01,Oncology,Laura Cowan,Diabetes,Atorvastatin,28262.42,General,Cash,Recovered,Caitlin Johnson,No,12
+P0500,Holly Rivas,Male,75,2024-01-05,2024-01-13,Neurology,Erika Parker,Flu,Atorvastatin,35504.98,General,Cash,Recovered,Jeffrey Mitchell,No,8
+P0501,Whitney Jones,Other,5,2024-11-12,2024-11-23,Oncology,Deborah Robinson,Migraine,Atorvastatin,30143.82,ICU,Insurance,Recovered,Krista Gonzales,No,11
+P0502,Caitlyn Cobb,Female,71,2025-05-31,2025-06-01,Pediatrics,Jeffrey Smith,Asthma,Omeprazole,80670.5,ICU,Cash,Referred,Brenda Holt,Yes,1
+P0503,Amanda Mann,Other,21,2025-02-15,2025-02-26,Pediatrics,Traci Rodriguez,Migraine,Amoxicillin,31579.87,ICU,Cash,Deceased,Derek Thomas DDS,No,11
+P0504,Dustin Valentine,Male,23,2024-02-14,2024-02-25,Neurology,Danny Murphy,Hypertension,Metformin,47860.04,Private,Cash,Referred,Barbara Anderson,No,11
+P0505,Douglas Jones,Other,62,2023-07-15,2023-07-19,Orthopedics,Andrew Mckenzie,Hypertension,Atorvastatin,22383.6,General,Online,Deceased,Christy Hawkins,Yes,4
+P0506,Jennifer Lowery,Other,32,2024-05-12,2024-05-17,General Medicine,Daniel Sullivan,Hypertension,Omeprazole,73642.83,Private,Cash,Recovered,Elizabeth May,No,5
+P0507,Kevin Carrillo,Female,55,2024-08-03,2024-08-17,Cardiology,Bradley Wood,Cancer,Atorvastatin,36016.96,Private,Cash,Deceased,Jenny Bruce,No,14
+P0508,James Herring,Female,4,2024-07-09,2024-07-13,General Medicine,Zachary Nguyen,Asthma,Omeprazole,71067.52,ICU,Insurance,Deceased,Ashley Reynolds,Yes,4
+P0509,Jeremy Caldwell,Male,41,2024-10-24,2024-10-27,Neurology,William Martin,Asthma,Atorvastatin,99044.7,Private,Online,Recovered,David Richardson,Yes,3
+P0510,Amy Green,Other,49,2024-05-20,2024-05-25,Pediatrics,Carolyn Ray,Migraine,Paracetamol,57633.29,Private,Cash,Recovered,Sarah Stevens,No,5
+P0511,Mary Cameron,Female,24,2025-05-15,2025-05-19,Orthopedics,Cassidy Simmons,Asthma,Metformin,19402.32,Private,Insurance,Deceased,Kelly Rogers,No,4
+P0512,Christina Harding,Male,76,2024-10-14,2024-10-24,Orthopedics,Amanda Houston,Fracture,Metformin,42255.6,Private,Cash,Referred,Mike Hunt,No,10
+P0513,Danielle Peterson,Other,31,2024-05-17,2024-05-30,Neurology,George Daniels,Flu,Omeprazole,20245.34,General,Cash,Referred,Laurie Nelson,Yes,13
+P0514,Christine Campbell,Male,70,2023-06-17,2023-06-27,Cardiology,Brian Gomez,Flu,Omeprazole,33876.42,Private,Cash,Deceased,Lori Kim,Yes,10
+P0515,Stephanie Garcia,Other,37,2024-01-31,2024-02-12,Neurology,Scott Richmond,Diabetes,Amoxicillin,51478.88,General,Insurance,Referred,Marcus Anderson,No,12
+P0516,James Craig,Other,88,2024-05-15,2024-05-20,Pediatrics,Thomas Brown,Hypertension,Paracetamol,33772.23,ICU,Cash,Deceased,Jeffrey Krause,No,5
+P0517,Megan Richmond,Female,61,2025-02-16,2025-02-17,Cardiology,John Villarreal,Diabetes,Omeprazole,3996.96,General,Insurance,Recovered,David Fernandez,No,1
+P0518,Lee Reeves,Female,31,2024-03-13,2024-03-14,Neurology,Michelle Carlson,Flu,Amoxicillin,80291.25,Private,Cash,Deceased,Jonathan Ray,Yes,1
+P0519,Arthur Ross,Female,74,2024-10-01,2024-10-06,Orthopedics,Denise Parsons,Hypertension,Omeprazole,44632.18,ICU,Online,Deceased,Nathan Brown,No,5
+P0520,Linda Reeves,Female,46,2024-04-26,2024-05-02,Orthopedics,Anna Wallace,Cancer,Paracetamol,3503.13,ICU,Cash,Recovered,Stephanie Padilla,No,6
+P0521,Kimberly Smith,Other,81,2025-02-27,2025-03-10,Orthopedics,Helen Taylor,Fracture,Atorvastatin,80159.58,Private,Online,Deceased,Kenneth Wise,Yes,11
+P0522,Bruce Roberts,Female,37,2024-04-11,2024-04-22,Cardiology,Charles Carroll,Flu,Amoxicillin,19411.71,ICU,Online,Recovered,Mario Frost,Yes,11
+P0523,Gary Johnson,Male,78,2023-12-10,2023-12-13,Oncology,Anthony Robinson DVM,Diabetes,Amoxicillin,34872.92,ICU,Online,Referred,Tracy Parker,Yes,3
+P0524,Travis Giles,Other,63,2024-07-05,2024-07-15,Cardiology,Kari Ruiz,Hypertension,Metformin,75490.43,Private,Cash,Recovered,Matthew Bell,No,10
+P0525,Christopher Meyers,Female,64,2024-08-23,2024-08-30,Cardiology,Krista Jimenez,Diabetes,Paracetamol,73921.93,Private,Insurance,Recovered,Carla Brown,Yes,7
+P0526,Ms. Alicia Daniel,Female,18,2025-03-25,2025-03-27,General Medicine,Lisa Hanson,Migraine,Amoxicillin,94503.37,Private,Cash,Deceased,Christine Barrett,Yes,2
+P0527,Katherine Mendoza DDS,Other,81,2023-11-09,2023-11-17,Oncology,Laura Gallegos,Migraine,Metformin,22752.18,ICU,Online,Referred,Ronnie Archer,No,8
+P0528,April Davis,Other,61,2025-03-28,2025-04-08,General Medicine,Mr. Anthony Zimmerman,Flu,Paracetamol,4710.31,ICU,Cash,Referred,Kristen Nichols,Yes,11
+P0529,Danielle Shannon DDS,Male,87,2025-04-19,2025-05-02,Pediatrics,Lisa Taylor,Fracture,Metformin,80302.93,Private,Online,Recovered,Jacob Jones,Yes,13
+P0530,Christopher Adams,Female,70,2023-08-26,2023-09-03,Orthopedics,Dana Costa,Flu,Atorvastatin,77023.71,General,Online,Recovered,Kenneth Rice,No,8
+P0531,Jimmy Mckinney,Female,48,2024-08-15,2024-08-25,Pediatrics,Luke Villegas,Cancer,Atorvastatin,96907.73,General,Insurance,Recovered,Hannah Crawford,Yes,10
+P0532,Barbara Cunningham,Female,87,2024-11-12,2024-11-27,General Medicine,Christopher Friedman,Asthma,Omeprazole,80880.73,ICU,Cash,Deceased,Theresa Gonzalez,Yes,15
+P0533,Matthew Knight,Male,50,2023-12-16,2023-12-17,Orthopedics,Pamela Brown,Cancer,Omeprazole,15066.65,ICU,Insurance,Referred,Joshua Scott,Yes,1
+P0534,Matthew Black,Other,66,2023-07-09,2023-07-13,Neurology,Anita Miller,Hypertension,Metformin,10625.35,ICU,Insurance,Referred,Megan Brown,Yes,4
+P0535,Stephanie Daniels,Male,66,2023-07-30,2023-08-03,Oncology,Leon Diaz,Diabetes,Metformin,54737.78,General,Insurance,Referred,Joel Houston MD,No,4
+P0536,Christina Villegas,Other,55,2024-07-21,2024-07-22,Orthopedics,Nicole Shepherd,Migraine,Amoxicillin,27223.39,ICU,Cash,Recovered,Erin Romero,Yes,1
+P0537,David Christensen,Other,27,2023-07-28,2023-07-29,Cardiology,James Griffith,Migraine,Paracetamol,28956.98,Private,Online,Deceased,Claudia Fuller,No,1
+P0538,Cynthia Callahan,Male,58,2024-03-15,2024-03-21,Pediatrics,Kara Baker,Migraine,Omeprazole,17063.17,General,Insurance,Referred,Nicholas Sims,Yes,6
+P0539,Amy Kennedy,Other,60,2025-02-14,2025-02-26,Cardiology,Justin Bentley,Cancer,Atorvastatin,81902.07,ICU,Online,Recovered,David Gray,Yes,12
+P0540,Kevin Cantu,Male,73,2025-04-21,2025-04-29,Pediatrics,Anthony Pratt,Fracture,Amoxicillin,13696.35,General,Insurance,Referred,Ann Weaver,No,8
+P0541,Megan Stone,Female,81,2024-03-20,2024-03-26,Pediatrics,Marie Young,Migraine,Amoxicillin,82426.13,General,Insurance,Recovered,Johnny Walsh,No,6
+P0542,Shane Mahoney,Male,53,2025-04-07,2025-04-17,General Medicine,Samantha Terrell,Flu,Atorvastatin,91885.69,Private,Insurance,Recovered,Denise Morgan,Yes,10
+P0543,Christine Jones,Female,17,2025-03-31,2025-04-07,Cardiology,Manuel Norris,Migraine,Amoxicillin,16164.29,General,Cash,Deceased,Derek Jones,Yes,7
+P0544,John Kim,Other,59,2024-02-29,2024-03-10,General Medicine,Drew Stein,Flu,Paracetamol,39290.75,General,Online,Deceased,Sarah Jones,No,10
+P0545,Melissa Cooper,Male,20,2023-12-29,2024-01-13,Oncology,Christopher Grant,Diabetes,Paracetamol,39945.62,ICU,Online,Deceased,Wendy Wagner DDS,No,15
+P0546,Paula Torres,Male,5,2025-01-10,2025-01-21,Orthopedics,Gabriel Rose,Diabetes,Paracetamol,95087.9,Private,Cash,Deceased,Joel Terry,Yes,11
+P0547,Daniel Hall,Male,3,2024-08-20,2024-08-26,Neurology,Brian Turner,Cancer,Amoxicillin,14634.05,General,Cash,Recovered,Tyler Adams,No,6
+P0548,Lauren Robertson,Female,49,2023-07-24,2023-08-07,Pediatrics,Jane Torres,Hypertension,Amoxicillin,5404.01,ICU,Online,Deceased,Scott Johnson,No,14
+P0549,Stephen Miller,Female,19,2024-03-03,2024-03-10,General Medicine,Lindsay Cox,Cancer,Omeprazole,65279.46,Private,Online,Recovered,Johnathan Kelley,No,7
+P0550,Douglas Gibson,Male,42,2024-01-31,2024-02-11,Pediatrics,Doris Williams,Fracture,Metformin,54905.97,General,Cash,Referred,John Hicks,No,11
+P0551,Jimmy Willis,Male,16,2024-09-06,2024-09-09,Neurology,Grace Martinez,Asthma,Atorvastatin,59323.28,ICU,Online,Recovered,Robert Becker,No,3
+P0552,Gregory Gonzalez,Female,87,2023-07-18,2023-07-21,Neurology,Andrew Simpson,Fracture,Amoxicillin,66385.65,Private,Online,Referred,Bryan Gill,Yes,3
+P0553,Timothy Jenkins,Other,32,2025-05-07,2025-05-21,Cardiology,Kimberly Knapp,Diabetes,Omeprazole,20249.15,General,Insurance,Recovered,Amber Nelson,No,14
+P0554,Tyler Juarez,Male,68,2025-04-30,2025-05-02,General Medicine,Christopher Roy,Flu,Atorvastatin,83003.13,Private,Insurance,Recovered,Misty Carter,Yes,2
+P0555,Susan Taylor,Female,58,2024-04-20,2024-04-24,General Medicine,Gerald Charles,Hypertension,Atorvastatin,96909.44,Private,Cash,Recovered,Patrick Watson,Yes,4
+P0556,Brian Turner,Female,85,2024-05-31,2024-06-13,General Medicine,Jeffery Browning,Fracture,Metformin,34988.72,General,Insurance,Recovered,Preston Barker,No,13
+P0557,Rita Allen,Male,24,2025-05-21,2025-05-30,Neurology,Kayla Patterson,Flu,Atorvastatin,78063.46,Private,Online,Referred,Brittany Foster,No,9
+P0558,Amanda Mitchell,Female,58,2024-10-04,2024-10-13,Pediatrics,Kathy Macias,Hypertension,Paracetamol,34406.2,Private,Insurance,Recovered,Rachel Williams,Yes,9
+P0559,Daniel Ryan,Female,4,2024-10-07,2024-10-17,Orthopedics,John Evans,Migraine,Metformin,85361.4,ICU,Cash,Referred,Deborah Gonzales,No,10
+P0560,April Wilson,Male,62,2023-08-04,2023-08-06,Cardiology,Melanie Strickland,Asthma,Metformin,29442.24,General,Cash,Referred,Kimberly Barber,No,2
+P0561,Eric Woods,Female,16,2024-08-10,2024-08-20,Orthopedics,Michael Patterson,Cancer,Metformin,77235.41,General,Online,Deceased,Sarah Wolf,No,10
+P0562,Tina Rowe,Female,5,2025-04-22,2025-04-23,Pediatrics,Michael Bruce,Hypertension,Omeprazole,36407.82,ICU,Insurance,Deceased,Derrick Wilkerson,Yes,1
+P0563,Valerie Herring,Female,71,2024-09-17,2024-09-25,Cardiology,Ronald Cox,Cancer,Paracetamol,93978.81,Private,Insurance,Deceased,Timothy Hutchinson,Yes,8
+P0564,Allison Mccormick,Male,90,2023-10-24,2023-10-28,Cardiology,Jason Brown,Hypertension,Atorvastatin,77622.55,ICU,Online,Referred,Taylor Sutton,Yes,4
+P0565,Joseph Schmidt,Male,90,2024-11-02,2024-11-09,General Medicine,Tanya Miller,Cancer,Omeprazole,91085.02,General,Insurance,Deceased,Katelyn Clark,Yes,7
+P0566,Crystal Tanner,Male,87,2023-11-29,2023-12-11,Cardiology,John Pearson,Cancer,Amoxicillin,36411.8,ICU,Insurance,Deceased,Sheila Cross,No,12
+P0567,Antonio Barron,Male,13,2023-09-01,2023-09-13,General Medicine,William Lucero,Cancer,Atorvastatin,5505.4,Private,Online,Referred,Jacob Vargas,Yes,12
+P0568,Elizabeth White,Female,42,2023-06-20,2023-06-25,General Medicine,Michael Carpenter,Diabetes,Metformin,55430.0,ICU,Online,Referred,Angela Flores MD,No,5
+P0569,David Robinson,Female,5,2024-03-16,2024-03-26,Cardiology,Lisa Freeman,Fracture,Metformin,61777.73,General,Online,Recovered,Connie Fields,No,10
+P0570,William Anderson,Female,60,2024-12-21,2024-12-31,Oncology,Troy Stewart,Migraine,Amoxicillin,19180.62,Private,Online,Referred,Tara Hale,Yes,10
+P0571,Patricia Compton,Other,64,2023-08-23,2023-08-24,Oncology,Abigail Alvarado,Asthma,Amoxicillin,45541.5,Private,Online,Recovered,Jennifer Hinton,Yes,1
+P0572,Brandon Miller,Male,45,2024-03-29,2024-04-05,General Medicine,Donald Ramsey,Hypertension,Amoxicillin,55804.6,General,Insurance,Recovered,Jordan Brown,No,7
+P0573,Debra Rodriguez PhD,Other,39,2024-09-19,2024-09-20,General Medicine,Tracey Gillespie,Migraine,Metformin,56270.29,General,Insurance,Referred,Brandy Marshall,Yes,1
+P0574,Tanya Caldwell,Male,23,2024-05-21,2024-05-25,Orthopedics,Keith Jefferson,Cancer,Metformin,20825.22,ICU,Insurance,Recovered,Robert Wall,No,4
+P0575,Marie Petty,Female,43,2023-10-01,2023-10-05,Neurology,Albert Campbell,Migraine,Amoxicillin,97420.03,General,Cash,Referred,Kelly May,Yes,4
+P0576,Richard King,Male,34,2025-05-31,2025-06-14,Orthopedics,Eric Austin,Fracture,Amoxicillin,68522.75,ICU,Insurance,Deceased,Harold Sanchez,No,14
+P0577,Laura Beltran,Other,15,2024-10-24,2024-11-06,Neurology,Pamela Ho,Migraine,Atorvastatin,27349.08,ICU,Insurance,Recovered,Brian Wilson,No,13
+P0578,David Robinson,Male,19,2024-11-26,2024-12-08,Neurology,Christopher Carroll,Fracture,Omeprazole,2917.54,ICU,Cash,Recovered,Randall Schultz,No,12
+P0579,Linda Morris,Female,48,2024-10-17,2024-10-25,Oncology,Alicia Alexander,Migraine,Amoxicillin,76363.09,ICU,Insurance,Recovered,Bradley Richardson,Yes,8
+P0580,Timothy Cain,Female,20,2023-08-18,2023-08-24,Neurology,Amy Martin,Asthma,Paracetamol,79965.18,ICU,Cash,Referred,Laura Hartman,Yes,6
+P0581,Anthony Smith,Male,23,2025-01-13,2025-01-15,Neurology,Isaac Robinson,Flu,Omeprazole,91602.12,Private,Online,Deceased,Emily Walker,No,2
+P0582,Jacob Thomas,Female,88,2024-08-25,2024-09-09,General Medicine,Timothy Lang,Hypertension,Omeprazole,62955.11,Private,Cash,Recovered,Morgan Jennings,Yes,15
+P0583,Dr. Diana Miller MD,Male,14,2025-01-13,2025-01-25,General Medicine,Amber Cruz DDS,Cancer,Paracetamol,13234.85,ICU,Online,Recovered,Jamie Reed,Yes,12
+P0584,Kimberly Gonzales,Other,66,2024-11-16,2024-11-27,Neurology,Richard Lynch,Fracture,Metformin,5897.8,Private,Cash,Recovered,Katelyn Velasquez,No,11
+P0585,Kim Santos,Male,2,2023-12-29,2024-01-03,Neurology,Rebecca Douglas,Cancer,Atorvastatin,54368.82,General,Cash,Recovered,Lori Murphy,Yes,5
+P0586,Tiffany Combs,Other,74,2023-10-24,2023-10-30,Pediatrics,Joyce Franklin,Asthma,Paracetamol,11808.61,Private,Cash,Deceased,Roger Palmer II,No,6
+P0587,James Love,Male,45,2024-09-26,2024-09-28,Pediatrics,Elizabeth Smith,Diabetes,Metformin,84977.01,Private,Cash,Deceased,Courtney Fox,Yes,2
+P0588,Manuel Davis,Male,45,2025-05-24,2025-05-28,Cardiology,Patrick Jones,Diabetes,Omeprazole,76388.5,Private,Online,Recovered,Charles Griffin,Yes,4
+P0589,David Davis,Male,90,2024-12-29,2025-01-12,Orthopedics,Tammy Rollins,Flu,Omeprazole,8171.2,General,Online,Recovered,Samuel Davis,No,14
+P0590,Larry Glass,Other,82,2024-03-21,2024-03-22,Oncology,Timothy Smith,Fracture,Atorvastatin,38428.69,General,Online,Referred,Tony Thomas,No,1
+P0591,Amber Holmes,Male,51,2025-01-19,2025-01-31,General Medicine,Alejandro Nelson,Migraine,Atorvastatin,98478.54,Private,Cash,Recovered,Johnny Shaw,Yes,12
+P0592,Kelsey Chavez,Female,88,2025-02-14,2025-02-28,General Medicine,Jake Harris,Migraine,Amoxicillin,68981.84,ICU,Online,Deceased,Amanda Bernard,No,14
+P0593,Jonathan Miles,Male,26,2025-03-08,2025-03-19,Orthopedics,Bryan Wilson,Hypertension,Omeprazole,42960.45,Private,Insurance,Referred,Elizabeth Hall,Yes,11
+P0594,Christopher Ford,Other,47,2023-08-09,2023-08-24,Orthopedics,Anna Williams,Flu,Metformin,6256.28,Private,Cash,Referred,Melinda Ramos,No,15
+P0595,George Jackson,Female,87,2023-10-23,2023-11-02,Pediatrics,David Sherman III,Migraine,Omeprazole,93197.3,ICU,Online,Recovered,Paul Brown,No,10
+P0596,Robert Frank,Other,22,2023-09-25,2023-10-10,Orthopedics,Casey Phillips,Flu,Amoxicillin,30859.85,General,Online,Recovered,Regina White,No,15
+P0597,Nicole Bowers,Male,90,2024-10-19,2024-10-28,Neurology,Kristen Perkins,Asthma,Amoxicillin,87677.39,Private,Online,Deceased,Ashley Olson,Yes,9
+P0598,James Orr,Male,16,2024-03-18,2024-04-01,General Medicine,Rachel Mullins,Cancer,Atorvastatin,63927.28,Private,Insurance,Recovered,Thomas Smith,No,14
+P0599,Melissa Tucker,Other,77,2024-06-09,2024-06-15,Cardiology,Kimberly Garrett,Cancer,Amoxicillin,30697.06,General,Insurance,Recovered,Rachel Wilson,No,6
+P0600,Amy Anderson,Female,45,2024-10-25,2024-10-31,General Medicine,Natalie Riley,Flu,Paracetamol,78810.99,Private,Insurance,Deceased,Donna Rodriguez,Yes,6
+P0601,Cheryl Wilson,Male,79,2024-09-11,2024-09-21,Orthopedics,Caitlyn Deleon,Cancer,Metformin,12620.91,General,Cash,Deceased,Ann Rivera,No,10
+P0602,Kathleen Yu,Male,38,2024-11-24,2024-12-05,Cardiology,Sarah Farley,Cancer,Omeprazole,77385.0,ICU,Online,Recovered,Jacob Gonzalez,Yes,11
+P0603,Lisa Hernandez,Other,11,2024-06-18,2024-06-25,Orthopedics,William Price,Flu,Atorvastatin,8509.25,Private,Online,Recovered,Jasmine Love,No,7
+P0604,Shannon Villarreal,Other,83,2025-05-31,2025-06-10,Cardiology,Jill Hanson,Asthma,Metformin,55957.68,Private,Insurance,Recovered,Susan Mccall,No,10
+P0605,Alejandro Rice,Male,82,2025-02-12,2025-02-22,Oncology,Richard Nguyen,Diabetes,Amoxicillin,19765.56,General,Online,Referred,Kim Johnston,Yes,10
+P0606,Jesse Alexander,Female,56,2023-09-14,2023-09-26,Pediatrics,Michael Bentley,Migraine,Omeprazole,46521.57,ICU,Insurance,Referred,Gary Tucker,No,12
+P0607,Jessica Valenzuela,Female,68,2024-04-01,2024-04-16,Orthopedics,Julie Stewart,Hypertension,Paracetamol,26772.74,ICU,Cash,Recovered,Theresa Zhang,No,15
+P0608,Scott Johnson,Female,86,2025-02-04,2025-02-14,Neurology,James Smith,Diabetes,Atorvastatin,61278.19,ICU,Cash,Deceased,Charles Mcintosh,Yes,10
+P0609,Michael Collins,Male,10,2024-10-13,2024-10-14,Cardiology,Jose Harris,Cancer,Amoxicillin,2817.32,General,Cash,Deceased,Julie White,Yes,1
+P0610,Kathleen Wilson,Other,48,2025-05-09,2025-05-12,Cardiology,Walter Miller,Migraine,Amoxicillin,63729.67,Private,Cash,Recovered,Sharon Hernandez,Yes,3
+P0611,Mark Martinez,Other,18,2024-10-09,2024-10-11,Orthopedics,Hayley Watson,Hypertension,Amoxicillin,5185.65,Private,Insurance,Deceased,Sean Parker,No,2
+P0612,Misty Miller,Male,52,2024-12-21,2024-12-23,Oncology,John Reyes,Flu,Metformin,96473.07,General,Insurance,Recovered,Tiffany Anthony,No,2
+P0613,Terri Archer,Male,84,2023-11-26,2023-12-09,Pediatrics,Anna Mann,Cancer,Paracetamol,9563.27,ICU,Online,Referred,Kendra Thompson,Yes,13
+P0614,Megan Dillon,Male,35,2025-05-09,2025-05-16,Neurology,Kevin Lopez,Flu,Metformin,28591.88,General,Online,Recovered,Christina Malone,No,7
+P0615,Amanda Walker,Male,29,2023-11-18,2023-12-03,Orthopedics,Jeffrey Franklin,Fracture,Metformin,9315.91,ICU,Cash,Deceased,David Russell,No,15
+P0616,Michael Soto,Other,25,2025-05-21,2025-05-31,Oncology,Karen Villarreal,Hypertension,Amoxicillin,65288.61,General,Cash,Recovered,Michele Smith,Yes,10
+P0617,Jordan Meyer,Male,70,2024-10-18,2024-10-29,Orthopedics,Caleb Saunders,Fracture,Amoxicillin,9457.74,General,Cash,Recovered,Henry Little,Yes,11
+P0618,Kyle Williams,Other,68,2023-07-28,2023-08-01,Neurology,Veronica Warren,Migraine,Paracetamol,83345.06,Private,Insurance,Recovered,Nicole Mills,No,4
+P0619,Alex Lopez,Male,18,2024-12-20,2024-12-29,General Medicine,April Johnson,Diabetes,Metformin,22723.08,Private,Cash,Deceased,Nicholas Clark,No,9
+P0620,Michael Baker,Female,12,2024-11-19,2024-11-29,Orthopedics,Thomas Sellers,Cancer,Omeprazole,61692.66,Private,Insurance,Recovered,Robert Wallace,No,10
+P0621,Michael Hunt,Female,81,2024-05-07,2024-05-09,Oncology,Elizabeth Ewing,Migraine,Omeprazole,4193.71,General,Insurance,Referred,Amy Sullivan,Yes,2
+P0622,Emily Thomas,Male,10,2024-09-27,2024-10-06,Cardiology,Ethan Curry,Asthma,Amoxicillin,80843.53,General,Insurance,Referred,Brian David,Yes,9
+P0623,Terri Lawson,Male,56,2025-04-07,2025-04-09,Pediatrics,Natalie Davidson,Asthma,Omeprazole,19483.61,Private,Insurance,Referred,Catherine Brown DVM,Yes,2
+P0624,Dennis Lewis,Male,76,2024-11-07,2024-11-19,Orthopedics,Jeffrey Long,Migraine,Amoxicillin,48261.21,General,Cash,Referred,Michael Taylor,No,12
+P0625,Sonya Moore,Female,80,2024-10-21,2024-11-02,General Medicine,Carly Smith,Fracture,Paracetamol,89438.0,Private,Online,Recovered,Lisa Jones,No,12
+P0626,Samuel Taylor,Female,35,2023-10-23,2023-11-01,Cardiology,Jack Fowler,Diabetes,Atorvastatin,42428.06,Private,Insurance,Referred,Christina Berry,Yes,9
+P0627,Adam Bruce,Female,39,2024-06-03,2024-06-04,Neurology,Kenneth Carrillo,Flu,Atorvastatin,71357.01,ICU,Cash,Referred,Angelica Craig,Yes,1
+P0628,Christopher Flores,Female,70,2023-12-28,2024-01-02,Neurology,Dustin Freeman,Asthma,Metformin,90633.97,Private,Insurance,Referred,Gary Roberts,No,5
+P0629,Brian Brown,Female,27,2023-07-15,2023-07-17,Oncology,Glen Carter,Hypertension,Atorvastatin,87569.86,Private,Online,Referred,Erin Smith,No,2
+P0630,Casey Perez,Other,15,2023-12-30,2024-01-09,General Medicine,Tiffany Castro,Diabetes,Omeprazole,29486.27,ICU,Online,Referred,William Hodges,No,10
+P0631,Jill Lewis,Other,49,2024-06-14,2024-06-24,Cardiology,Patricia Walker,Flu,Paracetamol,12693.84,ICU,Online,Recovered,Susan Davis,Yes,10
+P0632,John Buckley,Female,6,2024-07-30,2024-08-08,Orthopedics,Desiree White,Flu,Omeprazole,59481.73,Private,Insurance,Deceased,Lynn Turner,No,9
+P0633,Casey Stephenson,Other,15,2024-08-01,2024-08-03,General Medicine,Justin Logan,Diabetes,Atorvastatin,93955.99,Private,Online,Deceased,Emily Garcia,Yes,2
+P0634,Jennifer Wells,Other,22,2024-02-16,2024-02-22,Pediatrics,Christina Buckley,Cancer,Metformin,73045.68,ICU,Online,Recovered,Jeremy Petty,Yes,6
+P0635,Sierra Peck,Other,10,2024-02-07,2024-02-08,Cardiology,Michelle Parrish,Asthma,Omeprazole,51651.23,Private,Online,Referred,Laura Rodriguez,Yes,1
+P0636,Dawn Jones,Male,63,2024-01-17,2024-01-26,Neurology,Brad Graves,Asthma,Amoxicillin,83654.59,ICU,Cash,Recovered,Sandra Harris,Yes,9
+P0637,Caitlyn Green,Other,81,2024-07-28,2024-08-08,Oncology,Jacob Williams,Hypertension,Atorvastatin,66302.61,Private,Insurance,Recovered,Brandon Hansen,No,11
+P0638,Nancy Anderson,Male,12,2024-08-28,2024-09-03,Orthopedics,Donald Jackson,Migraine,Amoxicillin,28819.66,ICU,Online,Deceased,Keith Lewis,Yes,6
+P0639,Rebecca Smith,Other,82,2024-01-31,2024-02-15,General Medicine,Barry Haynes,Flu,Amoxicillin,29029.68,General,Insurance,Recovered,Elizabeth Mendoza,Yes,15
+P0640,Paul Garcia,Female,85,2024-09-14,2024-09-24,Oncology,Nicholas Moore,Migraine,Paracetamol,17084.13,ICU,Cash,Referred,Timothy Stewart,No,10
+P0641,Sarah Dorsey,Female,58,2024-05-03,2024-05-04,Oncology,Annette Ramirez,Asthma,Paracetamol,79946.91,General,Cash,Deceased,Christopher Turner,No,1
+P0642,Ashley Ross,Female,76,2023-11-14,2023-11-29,Oncology,Nicholas Schneider,Asthma,Omeprazole,24549.45,ICU,Online,Referred,Brittany Osborn,No,15
+P0643,Heather Williams,Other,16,2024-03-20,2024-03-24,Orthopedics,Aaron Baker,Fracture,Omeprazole,37187.03,Private,Online,Recovered,David Fleming,Yes,4
+P0644,Bill Burton,Male,7,2025-06-07,2025-06-14,Orthopedics,Anna Johnson,Cancer,Atorvastatin,94935.6,ICU,Online,Referred,Brandon Lee,No,7
+P0645,Joy Rivas,Female,27,2024-05-12,2024-05-24,Neurology,Diamond Williams,Hypertension,Amoxicillin,19062.34,ICU,Online,Referred,Kimberly Khan,Yes,12
+P0646,Kristopher Smith,Other,78,2024-10-06,2024-10-21,Orthopedics,Travis Schmidt,Flu,Omeprazole,19853.89,General,Cash,Referred,David Rodriguez,Yes,15
+P0647,Douglas Carroll,Female,25,2023-10-07,2023-10-21,Neurology,John Heath,Diabetes,Atorvastatin,91871.78,Private,Online,Deceased,Samantha Willis,No,14
+P0648,Patricia Hall,Other,17,2024-01-23,2024-01-30,Cardiology,Carrie Wheeler,Migraine,Metformin,93645.43,Private,Cash,Referred,John Harding,Yes,7
+P0649,Margaret Boyd,Male,52,2025-05-27,2025-05-30,Neurology,Michelle Thomas,Cancer,Omeprazole,91775.44,General,Insurance,Deceased,Laura Baker,Yes,3
+P0650,Steven Taylor,Female,66,2025-02-16,2025-03-01,Orthopedics,Jonathan Franklin,Asthma,Paracetamol,93969.88,General,Insurance,Deceased,Gina Ramsey,No,13
+P0651,Antonio Parsons,Other,29,2024-04-09,2024-04-24,Pediatrics,Bridget Foster,Hypertension,Paracetamol,38597.77,General,Cash,Recovered,Terri Washington,No,15
+P0652,Sheri Sutton,Male,15,2023-12-17,2023-12-26,Oncology,Sherry Adkins,Diabetes,Paracetamol,9453.71,General,Online,Deceased,Sara Anthony,No,9
+P0653,Cynthia Kerr,Male,35,2023-12-20,2023-12-25,Pediatrics,William Ellis,Migraine,Metformin,54570.8,General,Online,Deceased,Pamela Mills,No,5
+P0654,Morgan Stark,Female,61,2024-05-24,2024-06-03,Orthopedics,Derrick Salas,Cancer,Metformin,32200.6,ICU,Insurance,Referred,Michael Smith,No,10
+P0655,Kyle Johnson,Other,47,2024-05-20,2024-05-22,Pediatrics,Lisa Duran,Flu,Amoxicillin,52691.67,Private,Cash,Referred,Jason Franklin,Yes,2
+P0656,Elizabeth Johnson MD,Male,40,2024-12-28,2025-01-05,Cardiology,Kimberly Campbell,Fracture,Amoxicillin,92803.07,General,Insurance,Deceased,Robert Jones,Yes,8
+P0657,Wanda West,Male,41,2024-01-24,2024-02-08,Oncology,Jessica Mcdowell PhD,Migraine,Metformin,47000.93,General,Insurance,Deceased,Brooke Fisher,No,15
+P0658,Joel Martinez,Male,52,2024-06-02,2024-06-10,Neurology,Anthony Morton,Diabetes,Paracetamol,97905.73,ICU,Insurance,Deceased,Misty Mullen,Yes,8
+P0659,Pedro Rodriguez,Male,72,2023-10-19,2023-10-20,Cardiology,Thomas Foster,Flu,Paracetamol,9432.88,Private,Online,Recovered,Rhonda Reynolds,Yes,1
+P0660,John Chapman,Female,67,2025-05-24,2025-06-06,Orthopedics,Charles Maddox,Asthma,Metformin,71495.37,Private,Cash,Recovered,Sheila Hernandez,Yes,13
+P0661,Jodi Harris,Other,11,2023-10-25,2023-10-28,Cardiology,John Jones,Fracture,Omeprazole,21201.39,General,Online,Deceased,Glen Huff,Yes,3
+P0662,Heather Herrera,Male,31,2023-12-09,2023-12-13,General Medicine,Kevin White,Asthma,Omeprazole,56548.89,Private,Cash,Deceased,Christopher Chang,Yes,4
+P0663,April Sims,Other,56,2024-10-23,2024-10-29,Pediatrics,Jessica Gordon,Asthma,Paracetamol,43365.71,General,Cash,Recovered,April Reed,No,6
+P0664,Toni Herrera,Male,22,2023-11-05,2023-11-12,Cardiology,John Ruiz,Cancer,Paracetamol,88861.6,Private,Insurance,Recovered,Olivia Sparks,No,7
+P0665,Willie Wang,Other,81,2024-09-07,2024-09-22,Oncology,Linda Zimmerman,Fracture,Amoxicillin,52215.62,Private,Insurance,Deceased,Mr. Michael Johnson,No,15
+P0666,Michael Smith PhD,Male,78,2024-10-31,2024-11-12,Cardiology,Victoria Mccall,Asthma,Amoxicillin,90832.9,ICU,Insurance,Deceased,Joseph Turner,Yes,12
+P0667,Deborah Stevenson,Female,86,2024-01-28,2024-02-03,Oncology,Gabriel Roberts,Hypertension,Paracetamol,99641.94,ICU,Insurance,Recovered,Daniel Johnson,No,6
+P0668,Jonathan Wilson,Male,22,2024-09-12,2024-09-25,Oncology,Barbara Davis,Cancer,Metformin,4541.95,ICU,Online,Recovered,Mary Kelly,Yes,13
+P0669,Robert Hale,Other,20,2024-08-01,2024-08-03,Pediatrics,Antonio Cooley,Cancer,Omeprazole,48329.13,Private,Online,Referred,Katie Martin,Yes,2
+P0670,Amanda Garcia,Female,22,2023-10-16,2023-10-25,Pediatrics,Marcus Peterson,Fracture,Amoxicillin,44126.67,General,Online,Deceased,Nicole Jones,Yes,9
+P0671,Carla Fields,Other,41,2025-04-16,2025-05-01,Neurology,Debbie Jones,Hypertension,Omeprazole,61235.74,General,Cash,Recovered,Sarah Little,No,15
+P0672,Caitlin Obrien,Female,59,2023-10-08,2023-10-19,General Medicine,Stephanie Harmon,Diabetes,Amoxicillin,6017.73,Private,Cash,Deceased,Joshua Miller,No,11
+P0673,Andrew Cook,Other,6,2025-02-01,2025-02-02,Neurology,Jacqueline Petty,Asthma,Atorvastatin,15232.11,ICU,Cash,Referred,Jeremy Phillips,No,1
+P0674,Michelle Juarez,Male,53,2024-12-24,2025-01-02,General Medicine,Roy Pratt,Cancer,Amoxicillin,9291.92,General,Cash,Referred,Chase Goodman,No,9
+P0675,Kim Fowler,Male,72,2024-09-27,2024-10-02,Pediatrics,Jerome Ellis,Diabetes,Atorvastatin,97250.99,General,Online,Referred,Jasmine Fitzgerald,No,5
+P0676,Michael Meza,Female,30,2025-03-01,2025-03-11,General Medicine,Alyssa Coffey,Fracture,Atorvastatin,78271.1,Private,Insurance,Recovered,Jeffrey Johnston,No,10
+P0677,Lindsey Mcbride,Female,21,2023-07-31,2023-08-13,General Medicine,Anthony Lopez,Migraine,Paracetamol,75087.11,Private,Online,Deceased,David Brown,No,13
+P0678,Michelle Nixon,Male,29,2025-06-10,2025-06-13,Oncology,Jonathan Shea,Cancer,Paracetamol,84130.12,General,Online,Referred,Beverly Stewart,Yes,3
+P0679,Allison Peterson,Other,90,2024-06-24,2024-07-01,General Medicine,Zachary Mack,Cancer,Amoxicillin,24597.59,Private,Cash,Referred,Tina Payne,Yes,7
+P0680,Jennifer Fox,Female,2,2024-07-18,2024-07-24,Orthopedics,Michael Young,Cancer,Omeprazole,71343.71,Private,Insurance,Deceased,Sarah Smith,Yes,6
+P0681,Terri Wong,Male,89,2024-12-21,2024-12-24,Cardiology,Thomas Allen,Fracture,Atorvastatin,94070.59,Private,Insurance,Deceased,Amanda Mooney,No,3
+P0682,Ruth West,Female,83,2024-05-20,2024-05-24,Pediatrics,James Brown,Diabetes,Amoxicillin,86885.97,ICU,Insurance,Deceased,Michael Rich,Yes,4
+P0683,Amy Steele,Male,83,2024-10-09,2024-10-22,Cardiology,Mary Fisher,Flu,Paracetamol,56968.3,ICU,Insurance,Referred,Christine Norton,Yes,13
+P0684,Ashley Sanchez,Other,85,2024-01-29,2024-02-07,Neurology,Brett Boyd,Hypertension,Atorvastatin,42920.26,General,Cash,Referred,Brenda Strickland,Yes,9
+P0685,Christopher Fischer,Other,51,2024-02-19,2024-03-05,Neurology,Patricia Cisneros,Diabetes,Atorvastatin,80126.68,Private,Cash,Deceased,Bryan Miller,No,15
+P0686,Darrell Dyer,Other,34,2024-02-27,2024-03-07,Oncology,Juan Ramos,Fracture,Atorvastatin,68077.92,General,Online,Referred,Anna Alvarez,Yes,9
+P0687,Paul Ortiz,Male,89,2024-07-10,2024-07-24,Pediatrics,Jennifer Smith,Migraine,Omeprazole,40627.93,General,Cash,Recovered,John Ayers,Yes,14
+P0688,Thomas Finley,Other,58,2025-02-20,2025-02-28,Cardiology,Brandon Olson,Hypertension,Paracetamol,10991.11,Private,Cash,Recovered,Benjamin Davis,No,8
+P0689,Tammy Lewis,Female,84,2024-03-16,2024-03-22,General Medicine,Dorothy Clarke,Migraine,Metformin,79647.41,General,Cash,Deceased,Mrs. Megan Wells,Yes,6
+P0690,Christina Jackson,Male,15,2025-03-16,2025-03-21,Oncology,Jason Jackson,Asthma,Omeprazole,43393.95,ICU,Insurance,Referred,Robert Crawford,No,5
+P0691,Craig Abbott,Male,70,2024-11-23,2024-11-30,Oncology,George Martinez,Cancer,Paracetamol,57805.43,ICU,Insurance,Deceased,Daniel Warren,Yes,7
+P0692,Barry Sanchez,Female,45,2024-03-26,2024-04-10,Neurology,Christopher Flynn,Fracture,Atorvastatin,80109.71,ICU,Online,Deceased,Misty Smith,No,15
+P0693,Steve Moore,Male,65,2025-01-27,2025-02-07,Neurology,Kelly Phelps,Asthma,Paracetamol,41240.81,ICU,Cash,Deceased,James Cooper,Yes,11
+P0694,Kevin Hanson,Other,6,2024-06-23,2024-06-27,Neurology,Mrs. Misty Johnson DDS,Cancer,Amoxicillin,58526.42,ICU,Insurance,Referred,Marc Williams,No,4
+P0695,Cynthia Gonzalez,Male,65,2024-11-26,2024-12-08,General Medicine,Julie Perry,Asthma,Amoxicillin,84150.54,General,Cash,Recovered,Brandon Martinez,Yes,12
+P0696,Joseph Garcia,Other,42,2023-11-01,2023-11-02,Cardiology,Michael Johnson,Migraine,Metformin,90702.38,General,Cash,Deceased,Laurie Rojas,Yes,1
+P0697,Gary Hansen,Male,47,2023-09-08,2023-09-21,Oncology,Krystal Fletcher,Flu,Metformin,8573.43,ICU,Cash,Recovered,Justin Caldwell,Yes,13
+P0698,David Reese,Other,70,2025-01-09,2025-01-14,Orthopedics,Jennifer Benton,Fracture,Amoxicillin,27180.41,ICU,Insurance,Deceased,Thomas Patterson,Yes,5
+P0699,Christine Davis,Male,1,2025-04-23,2025-05-04,Pediatrics,Steven Navarro,Diabetes,Atorvastatin,72554.22,Private,Online,Deceased,Allen Campbell,Yes,11
+P0700,Ashley Jimenez,Female,75,2023-10-14,2023-10-25,Cardiology,Sheryl Carter,Migraine,Paracetamol,19559.97,ICU,Insurance,Referred,Angelica Potts,Yes,11
+P0701,Brian Pearson,Female,33,2025-01-02,2025-01-06,Pediatrics,Kimberly Stewart,Asthma,Metformin,75896.03,General,Online,Recovered,Patrick Powell,No,4
+P0702,Andrew Poole,Female,45,2024-08-13,2024-08-21,Neurology,Marc West,Asthma,Metformin,53277.4,Private,Cash,Recovered,Timothy Diaz,Yes,8
+P0703,Pamela Jenkins,Other,88,2025-04-15,2025-04-17,Neurology,Raymond Wood,Migraine,Atorvastatin,16765.39,Private,Online,Deceased,Amber Cunningham,Yes,2
+P0704,John Schultz,Female,14,2024-10-17,2024-10-27,General Medicine,Jacob Stevens,Migraine,Atorvastatin,29388.15,General,Cash,Referred,Dustin Lee,Yes,10
+P0705,Mitchell White Jr.,Male,86,2024-03-31,2024-04-08,Pediatrics,Kayla Bell,Asthma,Paracetamol,59521.91,General,Online,Referred,Julie Lane,Yes,8
+P0706,Mercedes Sharp,Female,17,2025-03-31,2025-04-02,Cardiology,Daniel Santos,Hypertension,Amoxicillin,87481.93,General,Cash,Deceased,George Hawkins,No,2
+P0707,Daniel Gardner,Other,38,2023-11-15,2023-11-29,General Medicine,Benjamin Russell,Migraine,Metformin,65706.67,Private,Insurance,Recovered,Jason Chapman,Yes,14
+P0708,Bridget Sparks,Male,67,2025-05-09,2025-05-20,Neurology,Brittany Flores,Diabetes,Metformin,32943.68,General,Cash,Referred,Mark Williamson,Yes,11
+P0709,Jerome Anthony,Male,26,2025-04-17,2025-05-01,Pediatrics,Kylie Thomas,Flu,Metformin,44187.57,Private,Online,Recovered,Wesley Smith,Yes,14
+P0710,Brittney Pena,Female,51,2024-03-15,2024-03-27,Pediatrics,Ryan Stephens,Cancer,Amoxicillin,58827.86,ICU,Insurance,Recovered,Donald Montgomery,No,12
+P0711,Alyssa Ford,Other,88,2023-09-18,2023-09-26,General Medicine,Michael Thomas,Flu,Amoxicillin,48799.88,General,Cash,Referred,Daniel Myers,Yes,8
+P0712,Jennifer Wallace,Female,73,2024-05-25,2024-05-29,Orthopedics,Kevin Jenkins,Diabetes,Amoxicillin,59765.04,ICU,Online,Referred,Paul Blair,Yes,4
+P0713,David Wolfe DDS,Female,10,2024-02-02,2024-02-13,Neurology,Jason Hodges,Fracture,Paracetamol,49240.54,Private,Insurance,Referred,Austin Roberts,No,11
+P0714,Nicole Rivers,Female,60,2024-11-05,2024-11-06,Pediatrics,Ernest Ford,Asthma,Metformin,12018.36,Private,Insurance,Deceased,Marcus Carroll,Yes,1
+P0715,Kathryn Torres,Other,68,2024-01-24,2024-02-08,Oncology,Theresa Phelps,Cancer,Omeprazole,97161.63,General,Insurance,Referred,Brandon Porter,Yes,15
+P0716,Christopher Woods,Female,18,2025-01-01,2025-01-13,Orthopedics,Samantha Robinson,Migraine,Omeprazole,13171.09,ICU,Insurance,Referred,Michael Miller,No,12
+P0717,Rodney Lee,Male,71,2024-01-27,2024-01-29,Orthopedics,Bobby Perez,Cancer,Atorvastatin,13407.34,General,Insurance,Deceased,Donald Bright,Yes,2
+P0718,Julie Black,Other,69,2024-08-09,2024-08-21,Neurology,Heather Jackson,Fracture,Omeprazole,64327.58,ICU,Insurance,Recovered,Kelly Nelson,No,12
+P0719,Rebecca Johnson,Female,25,2023-11-29,2023-12-09,Orthopedics,Stacy Hoover,Cancer,Omeprazole,54531.87,ICU,Cash,Referred,Debra Cole,Yes,10
+P0720,Victoria Pacheco,Female,16,2024-12-12,2024-12-25,Orthopedics,Brian Escobar,Diabetes,Omeprazole,65044.9,General,Online,Deceased,Kara Erickson,No,13
+P0721,Cassandra Adams,Other,8,2024-07-04,2024-07-13,General Medicine,Joseph Lee,Asthma,Metformin,46644.08,ICU,Cash,Referred,Lisa Rogers,Yes,9
+P0722,Brian Smith,Other,73,2025-04-05,2025-04-08,Orthopedics,Hannah Nguyen,Hypertension,Paracetamol,98970.53,Private,Cash,Deceased,Linda Powell,Yes,3
+P0723,Blake Jones,Male,50,2024-05-22,2024-06-03,Oncology,Kimberly Hester,Cancer,Omeprazole,30963.39,General,Online,Deceased,Zoe Walker,Yes,12
+P0724,Brent Rivera,Female,34,2024-04-30,2024-05-14,Pediatrics,Mark Salazar,Diabetes,Atorvastatin,91282.94,ICU,Cash,Recovered,Ryan Greer,No,14
+P0725,Jennifer Alexander,Female,61,2024-11-06,2024-11-10,Orthopedics,Natasha Lee,Asthma,Amoxicillin,92348.99,Private,Cash,Recovered,Charles Terry,No,4
+P0726,Matthew Freeman,Male,75,2024-09-10,2024-09-14,Pediatrics,April Dodson,Diabetes,Omeprazole,19489.03,ICU,Online,Referred,Ryan Bradley,No,4
+P0727,Lauren Tucker,Female,76,2023-07-19,2023-07-22,Pediatrics,Angela Branch,Flu,Paracetamol,25493.62,Private,Online,Deceased,Tina Powell,No,3
+P0728,Jeffrey Reeves,Female,41,2024-04-29,2024-05-09,General Medicine,Brianna Miller,Cancer,Metformin,53570.54,General,Cash,Recovered,Frank Brown,Yes,10
+P0729,Nancy Chang,Male,90,2023-08-02,2023-08-13,Cardiology,Kimberly Berg,Hypertension,Amoxicillin,3844.41,Private,Cash,Deceased,Tina Jordan,No,11
+P0730,Lee Montes,Other,47,2024-02-07,2024-02-13,Oncology,Laura Hayes,Flu,Atorvastatin,48441.27,Private,Cash,Referred,Kyle Decker,Yes,6
+P0731,Meagan Sanchez,Male,56,2025-02-10,2025-02-24,General Medicine,Tracy Butler,Cancer,Atorvastatin,4786.75,Private,Insurance,Deceased,Steven Rush,Yes,14
+P0732,Mark Miller,Male,12,2024-02-23,2024-02-24,General Medicine,Christian Alexander,Flu,Metformin,73198.8,Private,Insurance,Referred,Erica Meyer,Yes,1
+P0733,Julie Spears,Other,79,2025-04-29,2025-05-01,General Medicine,Jocelyn Hernandez,Migraine,Atorvastatin,21839.16,Private,Insurance,Deceased,Rebecca Obrien,Yes,2
+P0734,Michael Moore,Other,17,2024-02-16,2024-03-02,Orthopedics,Jerry Jones,Fracture,Amoxicillin,66013.77,ICU,Insurance,Referred,Courtney Knight,Yes,15
+P0735,Kevin Lopez,Other,28,2024-02-23,2024-02-25,Oncology,Thomas Reese,Flu,Amoxicillin,50784.5,Private,Cash,Recovered,Daniel Cortez,No,2
+P0736,George Mitchell,Other,85,2025-02-23,2025-03-01,Pediatrics,Janet Tucker,Migraine,Metformin,31268.77,General,Insurance,Recovered,Mr. Richard Cline,Yes,6
+P0737,Benjamin Myers,Male,41,2023-07-20,2023-07-25,Cardiology,Jason Jones,Flu,Amoxicillin,43917.34,General,Cash,Deceased,Tracy Thomas,Yes,5
+P0738,Robert Webster,Male,39,2023-10-12,2023-10-18,Oncology,Mary Barnes,Hypertension,Metformin,72075.77,ICU,Online,Recovered,Richard Cordova,No,6
+P0739,Jeremy Garcia,Female,89,2024-04-16,2024-04-29,Pediatrics,Devin Phillips,Asthma,Atorvastatin,32968.97,General,Online,Recovered,James Newman,No,13
+P0740,Lisa Andrews,Other,13,2025-03-06,2025-03-15,Pediatrics,Brian Estrada,Cancer,Atorvastatin,41441.39,ICU,Cash,Recovered,Dr. Melissa Drake,No,9
+P0741,Richard Riggs,Male,79,2023-08-10,2023-08-16,General Medicine,Jacob Jenkins,Fracture,Amoxicillin,11500.61,Private,Cash,Deceased,Jennifer Hill,Yes,6
+P0742,Brittany Wilcox,Other,26,2024-06-20,2024-06-22,Oncology,Edwin Petersen,Fracture,Atorvastatin,58036.16,Private,Insurance,Deceased,Kathleen Clark,No,2
+P0743,Jacob Potts,Other,54,2024-12-15,2024-12-28,Pediatrics,Stacy Garcia,Asthma,Metformin,33448.58,General,Online,Referred,Gabriel Boyd,No,13
+P0744,Marcus Ibarra,Male,61,2024-12-07,2024-12-22,Orthopedics,Patricia Lee,Fracture,Paracetamol,30852.96,Private,Online,Referred,Michael Hull,Yes,15
+P0745,Linda Nguyen,Male,10,2024-07-29,2024-08-01,Oncology,Amy Stone,Migraine,Metformin,51566.04,Private,Insurance,Recovered,Megan Lopez,Yes,3
+P0746,Jeffrey Pittman,Female,80,2025-05-05,2025-05-06,Oncology,Michael Dawson,Hypertension,Paracetamol,67444.06,ICU,Insurance,Deceased,Aaron Fields,No,1
+P0747,Amy Baxter,Female,75,2025-04-16,2025-04-17,Pediatrics,Erin Taylor,Diabetes,Amoxicillin,41458.09,ICU,Online,Deceased,Jeremy Pitts,No,1
+P0748,Natasha Williams,Female,13,2025-06-02,2025-06-16,General Medicine,Angela Bowen,Fracture,Paracetamol,91213.11,General,Insurance,Referred,Veronica Murphy,No,14
+P0749,Eric Mitchell,Female,69,2024-10-01,2024-10-11,Oncology,Steven Allen,Cancer,Metformin,69263.57,General,Insurance,Deceased,Justin Smith,No,10
+P0750,Bailey Villarreal,Other,39,2024-02-08,2024-02-20,Neurology,Kurt Preston,Fracture,Amoxicillin,45051.4,Private,Online,Deceased,Keith Gibson,Yes,12
+P0751,Timothy Hunt,Male,5,2024-10-22,2024-10-23,Orthopedics,Donna Rice,Asthma,Metformin,7591.74,Private,Cash,Deceased,Jacob Jones,Yes,1
+P0752,Brenda Gaines,Male,43,2023-09-04,2023-09-09,Cardiology,Paula Klein,Fracture,Metformin,64323.91,General,Insurance,Deceased,Casey Jimenez,No,5
+P0753,Kimberly Hinton,Other,5,2023-10-14,2023-10-25,Orthopedics,Timothy French,Cancer,Omeprazole,58800.26,Private,Cash,Referred,Matthew Hall,Yes,11
+P0754,Jacqueline Kennedy,Female,84,2024-03-23,2024-03-31,Oncology,Jordan Strong,Migraine,Metformin,50435.59,Private,Online,Recovered,Deborah Davidson,No,8
+P0755,Blake Rich,Male,72,2024-06-26,2024-07-06,General Medicine,Christopher Lane,Hypertension,Atorvastatin,38883.13,ICU,Insurance,Deceased,James Moore,Yes,10
+P0756,Christopher Caldwell,Other,88,2024-04-07,2024-04-15,Pediatrics,Kevin Stone,Asthma,Atorvastatin,22286.22,General,Insurance,Deceased,Jason Russo,No,8
+P0757,Tom Clay,Other,24,2024-06-20,2024-06-25,Neurology,William Hawkins,Migraine,Paracetamol,97893.7,Private,Online,Recovered,Becky Arellano,Yes,5
+P0758,Eric Stone,Male,79,2024-03-15,2024-03-26,Oncology,Brenda Campbell,Migraine,Paracetamol,39884.27,Private,Cash,Deceased,Jennifer Carter,Yes,11
+P0759,Jasmine Kim,Female,78,2025-06-07,2025-06-22,Oncology,Paula Long,Migraine,Amoxicillin,79130.9,ICU,Cash,Referred,Samantha Smith,Yes,15
+P0760,Jenna Lynch,Other,13,2025-04-10,2025-04-17,Orthopedics,Sophia Wilson,Cancer,Omeprazole,70747.18,Private,Insurance,Deceased,Thomas Herrera,Yes,7
+P0761,Michelle Robinson,Other,49,2023-06-18,2023-07-01,Neurology,Nicole Huber,Fracture,Omeprazole,85256.05,Private,Online,Deceased,Keith Edwards,No,13
+P0762,Andrew Harvey,Male,87,2025-06-07,2025-06-17,General Medicine,Jennifer Powell,Cancer,Amoxicillin,53997.89,Private,Online,Referred,Lisa Baker,No,10
+P0763,Samantha Barnett,Female,76,2025-03-24,2025-03-30,General Medicine,Geoffrey Dixon,Diabetes,Amoxicillin,99698.25,General,Online,Recovered,Henry Collins,No,6
+P0764,Nicole Anderson,Male,90,2024-06-04,2024-06-09,Orthopedics,Thomas Hall,Asthma,Paracetamol,5199.27,Private,Online,Referred,Ricardo Morgan,Yes,5
+P0765,Kristin Hudson,Other,16,2024-01-03,2024-01-17,Pediatrics,Samuel Smith,Fracture,Atorvastatin,57213.55,ICU,Insurance,Recovered,Alexis Clark,Yes,14
+P0766,Seth Brown,Male,45,2023-11-17,2023-11-19,Orthopedics,Kyle Vincent,Flu,Paracetamol,7446.87,General,Online,Deceased,Ryan Phillips,Yes,2
+P0767,Michelle Hernandez,Other,87,2024-06-17,2024-06-21,General Medicine,Elizabeth Hudson,Diabetes,Atorvastatin,46365.27,ICU,Insurance,Recovered,Jay Montoya,No,4
+P0768,Sherri Woods,Female,31,2024-03-02,2024-03-13,Cardiology,Johnny Hayes,Diabetes,Metformin,6718.09,General,Insurance,Recovered,John Mcgrath,Yes,11
+P0769,Michael Holder,Other,61,2023-12-21,2024-01-05,General Medicine,Kurt Thompson,Fracture,Metformin,25374.18,ICU,Cash,Deceased,Joshua Moore,Yes,15
+P0770,Dana Lloyd,Female,66,2025-04-23,2025-05-03,Pediatrics,Stacy Gaines,Migraine,Amoxicillin,19346.12,General,Online,Recovered,Alicia Huff,No,10
+P0771,Lindsay Gutierrez,Female,51,2023-11-23,2023-11-24,Pediatrics,Michelle King,Flu,Paracetamol,65118.22,ICU,Online,Deceased,Patricia Christian,No,1
+P0772,Stacy Bailey,Female,57,2024-01-07,2024-01-16,Orthopedics,Mrs. Christina Hudson,Asthma,Amoxicillin,12185.6,General,Cash,Deceased,Annette Riggs,Yes,9
+P0773,Sara Watkins,Female,71,2023-08-13,2023-08-17,Pediatrics,Jamie Ferguson,Asthma,Atorvastatin,12834.94,Private,Cash,Deceased,April Wilson,No,4
+P0774,Steven Barber,Male,32,2024-09-14,2024-09-19,General Medicine,Christopher Malone,Asthma,Paracetamol,62730.2,General,Insurance,Referred,Madison Nelson,No,5
+P0775,Derrick Cox,Male,76,2025-01-08,2025-01-17,Orthopedics,Kim Everett,Asthma,Atorvastatin,95211.71,ICU,Insurance,Recovered,Christina Collier,Yes,9
+P0776,Daniel Long,Female,65,2025-02-17,2025-03-03,General Medicine,Molly Freeman,Migraine,Amoxicillin,4343.98,Private,Online,Recovered,Grant Lee,Yes,14
+P0777,Matthew Henderson,Female,83,2024-06-19,2024-06-24,Orthopedics,Daniel Cooper,Hypertension,Atorvastatin,81424.2,ICU,Insurance,Deceased,Joseph Chase,Yes,5
+P0778,Richard Hampton,Male,61,2024-01-03,2024-01-17,Cardiology,Jordan Peterson,Migraine,Amoxicillin,41954.71,General,Cash,Deceased,Tanya George,No,14
+P0779,David Adams,Male,67,2024-07-04,2024-07-11,Pediatrics,Beth Avery,Flu,Omeprazole,54218.4,ICU,Insurance,Referred,Diane Vincent,Yes,7
+P0780,Patricia Romero,Other,67,2025-04-25,2025-04-30,Oncology,Erica Davis,Diabetes,Amoxicillin,39539.72,Private,Insurance,Recovered,Michael Frost,Yes,5
+P0781,Justin Porter,Male,45,2023-08-28,2023-09-01,Neurology,Aaron Hernandez,Flu,Amoxicillin,77870.39,Private,Insurance,Recovered,Sharon Willis,No,4
+P0782,Todd Santos,Other,73,2023-10-14,2023-10-19,Oncology,Melanie Villanueva,Hypertension,Paracetamol,13353.22,ICU,Cash,Recovered,Janice Johnson,No,5
+P0783,Courtney Pope,Male,36,2024-10-19,2024-10-28,Pediatrics,Carla Escobar,Fracture,Amoxicillin,60135.07,Private,Cash,Deceased,Courtney Lee,Yes,9
+P0784,Jordan Hall,Male,47,2024-07-15,2024-07-23,Cardiology,Matthew May,Diabetes,Metformin,66300.61,ICU,Cash,Referred,Kenneth Campos,Yes,8
+P0785,Dawn Mcguire,Other,90,2025-04-27,2025-05-06,Pediatrics,Brittany Gamble,Hypertension,Atorvastatin,28827.42,ICU,Insurance,Referred,Dr. Teresa Shelton MD,No,9
+P0786,James Snyder,Other,61,2024-10-18,2024-10-24,Orthopedics,Robert Hampton,Flu,Paracetamol,59168.85,Private,Online,Referred,Tina Nelson,No,6
+P0787,Jeffrey Ramirez,Female,86,2024-06-26,2024-07-07,Orthopedics,Devin Peck,Migraine,Amoxicillin,88800.56,ICU,Online,Recovered,Cynthia Dean,Yes,11
+P0788,Paula Roberts,Other,41,2025-05-22,2025-06-06,Orthopedics,Gary Olson,Asthma,Paracetamol,81186.62,General,Online,Recovered,Adam Miller,Yes,15
+P0789,David Vaughn,Female,74,2024-10-12,2024-10-16,Pediatrics,Sara Salazar,Migraine,Paracetamol,62721.52,Private,Cash,Deceased,Matthew Chang,Yes,4
+P0790,Alicia Shaw,Other,48,2024-05-31,2024-06-11,Oncology,John Parker,Asthma,Amoxicillin,4473.47,Private,Online,Recovered,Miranda Faulkner,Yes,11
+P0791,Jessica Gaines,Other,8,2025-05-04,2025-05-19,Cardiology,Tiffany Moore,Hypertension,Amoxicillin,40177.85,Private,Online,Deceased,Natasha Cortez,No,15
+P0792,Christopher Davis,Female,8,2025-01-18,2025-01-28,Cardiology,Jennifer Petersen,Diabetes,Amoxicillin,31455.92,General,Online,Deceased,Karen Lopez,Yes,10
+P0793,Tara Waller,Other,74,2025-02-23,2025-03-02,Oncology,Dr. Tommy Johnston,Fracture,Omeprazole,49948.72,Private,Insurance,Deceased,James Townsend,No,7
+P0794,Kristen Trevino,Other,11,2025-03-21,2025-04-02,Cardiology,Haley Gallegos,Asthma,Paracetamol,56034.81,Private,Insurance,Recovered,Melissa Johnson,No,12
+P0795,Virginia Hill,Other,71,2024-02-24,2024-03-02,Neurology,Joseph Edwards,Flu,Atorvastatin,78215.27,General,Insurance,Referred,Charles King,No,7
+P0796,Matthew Smith,Male,1,2023-09-29,2023-10-01,Oncology,Valerie Murray,Hypertension,Metformin,33971.29,ICU,Online,Referred,Caitlin Blevins,Yes,2
+P0797,Jamie Miller,Female,37,2024-08-27,2024-09-08,Neurology,Daniel Carlson,Migraine,Amoxicillin,45954.7,ICU,Cash,Deceased,Jeremiah Green,Yes,12
+P0798,Virginia Gill,Male,80,2023-06-21,2023-07-06,Oncology,Cheryl Williams,Hypertension,Metformin,9900.95,Private,Insurance,Referred,Dustin Bell,Yes,15
+P0799,Matthew Hernandez,Female,25,2023-07-24,2023-07-29,Oncology,Andrew Smith,Migraine,Metformin,38911.32,ICU,Online,Referred,Sarah Tran,Yes,5
+P0800,Ryan Wright,Other,29,2024-12-11,2024-12-19,Neurology,Roy Taylor,Migraine,Amoxicillin,35499.6,Private,Cash,Referred,Kimberly Smith,Yes,8
+P0801,Dominique Warren,Female,53,2023-10-07,2023-10-16,Oncology,Melissa Long,Hypertension,Amoxicillin,79117.08,General,Online,Deceased,Elizabeth Griffith,Yes,9
+P0802,Eric Ford,Other,26,2025-04-15,2025-04-19,Pediatrics,Amy Moran,Fracture,Paracetamol,64731.47,Private,Cash,Deceased,Patricia Stephens,Yes,4
+P0803,Dennis Jones,Other,87,2024-01-02,2024-01-09,Oncology,Victoria Mullen,Cancer,Omeprazole,91574.12,Private,Cash,Deceased,Tina Scott,Yes,7
+P0804,Nicole Foster,Male,73,2024-12-01,2024-12-15,Pediatrics,Michael White,Cancer,Metformin,16507.61,Private,Insurance,Referred,John Miller,Yes,14
+P0805,Justin Mathews,Female,11,2025-03-30,2025-04-06,Oncology,Donna Vaughn,Hypertension,Metformin,45265.46,ICU,Insurance,Deceased,Allison Mosley,No,7
+P0806,Krista Schneider,Female,21,2025-03-28,2025-04-10,Neurology,Sharon Ruiz,Fracture,Amoxicillin,95812.47,ICU,Online,Referred,Kelly Velez,No,13
+P0807,Brianna Patterson,Other,39,2024-05-09,2024-05-16,General Medicine,Scott Smith,Asthma,Amoxicillin,2236.15,General,Online,Recovered,Ashley Matthews,Yes,7
+P0808,Luis Gordon,Other,89,2024-03-10,2024-03-13,Neurology,Alexander Watts,Fracture,Atorvastatin,24488.26,ICU,Insurance,Referred,Harold Peterson,No,3
+P0809,Margaret Coleman,Other,28,2024-03-02,2024-03-13,Cardiology,Jacqueline Gilbert,Hypertension,Amoxicillin,76284.03,General,Insurance,Deceased,John Miller,Yes,11
+P0810,Clayton Hart,Female,38,2023-09-03,2023-09-14,Oncology,Kevin Swanson,Flu,Metformin,6892.54,General,Cash,Recovered,Jorge Collins,No,11
+P0811,Destiny Brooks,Other,1,2025-01-10,2025-01-18,Neurology,Matthew Kane,Flu,Amoxicillin,35202.98,ICU,Cash,Deceased,Mariah Neal,No,8
+P0812,Jordan Gray,Female,16,2024-01-22,2024-02-04,Orthopedics,Steve Singh,Migraine,Metformin,75631.18,General,Insurance,Recovered,Joseph Morgan,No,13
+P0813,Timothy Richardson,Female,31,2023-09-27,2023-10-09,Cardiology,Mr. Johnny Carter,Diabetes,Atorvastatin,69197.64,ICU,Online,Recovered,Amanda Robbins DDS,No,12
+P0814,Jerry Black,Other,68,2025-05-27,2025-06-02,Orthopedics,James Henderson,Hypertension,Omeprazole,38321.83,ICU,Insurance,Referred,Tina Jones,No,6
+P0815,Juan Garza,Male,43,2023-09-29,2023-10-01,Pediatrics,Anthony Johnson,Fracture,Amoxicillin,79253.48,General,Online,Referred,Thomas Ryan,No,2
+P0816,Alison Abbott,Male,72,2023-08-13,2023-08-16,Neurology,Susan Nichols,Asthma,Metformin,33726.09,Private,Insurance,Referred,Carlos Johnson,No,3
+P0817,Michael Armstrong,Female,77,2024-07-26,2024-08-10,Neurology,Deborah Garcia,Diabetes,Metformin,9922.83,ICU,Insurance,Recovered,Chase Mack,Yes,15
+P0818,Mary Becker,Female,41,2024-11-16,2024-11-26,Oncology,Caitlin Carr,Flu,Amoxicillin,54703.07,ICU,Insurance,Deceased,Shane Hall,No,10
+P0819,Angela Cohen,Male,36,2023-11-20,2023-11-29,General Medicine,Zachary Jordan,Asthma,Amoxicillin,8336.57,ICU,Insurance,Deceased,Regina Payne,No,9
+P0820,Austin Lin,Other,19,2023-08-01,2023-08-11,Orthopedics,Jerome Cunningham,Migraine,Amoxicillin,80935.18,ICU,Online,Referred,Robert Cox,Yes,10
+P0821,Brian Nelson,Female,12,2023-07-06,2023-07-13,General Medicine,Jamie Burgess,Flu,Amoxicillin,19567.09,ICU,Cash,Deceased,Rodney Hopkins,Yes,7
+P0822,Thomas Flores,Other,17,2025-05-29,2025-06-13,Neurology,Joan Collins,Hypertension,Atorvastatin,81165.52,General,Cash,Referred,Andrew Bernard,No,15
+P0823,Richard Benson,Other,37,2024-09-10,2024-09-12,Pediatrics,Stacey Fields,Fracture,Omeprazole,36364.45,Private,Online,Referred,Cory Smith,Yes,2
+P0824,Katrina Brady,Female,65,2024-07-22,2024-07-27,General Medicine,Timothy Anderson,Hypertension,Omeprazole,67342.97,ICU,Cash,Recovered,Patrick Santos,No,5
+P0825,Joyce Ross,Female,55,2024-12-09,2024-12-20,General Medicine,Maria Thompson,Fracture,Amoxicillin,61281.54,ICU,Insurance,Recovered,Mary Marshall,Yes,11
+P0826,Edward Holt II,Female,80,2024-08-12,2024-08-15,Oncology,Jason Hall,Asthma,Amoxicillin,30624.96,ICU,Cash,Deceased,Henry Combs,Yes,3
+P0827,Jeremy Ramirez,Other,35,2024-05-27,2024-06-09,Neurology,Robert Anderson,Fracture,Omeprazole,49781.33,ICU,Insurance,Deceased,Zachary Lowery,No,13
+P0828,Shaun Khan,Female,35,2023-09-05,2023-09-16,Oncology,William Morris,Fracture,Paracetamol,49973.59,Private,Online,Recovered,Nicholas Mcdonald,No,11
+P0829,Christina Morgan,Male,69,2024-02-24,2024-03-10,Cardiology,Michelle Thompson,Hypertension,Omeprazole,3691.1,General,Cash,Deceased,Robert Vazquez,Yes,15
+P0830,Scott Wallace,Female,32,2025-05-20,2025-05-30,Neurology,Cheryl Patterson,Migraine,Atorvastatin,60058.65,ICU,Cash,Referred,Danielle Thomas,No,10
+P0831,Gabrielle Morrison,Female,2,2025-05-02,2025-05-14,Oncology,Jacqueline Wells,Cancer,Amoxicillin,18632.28,Private,Insurance,Recovered,Sarah Baldwin,Yes,12
+P0832,Stacey Patel,Female,10,2024-04-22,2024-05-02,Oncology,Heidi Lowe,Flu,Omeprazole,76583.56,General,Insurance,Recovered,Matthew Chapman,No,10
+P0833,Andrew Williams,Male,43,2024-10-21,2024-11-04,Orthopedics,Alexandra Wilson,Diabetes,Paracetamol,74111.91,ICU,Online,Referred,Sean Carr,Yes,14
+P0834,James Taylor,Male,7,2024-03-05,2024-03-15,Neurology,Ruth Wall,Migraine,Atorvastatin,87376.25,General,Cash,Recovered,Michael Hebert,No,10
+P0835,Ronald Freeman,Female,27,2024-02-11,2024-02-18,Orthopedics,Katherine Nicholson,Migraine,Metformin,34199.94,ICU,Cash,Deceased,Craig Greene,No,7
+P0836,Brian Conrad,Female,50,2024-11-22,2024-11-26,Pediatrics,Ashley Faulkner,Migraine,Amoxicillin,66686.66,Private,Online,Referred,Joshua Vincent,No,4
+P0837,Michael Carpenter,Male,46,2023-06-16,2023-06-20,Orthopedics,Thomas Hale,Migraine,Atorvastatin,63912.15,General,Cash,Deceased,Sara Cross,No,4
+P0838,Margaret Parker,Other,13,2024-01-27,2024-02-05,Pediatrics,Savannah Rodriguez,Cancer,Amoxicillin,53429.58,Private,Online,Referred,Chelsea Richard,Yes,9
+P0839,Brandon Hart,Other,53,2025-04-01,2025-04-11,General Medicine,Troy Newton,Fracture,Omeprazole,30090.34,ICU,Insurance,Referred,Brett Santiago,No,10
+P0840,Shannon Payne,Other,88,2025-01-23,2025-01-26,Cardiology,Carl Mclaughlin,Diabetes,Atorvastatin,90581.56,General,Online,Referred,Susan Dennis,Yes,3
+P0841,Aaron Boyle,Female,22,2024-10-11,2024-10-20,Neurology,Joshua Perez,Flu,Paracetamol,28090.17,ICU,Online,Referred,Abigail Rosario,Yes,9
+P0842,James Brady,Female,89,2024-05-13,2024-05-18,General Medicine,Robert Padilla,Asthma,Metformin,2551.12,General,Insurance,Referred,Joseph Russell,Yes,5
+P0843,Eric Mann,Other,89,2023-08-23,2023-09-01,Orthopedics,Andrew Torres,Cancer,Metformin,16922.84,Private,Online,Referred,Lori Benson,No,9
+P0844,Sandra Scott,Female,27,2023-09-09,2023-09-23,Orthopedics,Daniel Norton,Diabetes,Atorvastatin,21561.53,Private,Online,Referred,Jenny Arias,No,14
+P0845,Kevin Johnson,Other,5,2024-02-10,2024-02-16,Cardiology,Terri Franklin,Asthma,Atorvastatin,66874.12,General,Online,Deceased,Kristin Ward,Yes,6
+P0846,Ellen Johnson,Female,66,2025-05-31,2025-06-11,General Medicine,Brad Simmons,Cancer,Omeprazole,10407.2,ICU,Insurance,Deceased,Vanessa Nelson,Yes,11
+P0847,Cole Allison,Other,52,2024-10-29,2024-11-04,General Medicine,Melissa Roberts,Fracture,Amoxicillin,23666.43,Private,Cash,Deceased,Samuel Joseph,No,6
+P0848,Kenneth Hughes,Female,56,2024-02-02,2024-02-14,Cardiology,Ann Taylor,Migraine,Omeprazole,71300.94,Private,Insurance,Deceased,Ashley Warren,Yes,12
+P0849,Kimberly Hunt,Male,53,2024-08-22,2024-09-04,General Medicine,Kelsey Yates,Flu,Paracetamol,45693.2,General,Cash,Referred,Shannon Thomas,No,13
+P0850,Kathleen Ward,Female,37,2025-04-18,2025-04-23,Oncology,Michele Small,Migraine,Omeprazole,28098.16,General,Cash,Referred,Robert Scott,Yes,5
+P0851,Brandon Hopkins,Other,24,2025-04-14,2025-04-15,Neurology,John Oliver,Migraine,Metformin,9883.68,ICU,Cash,Deceased,Steve Harrison,No,1
+P0852,Nicole Davis,Female,16,2025-05-16,2025-05-28,Orthopedics,Laura Simmons,Flu,Metformin,53996.94,Private,Online,Recovered,John Rangel,No,12
+P0853,Mr. Sean Sawyer,Female,90,2025-02-04,2025-02-07,Orthopedics,Mark Byrd,Migraine,Amoxicillin,20567.41,General,Insurance,Recovered,Christopher Franco,No,3
+P0854,Anna Logan,Male,77,2024-10-12,2024-10-21,General Medicine,Jasmine Osborne,Hypertension,Amoxicillin,25878.03,General,Insurance,Deceased,Joseph Alexander,Yes,9
+P0855,Aaron Bishop,Male,8,2024-09-17,2024-09-19,Pediatrics,Angela Jefferson,Migraine,Amoxicillin,71365.36,Private,Insurance,Deceased,Angela Fields,No,2
+P0856,Traci Huff,Female,73,2025-05-20,2025-05-31,Cardiology,Jasmine Washington,Migraine,Atorvastatin,44066.31,ICU,Insurance,Recovered,Cory Terry,No,11
+P0857,Justin Nelson,Male,29,2025-03-17,2025-03-26,Oncology,George Hubbard,Flu,Omeprazole,60182.3,General,Online,Deceased,Deborah Green,Yes,9
+P0858,Angel Orr,Male,9,2025-05-15,2025-05-24,Pediatrics,Andrew Schneider,Fracture,Paracetamol,27628.71,ICU,Cash,Recovered,Curtis Gates,No,9
+P0859,Mary Mason,Female,38,2024-07-05,2024-07-18,Pediatrics,Carlos Barron,Flu,Amoxicillin,64060.27,ICU,Online,Recovered,Matthew Matthews,Yes,13
+P0860,David Ho PhD,Other,20,2025-02-10,2025-02-14,Pediatrics,Cole Edwards,Fracture,Atorvastatin,60339.33,ICU,Insurance,Recovered,Jane Jones,No,4
+P0861,Charles Haynes,Other,78,2024-12-10,2024-12-20,Cardiology,George Reeves,Cancer,Amoxicillin,9273.96,General,Insurance,Recovered,Tracy Herrera,No,10
+P0862,Jeffrey Holloway,Other,13,2023-11-23,2023-11-24,Oncology,Jennifer Brown,Flu,Atorvastatin,8856.29,Private,Insurance,Referred,Larry Gallegos,Yes,1
+P0863,Timothy Rogers,Female,30,2025-05-16,2025-05-21,Pediatrics,Jimmy Ramos,Fracture,Paracetamol,89724.88,General,Cash,Recovered,Jeanette Miller,No,5
+P0864,Steven Mitchell,Female,50,2023-10-09,2023-10-14,Neurology,Heidi Terry,Hypertension,Amoxicillin,5315.96,Private,Online,Recovered,David Garcia,No,5
+P0865,Michelle Wells,Female,76,2025-03-13,2025-03-22,Orthopedics,Jessica Webb,Hypertension,Paracetamol,2517.32,General,Online,Recovered,Lorraine Owens,No,9
+P0866,Maria Daugherty,Other,2,2025-03-02,2025-03-07,Neurology,Tracy Hart,Diabetes,Metformin,62760.49,ICU,Online,Referred,Jared Wilson,No,5
+P0867,Margaret Cox,Male,33,2025-01-18,2025-01-21,Orthopedics,Misty Hampton,Flu,Amoxicillin,15429.4,Private,Cash,Referred,Alexis Burns,Yes,3
+P0868,Brenda Rogers,Other,44,2024-05-02,2024-05-17,General Medicine,Brian Parks,Flu,Omeprazole,96758.98,Private,Insurance,Recovered,Shannon Nguyen,No,15
+P0869,Joshua Ford,Female,1,2023-09-01,2023-09-15,Cardiology,Mark Riggs,Hypertension,Paracetamol,53127.12,ICU,Cash,Deceased,Jeffrey Vaughan,Yes,14
+P0870,Nicholas Garner,Male,56,2024-06-29,2024-07-01,General Medicine,Sandra Cole,Hypertension,Paracetamol,11978.53,Private,Online,Referred,Kayla Davis,No,2
+P0871,David Swanson,Other,79,2024-03-14,2024-03-24,Orthopedics,Jaime Sloan,Diabetes,Amoxicillin,6000.93,Private,Online,Deceased,Sara Pierce,No,10
+P0872,Lance Scott,Male,74,2023-10-23,2023-11-04,General Medicine,Michael Bryant,Asthma,Atorvastatin,6627.03,Private,Online,Deceased,Darin Valdez,Yes,12
+P0873,Justin Reyes,Other,32,2025-03-15,2025-03-28,Pediatrics,Richard Pierce,Hypertension,Atorvastatin,80251.78,Private,Online,Deceased,Deborah Parker,No,13
+P0874,Stephanie Bell,Female,52,2024-08-03,2024-08-09,Orthopedics,Courtney Carter,Fracture,Paracetamol,86742.07,ICU,Cash,Recovered,Sara Mccarty,No,6
+P0875,Alejandro Hines,Male,23,2023-12-13,2023-12-21,Cardiology,Carrie Burnett,Cancer,Paracetamol,26278.94,General,Cash,Recovered,Kelly Hayes,Yes,8
+P0876,Marissa Osborne,Male,23,2024-03-14,2024-03-28,Orthopedics,Christine Williamson,Migraine,Paracetamol,56663.85,ICU,Online,Recovered,Natalie Williams,Yes,14
+P0877,Daniel Howard,Other,61,2024-02-23,2024-02-25,Orthopedics,Brian Stewart,Hypertension,Metformin,3938.16,Private,Online,Referred,Christopher Sanchez,No,2
+P0878,Justin Hall,Other,5,2023-10-22,2023-10-23,General Medicine,Rodney Decker,Asthma,Paracetamol,3069.21,General,Cash,Referred,Roger Gonzalez,No,1
+P0879,Michele Dominguez,Male,37,2023-11-16,2023-11-17,Pediatrics,Jennifer Lee,Asthma,Atorvastatin,54732.03,General,Online,Deceased,Kelly Luna,No,1
+P0880,Todd Hunter,Male,61,2023-08-10,2023-08-21,Orthopedics,Julia Mendoza,Cancer,Paracetamol,22799.25,ICU,Online,Deceased,Jeffrey Bailey,No,11
+P0881,Christopher Parker,Male,74,2023-10-14,2023-10-25,Oncology,John Hayes,Fracture,Amoxicillin,23523.05,General,Online,Deceased,Brian Sullivan,Yes,11
+P0882,Robert Walls,Female,48,2023-12-21,2024-01-01,Pediatrics,Eric Sawyer,Fracture,Atorvastatin,97667.05,ICU,Insurance,Recovered,Kenneth Cross,No,11
+P0883,John Cook,Other,9,2024-11-16,2024-11-17,Oncology,Brendan Norris,Flu,Amoxicillin,84739.26,Private,Insurance,Recovered,Brittany Anderson DVM,No,1
+P0884,Hunter Riggs,Other,36,2024-02-03,2024-02-08,Neurology,Emily Freeman,Cancer,Paracetamol,14341.86,General,Insurance,Recovered,Tiffany Serrano,Yes,5
+P0885,Adam Robinson,Male,4,2025-02-20,2025-02-24,General Medicine,Jeffery Hernandez PhD,Fracture,Omeprazole,25313.72,Private,Insurance,Deceased,John Schmidt,No,4
+P0886,Alison Miranda DDS,Male,31,2024-10-02,2024-10-10,General Medicine,Kimberly Mullins,Diabetes,Paracetamol,76076.27,ICU,Cash,Deceased,Robert Moreno,Yes,8
+P0887,Glenn Campbell,Other,66,2024-10-11,2024-10-15,General Medicine,Brianna Clark,Diabetes,Metformin,6971.87,Private,Cash,Recovered,Emily Powers,Yes,4
+P0888,Taylor Clayton,Female,71,2023-09-08,2023-09-16,Oncology,Michelle Williams,Migraine,Amoxicillin,63499.6,Private,Insurance,Referred,Emma Rodriguez,Yes,8
+P0889,Angela Woodward,Other,63,2023-09-15,2023-09-26,Orthopedics,Julie Huerta,Asthma,Metformin,52269.51,Private,Online,Deceased,Lisa Holmes,No,11
+P0890,Thomas Hanna,Other,3,2024-11-06,2024-11-12,General Medicine,Lori Gibson,Diabetes,Metformin,41160.58,ICU,Cash,Deceased,Shelby Camacho,Yes,6
+P0891,Melissa Nelson,Female,40,2025-02-11,2025-02-24,Oncology,Laura Jordan,Flu,Amoxicillin,10547.79,Private,Online,Recovered,Stephanie Wolfe,No,13
+P0892,Joseph Clark,Female,70,2024-12-16,2024-12-21,General Medicine,Stephen Jackson,Diabetes,Metformin,84403.91,Private,Insurance,Deceased,Andrew Little,Yes,5
+P0893,Billy Burton,Male,63,2023-10-07,2023-10-21,Pediatrics,Matthew Kerr,Cancer,Omeprazole,26966.06,Private,Insurance,Deceased,Patrick Anderson,No,14
+P0894,Mrs. Jennifer Padilla,Male,40,2023-09-18,2023-10-01,Oncology,David Day,Migraine,Omeprazole,91729.1,Private,Online,Recovered,Joseph Fox,No,13
+P0895,Samantha Gould,Other,84,2024-08-03,2024-08-10,Cardiology,Mr. Scott Roy,Cancer,Metformin,48424.13,General,Online,Recovered,Jose Williams,No,7
+P0896,Brian Galloway,Male,62,2025-04-04,2025-04-19,Neurology,Felicia Meyer,Migraine,Atorvastatin,22235.55,ICU,Insurance,Referred,Christina Wilson,No,15
+P0897,Denise Chen,Female,49,2024-05-08,2024-05-21,Neurology,Kristin Williams,Hypertension,Paracetamol,47931.8,General,Cash,Deceased,Susan Reeves,No,13
+P0898,Robert Freeman,Male,73,2024-03-27,2024-04-05,Neurology,Johnny Boyd,Cancer,Atorvastatin,72169.81,General,Online,Recovered,Jon Bradford,Yes,9
+P0899,Fred Brown,Female,81,2025-03-30,2025-04-04,Orthopedics,Michael Garcia,Flu,Paracetamol,32827.12,General,Online,Referred,Chelsea Long,No,5
+P0900,Joshua Marshall,Female,36,2023-11-06,2023-11-07,Cardiology,Joe Johnson,Fracture,Atorvastatin,53180.16,ICU,Online,Recovered,Jessica Cain,Yes,1
+P0901,Susan Griffith,Other,46,2023-07-22,2023-07-24,Orthopedics,Marie Spears,Migraine,Omeprazole,50072.46,ICU,Cash,Recovered,Samantha Phillips,No,2
+P0902,Michael Gibson,Other,45,2023-09-03,2023-09-15,Oncology,William Sullivan,Migraine,Paracetamol,88030.84,ICU,Cash,Deceased,Susan Eaton,No,12
+P0903,Gary Murray,Other,50,2025-01-25,2025-02-07,Oncology,Brenda Edwards,Hypertension,Paracetamol,99131.74,General,Cash,Recovered,Richard Dennis,Yes,13
+P0904,Ralph Ritter,Male,59,2025-06-11,2025-06-19,Oncology,Alexander Swanson,Asthma,Paracetamol,4114.62,Private,Cash,Recovered,William White,No,8
+P0905,Seth Johnson,Other,82,2024-07-20,2024-08-01,Orthopedics,Danielle Love,Flu,Amoxicillin,38717.33,Private,Insurance,Referred,Gary White,Yes,12
+P0906,Deanna Guerrero,Male,6,2023-07-26,2023-08-10,Pediatrics,Brent Scott,Flu,Paracetamol,35432.37,General,Cash,Deceased,Jennifer Bass,Yes,15
+P0907,Scott Miller,Other,24,2025-02-27,2025-03-08,Pediatrics,Jason Herring,Cancer,Metformin,16422.87,ICU,Online,Deceased,Brittany Adams,No,9
+P0908,Joshua Long,Other,48,2024-04-14,2024-04-21,General Medicine,David Mann,Asthma,Metformin,14215.5,ICU,Insurance,Referred,Sarah Ramirez,Yes,7
+P0909,Michael Lang,Other,87,2025-04-13,2025-04-17,Cardiology,John Lester,Migraine,Metformin,50623.16,Private,Cash,Deceased,Diane Johnson,No,4
+P0910,Jordan Lewis,Male,16,2023-09-13,2023-09-14,Pediatrics,Paula Jones,Hypertension,Omeprazole,12791.98,ICU,Insurance,Deceased,Amanda Dixon,No,1
+P0911,Eric Johnson,Other,72,2023-11-04,2023-11-05,Cardiology,Dawn Ashley,Cancer,Metformin,98760.74,ICU,Insurance,Deceased,Lee Ray,Yes,1
+P0912,Holly Romero,Male,57,2024-10-19,2024-10-21,Cardiology,Linda Clayton,Cancer,Metformin,98889.71,Private,Insurance,Recovered,Elizabeth Moody,No,2
+P0913,Perry Johnson,Other,58,2024-01-24,2024-02-02,Oncology,Megan Cole,Hypertension,Omeprazole,21262.02,Private,Insurance,Referred,Mary Nguyen,Yes,9
+P0914,Gabriella Martin,Other,71,2024-06-16,2024-06-26,Orthopedics,Kiara Anderson,Asthma,Metformin,28130.28,ICU,Online,Recovered,Louis Burnett,Yes,10
+P0915,Donna Powers,Male,61,2025-05-02,2025-05-07,Neurology,Jean Mccall,Diabetes,Metformin,84626.91,ICU,Cash,Referred,Katherine Brown,Yes,5
+P0916,Tina Spencer,Other,84,2023-07-08,2023-07-14,General Medicine,Tracey King,Migraine,Omeprazole,87328.14,ICU,Online,Recovered,Dawn Lindsey,Yes,6
+P0917,Carol Perez,Other,23,2025-01-07,2025-01-18,Cardiology,Robert Charles,Cancer,Paracetamol,21681.34,ICU,Insurance,Deceased,Sara Terrell,Yes,11
+P0918,Beth Stephens,Other,88,2023-07-21,2023-08-01,Pediatrics,Shelby Reed,Hypertension,Atorvastatin,44144.51,General,Online,Recovered,Stephen Park,No,11
+P0919,Peter Carr,Male,79,2023-11-12,2023-11-17,Orthopedics,Jerry Maxwell,Migraine,Omeprazole,50614.76,General,Insurance,Referred,Julie Cross,No,5
+P0920,Michael Henderson,Female,23,2024-04-25,2024-05-10,Cardiology,Samuel Rodriguez,Migraine,Amoxicillin,84920.56,ICU,Insurance,Recovered,Melissa Carlson,Yes,15
+P0921,Cory Morris,Female,35,2023-10-26,2023-11-04,General Medicine,John Ryan,Cancer,Paracetamol,50211.22,ICU,Online,Recovered,Judith Wood,Yes,9
+P0922,Rebecca Coleman,Female,42,2024-11-25,2024-11-28,Cardiology,Andrea Lee,Diabetes,Paracetamol,70422.46,ICU,Insurance,Recovered,Tiffany Richards,No,3
+P0923,Jessica Stanton,Other,81,2024-06-24,2024-07-03,Neurology,Victoria Hendrix,Diabetes,Omeprazole,70243.43,General,Cash,Deceased,Jason Garcia MD,No,9
+P0924,Andrea Newman,Female,80,2024-08-14,2024-08-29,Orthopedics,Brittany Nielsen,Diabetes,Omeprazole,42798.55,ICU,Online,Deceased,Michael Mccann,No,15
+P0925,Kim Collins,Other,30,2024-03-07,2024-03-18,Oncology,Louis Whitaker,Cancer,Atorvastatin,98416.65,Private,Cash,Deceased,Adam Davis,No,11
+P0926,Mr. Steven Meyers DDS,Male,6,2025-03-10,2025-03-21,Pediatrics,Cynthia Arellano,Cancer,Metformin,20931.32,General,Online,Deceased,Luis Jackson,No,11
+P0927,Emily Johnson,Female,7,2025-04-11,2025-04-18,Neurology,Jennifer Beltran,Cancer,Omeprazole,49943.05,Private,Insurance,Deceased,Adam Perry,Yes,7
+P0928,Tim Jones,Other,9,2025-01-23,2025-01-26,Orthopedics,Timothy Kaiser,Fracture,Atorvastatin,77112.1,General,Cash,Deceased,Manuel Suarez,Yes,3
+P0929,Megan Adams,Male,53,2024-05-25,2024-06-07,Pediatrics,Sherry Thomas,Asthma,Paracetamol,43418.6,ICU,Insurance,Referred,Chad Nelson,No,13
+P0930,Pamela Valentine,Female,8,2023-08-17,2023-09-01,Neurology,Michael Ross,Hypertension,Atorvastatin,7183.43,General,Cash,Recovered,Dylan Powers,No,15
+P0931,Tina Ortega,Male,85,2025-04-16,2025-04-20,Pediatrics,Phillip Bailey,Fracture,Paracetamol,88842.64,Private,Cash,Referred,Justin Kelly,Yes,4
+P0932,Courtney Pennington,Female,77,2024-06-08,2024-06-22,Neurology,Michael Ellis,Migraine,Atorvastatin,48429.16,ICU,Online,Recovered,Sarah Johnson,No,14
+P0933,Tina Christian,Male,23,2024-06-02,2024-06-16,Cardiology,Joseph Sweeney,Flu,Paracetamol,97319.87,General,Online,Recovered,Marcus Downs,No,14
+P0934,Kathy Henson,Male,17,2024-06-29,2024-07-10,Orthopedics,Lindsay Harris,Hypertension,Paracetamol,93387.33,Private,Cash,Recovered,Denise West,No,11
+P0935,Aaron Silva,Male,48,2023-12-12,2023-12-25,Pediatrics,Wendy Wells,Fracture,Omeprazole,35619.27,ICU,Insurance,Deceased,Wesley Hanson,No,13
+P0936,Elizabeth Solis,Female,48,2024-01-03,2024-01-12,Neurology,Justin Weiss,Migraine,Paracetamol,36290.28,ICU,Online,Recovered,Andre Thompson,No,9
+P0937,Wendy Collins,Female,5,2025-03-25,2025-04-01,Neurology,Sean Campbell,Cancer,Atorvastatin,93716.9,Private,Insurance,Recovered,Diane Crawford,No,7
+P0938,Amy Fisher,Male,70,2024-12-30,2025-01-11,Pediatrics,John Allen,Flu,Amoxicillin,6782.7,ICU,Online,Deceased,Molly Murphy,No,12
+P0939,Christopher Clayton,Male,58,2024-04-19,2024-04-28,Oncology,Julia Patel,Cancer,Metformin,62272.84,ICU,Online,Recovered,Paul Williams,No,9
+P0940,Jonathan Pearson,Other,46,2023-11-20,2023-11-24,Oncology,Michaela Marshall,Fracture,Omeprazole,29001.12,General,Cash,Deceased,Sarah Serrano,No,4
+P0941,Joseph Miranda,Male,13,2024-09-23,2024-09-30,General Medicine,Kara Ramos,Migraine,Amoxicillin,89300.03,Private,Insurance,Recovered,Jasmine Rosales,Yes,7
+P0942,Harry Smith,Other,29,2025-04-16,2025-04-26,Pediatrics,Danny Garner,Cancer,Paracetamol,70868.43,ICU,Online,Referred,Michael Mason,Yes,10
+P0943,Dominic Delacruz,Female,44,2023-08-08,2023-08-12,Neurology,Christopher Meyer,Asthma,Omeprazole,68161.08,ICU,Cash,Referred,Daniel Jennings,Yes,4
+P0944,Kayla Ortiz,Female,48,2024-01-18,2024-01-29,Cardiology,Timothy Morrison,Asthma,Amoxicillin,9365.05,ICU,Insurance,Referred,Emily Johnson,Yes,11
+P0945,Regina Sanchez,Male,71,2025-01-18,2025-01-19,Pediatrics,Dominique Sanchez,Fracture,Metformin,10124.21,Private,Insurance,Referred,Matthew Maldonado,No,1
+P0946,Nicholas Weaver,Other,33,2025-02-19,2025-03-03,Cardiology,Amber Rodriguez,Hypertension,Omeprazole,2462.08,General,Cash,Deceased,Jeffrey Hammond,No,12
+P0947,Michael Woods,Female,39,2024-10-18,2024-10-23,Neurology,Robin Griffin,Flu,Paracetamol,49695.74,ICU,Cash,Deceased,Meredith Harris,Yes,5
+P0948,Dana Short,Other,60,2025-04-17,2025-04-18,Orthopedics,Sara Chavez,Asthma,Omeprazole,19324.74,Private,Online,Deceased,Jared Baker,No,1
+P0949,Sandra Gonzalez,Female,39,2024-01-22,2024-01-31,Oncology,Kimberly Martin,Hypertension,Omeprazole,58672.55,General,Online,Referred,Derrick Simpson,Yes,9
+P0950,Angel Young,Female,71,2024-01-15,2024-01-27,Orthopedics,Parker Perry,Migraine,Metformin,18831.89,ICU,Online,Deceased,Danielle Short,No,12
+P0951,Olivia Obrien,Female,8,2024-03-29,2024-04-08,Oncology,Leslie Proctor,Migraine,Paracetamol,32552.56,ICU,Cash,Recovered,Samuel Lowe,No,10
+P0952,Alexis Gentry,Female,7,2024-10-09,2024-10-14,Pediatrics,Michael Wilkinson,Cancer,Paracetamol,34924.84,ICU,Online,Deceased,Jordan Peck,Yes,5
+P0953,Adam Cochran,Other,14,2023-10-12,2023-10-14,Orthopedics,John Smith,Migraine,Atorvastatin,85096.45,ICU,Online,Recovered,Michelle Gilbert,No,2
+P0954,Tanya Villanueva,Female,34,2025-03-27,2025-03-28,Oncology,Samantha Miller,Asthma,Amoxicillin,48991.92,General,Cash,Recovered,Carlos Scott,Yes,1
+P0955,Wendy Weaver,Female,27,2024-05-07,2024-05-13,General Medicine,Richard Evans,Cancer,Paracetamol,84416.76,Private,Cash,Recovered,Jeffrey Williams,No,6
+P0956,Kimberly Bonilla,Female,8,2023-11-19,2023-11-25,Orthopedics,Scott Rodriguez,Diabetes,Omeprazole,88487.26,General,Insurance,Deceased,Dominique Villarreal MD,Yes,6
+P0957,Kimberly Simmons,Male,65,2023-08-10,2023-08-20,Neurology,Catherine Curry,Hypertension,Metformin,40495.18,Private,Cash,Deceased,Miranda Brewer,Yes,10
+P0958,Wendy Richardson,Male,72,2024-12-01,2024-12-02,Orthopedics,Laura Ortiz,Flu,Amoxicillin,72657.24,Private,Online,Deceased,Michelle Cunningham,Yes,1
+P0959,Dakota Hunter,Female,28,2025-02-26,2025-03-01,Oncology,Ryan Nguyen,Migraine,Amoxicillin,58375.76,General,Online,Referred,Stephanie Morton,No,3
+P0960,Christine Murray,Male,67,2023-07-17,2023-07-19,General Medicine,Jerry Phelps,Migraine,Omeprazole,23785.75,General,Cash,Referred,Anne Ramsey,No,2
+P0961,Aaron Chambers,Male,78,2023-10-01,2023-10-04,Cardiology,Rhonda Glass,Hypertension,Amoxicillin,79510.84,General,Cash,Deceased,Veronica Riddle,Yes,3
+P0962,Hailey Perez,Female,74,2023-11-16,2023-11-29,Pediatrics,Nicole Phillips,Hypertension,Paracetamol,68433.37,ICU,Cash,Deceased,Annette Terry,Yes,13
+P0963,Donna Collins,Male,32,2024-12-20,2024-12-24,Neurology,Colleen Swanson,Hypertension,Amoxicillin,26806.24,Private,Online,Recovered,Tami Taylor,No,4
+P0964,Dana Smith,Other,69,2024-10-16,2024-10-28,Neurology,Yesenia Dickerson,Diabetes,Amoxicillin,3005.61,General,Insurance,Deceased,Jason Johnson,Yes,12
+P0965,Christina Dougherty,Other,43,2024-04-02,2024-04-14,Pediatrics,Michael Washington,Flu,Metformin,76191.12,ICU,Online,Deceased,Christina Gonzales,Yes,12
+P0966,Erin Chambers,Male,68,2023-07-24,2023-07-29,Orthopedics,Mark Moyer,Hypertension,Amoxicillin,8121.79,ICU,Insurance,Deceased,Jennifer Williams,No,5
+P0967,William Perez,Female,10,2024-08-17,2024-08-29,Neurology,Stephanie Calderon,Asthma,Amoxicillin,81171.87,ICU,Online,Recovered,David Carlson,Yes,12
+P0968,John Miller,Other,41,2024-09-20,2024-09-22,Neurology,Kyle Griffin,Asthma,Atorvastatin,46496.09,ICU,Insurance,Referred,Rachel Davis,No,2
+P0969,Kyle Burns,Male,61,2024-01-11,2024-01-20,Oncology,Joshua Diaz,Asthma,Atorvastatin,53683.66,ICU,Online,Recovered,Alexis Delgado,No,9
+P0970,Kristin Bailey,Female,67,2023-10-26,2023-11-04,Orthopedics,Monica Morris,Flu,Paracetamol,60427.16,Private,Online,Referred,Jose Greer,No,9
+P0971,Barry Velez,Male,10,2023-11-20,2023-11-26,Orthopedics,Crystal Hunter,Cancer,Metformin,13823.99,Private,Cash,Referred,Tracey Morris MD,Yes,6
+P0972,Daniel Griffith,Male,26,2024-03-08,2024-03-15,Cardiology,Krystal Collins,Diabetes,Omeprazole,81533.34,General,Insurance,Recovered,Ann Obrien,No,7
+P0973,Nina Mccarthy,Other,46,2025-03-05,2025-03-20,Cardiology,Chad Solis,Hypertension,Atorvastatin,30865.44,ICU,Online,Referred,Sandra Blanchard,Yes,15
+P0974,Michele Ray,Male,29,2023-08-21,2023-09-01,Orthopedics,Ashley Jarvis,Cancer,Paracetamol,63311.19,Private,Online,Recovered,Betty Smith,Yes,11
+P0975,Stephanie Johnson,Male,11,2024-03-05,2024-03-19,Cardiology,Jessica Hunt,Fracture,Paracetamol,63568.45,ICU,Insurance,Referred,Lindsey Brown,No,14
+P0976,Bryce Keith,Female,58,2023-12-16,2023-12-17,Neurology,Nicole Walton,Asthma,Paracetamol,82812.9,General,Cash,Recovered,Rhonda Martinez,Yes,1
+P0977,Raymond Mason,Female,86,2023-11-02,2023-11-12,Oncology,Jordan Coleman,Migraine,Metformin,57016.27,General,Online,Referred,Anthony Meyer,Yes,10
+P0978,Kevin Casey,Female,36,2023-12-02,2023-12-17,Pediatrics,Bruce Anderson,Hypertension,Omeprazole,18537.95,ICU,Insurance,Recovered,Nicole Gilbert,Yes,15
+P0979,Linda Alvarado,Male,54,2023-07-23,2023-07-27,Cardiology,Paul Norris,Diabetes,Paracetamol,22640.25,ICU,Cash,Referred,Nicholas Gilmore,No,4
+P0980,Jose Navarro,Other,22,2025-05-28,2025-06-10,Neurology,Albert Gray,Hypertension,Paracetamol,77469.84,General,Cash,Referred,Crystal Jackson,Yes,13
+P0981,Trevor Perkins,Male,89,2024-07-19,2024-07-23,Orthopedics,Ellen Wells,Cancer,Atorvastatin,90703.98,General,Online,Recovered,Leslie Gibson,Yes,4
+P0982,Thomas Bryant,Other,73,2024-08-18,2024-08-21,Oncology,Tina Oconnell,Asthma,Paracetamol,94977.25,ICU,Insurance,Referred,David Jones,Yes,3
+P0983,Donald Davis,Other,29,2023-12-16,2023-12-29,Pediatrics,Heather Torres,Cancer,Metformin,12893.74,ICU,Online,Recovered,Nathan Walters,No,13
+P0984,Nancy Gomez,Other,27,2023-10-17,2023-10-23,Pediatrics,Brian Chan,Flu,Metformin,97339.0,Private,Online,Referred,David Lewis,No,6
+P0985,Cory Morris,Male,57,2023-09-14,2023-09-28,Cardiology,Sara Hughes,Asthma,Omeprazole,79139.93,General,Cash,Referred,Daniel Morgan,Yes,14
+P0986,Julie Garza,Other,86,2024-02-02,2024-02-03,General Medicine,Steven Hamilton,Diabetes,Paracetamol,33682.85,General,Cash,Referred,Allison Davis,Yes,1
+P0987,Lauren Wagner,Female,80,2024-09-17,2024-10-01,General Medicine,Robert Hayes,Asthma,Metformin,59421.18,ICU,Insurance,Referred,Michael Cooper,No,14
+P0988,Claudia Vasquez,Male,49,2024-05-08,2024-05-20,Oncology,Susan Barber,Fracture,Paracetamol,84506.36,General,Insurance,Referred,Angela Smith,Yes,12
+P0989,Dr. Joseph Hudson,Female,24,2023-12-03,2023-12-08,Orthopedics,Robert Kennedy,Hypertension,Amoxicillin,49432.29,General,Cash,Recovered,David Smith,No,5
+P0990,Benjamin Ward,Female,80,2024-02-25,2024-03-03,Orthopedics,Eric Reid,Asthma,Omeprazole,20871.8,Private,Cash,Recovered,Vickie Hamilton,Yes,7
+P0991,Casey Flores,Male,23,2023-07-20,2023-07-28,Oncology,Alan Thompson,Fracture,Atorvastatin,71269.48,ICU,Online,Deceased,Albert Howard,Yes,8
+P0992,Jennifer Garcia,Other,21,2024-06-26,2024-07-06,General Medicine,John Williams,Migraine,Metformin,75205.66,Private,Insurance,Deceased,Hunter Calderon,No,10
+P0993,Jose Thompson,Female,73,2024-07-31,2024-08-14,Cardiology,Jennifer Vazquez,Fracture,Metformin,13022.69,General,Cash,Deceased,Mary Ortega,No,14
+P0994,Jordan Johnson,Female,70,2023-07-10,2023-07-18,Oncology,Scott Lucas,Asthma,Paracetamol,44954.65,ICU,Online,Deceased,Darlene Waller,Yes,8
+P0995,Christopher Gray,Male,82,2025-02-27,2025-02-28,Orthopedics,Julian Werner,Cancer,Amoxicillin,6296.5,ICU,Online,Referred,Michael Kim,No,1
+P0996,Jeffrey Cruz,Other,84,2024-04-18,2024-04-21,General Medicine,Austin Munoz,Migraine,Omeprazole,40504.18,ICU,Cash,Deceased,Carlos Fox,Yes,3
+P0997,Dale Foster,Female,29,2025-01-15,2025-01-21,Pediatrics,Vincent Luna,Cancer,Atorvastatin,39611.4,ICU,Online,Referred,Laura Edwards,Yes,6
+P0998,Derrick White,Female,64,2025-03-25,2025-04-06,Orthopedics,Anthony Li,Hypertension,Amoxicillin,46420.17,ICU,Online,Referred,Roy Griffin,Yes,12
+P0999,Michael Huynh,Other,28,2024-09-16,2024-09-21,Orthopedics,Ryan Hickman,Cancer,Atorvastatin,68368.93,Private,Online,Recovered,Andrew Bryant,No,5
+P1000,Kimberly Heath,Male,73,2025-06-09,2025-06-18,Oncology,Ronald Morrow,Migraine,Atorvastatin,58720.35,General,Online,Deceased,Zoe Powers,No,9
